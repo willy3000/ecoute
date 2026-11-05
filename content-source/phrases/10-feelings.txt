@@ -1,0 +1,38 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Tired, hungry, thirsty
+1 | J'ai faim. | I'm hungry. | 1 | French uses "to have": literally "I have hunger".
+2 | J'ai soif. | I'm thirsty. | 1 | The f at the end is clearly pronounced.
+3 | J'ai sommeil. | I'm sleepy. | 1 | The ending sounds like "may".
+4 | Je n'ai pas faim. | I'm not hungry. | 1 | | J'ai pas faim.
+5 | Je suis épuisé. | I'm exhausted. | 2
+6 | Tu as l'air fatigué. | You look tired. | 2 | | T'as l'air fatigué.
+7 | J'ai besoin de me reposer. | I need to rest. | 2
+## Temperature and comfort
+8 | J'ai chaud. | I'm hot. | 1 | The final d is silent.
+9 | J'ai froid. | I'm cold. | 1 | The final d is silent.
+10 | Il fait trop chaud ici. | It's too hot in here. | 1
+## Emotions
+11 | Je suis content. | I'm happy. | 1 | A woman says "contente", with the t pronounced.
+12 | Je suis très heureux. | I'm very happy. | 1 | A woman says "heureuse".
+13 | Je suis triste. | I'm sad. | 1
+14 | Je suis stressé. | I'm stressed. | 1
+15 | J'ai peur. | I'm scared. | 1
+16 | Je suis en colère. | I'm angry. | 2
+17 | Je suis un peu inquiet. | I'm a little worried. | 2 | A woman says "inquiète", with the t pronounced.
+18 | Ne t'inquiète pas. | Don't worry. | 2 | | T'inquiète pas.
+19 | Ça me fait plaisir. | That makes me happy. | 2
+## Health
+20 | Je ne me sens pas bien. | I don't feel well. | 2 | | Je me sens pas bien.
+21 | Je suis malade. | I'm ill. | 1
+22 | J'ai mal à la tête. | I have a headache. | 1
+23 | J'ai mal au ventre. | I have a stomach ache. | 1
+24 | Où est-ce que tu as mal ? | Where does it hurt? | 2 | | T'as mal où ?
+25 | J'ai besoin d'un médecin. | I need a doctor. | 1
+26 | Ça va mieux aujourd'hui. | I'm feeling better today. | 2
+## Needs and help
+27 | J'ai besoin d'aide. | I need help. | 1
+28 | Tu peux m'aider ? | Can you help me? | 1
+29 | Au secours ! | Help! | 1 | Used only in a real emergency. The final s is silent.
+30 | J'ai besoin de toi. | I need you. | 1
+31 | Je voudrais un peu d'eau. | I'd like a little water. | 1
+32 | Ça va, je n'ai besoin de rien. | I'm fine, I don't need anything. | 2 | | Ça va, j'ai besoin de rien.

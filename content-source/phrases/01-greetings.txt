@@ -1,0 +1,44 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Greetings
+1 | Bonjour ! | Hello! | 1 | The final r is pronounced, softly, at the back of the throat.
+2 | Bonsoir ! | Good evening! | 1 | Used from around early evening, both on arrival and sometimes on leaving.
+3 | Salut ! | Hi! | 1 | The final t is silent. Used with friends and people you know well. | | informal
+## Saying goodbye
+4 | Au revoir ! | Goodbye! | 1 | In relaxed speech it often sounds like "au r'voir".
+5 | À bientôt ! | See you soon! | 1
+6 | À demain ! | See you tomorrow! | 1
+7 | À tout à l'heure ! | See you later! | 2 | Used for later the same day. The t of "tout" links to "à": "tou-t-à".
+8 | Bonne journée ! | Have a good day! | 1
+9 | Bonne soirée ! | Have a good evening! | 1
+10 | Bonne nuit ! | Good night! | 1 | Said when someone is going to bed.
+11 | Bon week-end ! | Have a good weekend! | 1 | "Week-end" is pronounced in the French way, with the stress at the end.
+## Asking how someone is
+12 | Comment ça va ? | How's it going? | 1
+13 | Ça va ? | How are you? | 1 | The tone rises at the end. The answer can also be just "Ça va."
+14 | Ça va bien, merci. | I'm fine, thanks. | 1
+15 | Comment allez-vous ? | How are you? | 2 | Polite form. The t of "comment" links to "allez": "commen-t-allez".
+16 | Je vais très bien, merci. Et vous ? | I'm very well, thank you. And you? | 1
+17 | Et toi, ça va ? | And you, how are you? | 1
+## Introducing yourself
+18 | Je m'appelle Thomas. | My name is Thomas. | 1 | "Je m'appelle" often sounds like "j'm'appelle" in natural speech.
+19 | Comment tu t'appelles ? | What's your name? | 1 | | Tu t'appelles comment ?
+20 | Comment vous appelez-vous ? | What is your name? | 2 | Polite form. Liaison in "vous appelez": "vou-z-appelez".
+21 | Enchanté. | Nice to meet you. | 1 | A woman writes "enchantée", but both forms sound identical.
+22 | Je te présente Marie. | This is Marie. | 2 | Literally "I present Marie to you", the usual way to introduce someone.
+23 | Ravi de vous rencontrer. | Pleased to meet you. | 2 | A woman writes "ravie". Both forms sound identical.
+24 | Je suis américaine. | I'm American. | 1 | A man says "américain", with a nasal vowel at the end.
+25 | Je ne suis pas d'ici. | I'm not from here. | 2 | | Je suis pas d'ici.
+## Where you come from and live
+26 | Tu viens d'où ? | Where are you from? | 1 | Informal "tu" form.
+27 | Vous venez d'où ? | Where are you from? | 1 | Polite "vous" form.
+28 | Je viens du Canada. | I'm from Canada. | 1
+29 | J'habite à Lyon. | I live in Lyon. | 1 | The h is silent: "j'abite".
+30 | Où est-ce que tu habites ? | Where do you live? | 2 | | Tu habites où ?
+31 | Je suis ici en vacances. | I'm here on holiday. | 2
+## Polite expressions
+32 | Merci beaucoup. | Thank you very much. | 1
+33 | De rien. | You're welcome. | 1
+34 | Je vous en prie. | You're welcome. | 2 | More formal than "de rien". Liaison in "vous en": "vou-z-en".
+35 | S'il vous plaît. | Please. | 1 | Polite form. With friends, say "s'il te plaît".
+36 | Excusez-moi. | Excuse me. | 1
+37 | Pardon. | Sorry. | 1 | Also used to get past someone or to ask them to repeat something.

@@ -1,0 +1,43 @@
+{
+  "name": "ecoute",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "content:build": "node scripts/content-validation/build-library.mjs",
+    "content:check": "node scripts/content-validation/check-package.mjs",
+    "content:package": "node scripts/import-packaging/package-audio.mjs",
+    "icons": "node scripts/import-packaging/make-icons.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "dexie": "^4.4.7",
+    "dexie-react-hooks": "^4.2.0",
+    "fflate": "^0.8.3",
+    "lucide-react": "^1.69.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/vite": "^4.3.4",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "fake-indexeddb": "^6.2.7",
+    "tailwindcss": "^4.3.4",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.1.0",
+    "workbox-window": "^7.4.1"
+  }
+}

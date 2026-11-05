@@ -1,0 +1,4697 @@
+{
+"greeting-001": {
+"digest": "245469f3c41b3222441056b6bc6e789710ef2bfb",
+"seconds": 0.876,
+"attempts": 1
+},
+"greeting-002": {
+"digest": "b10a45b7d74f22ce2fb15a9ff2030f30f9ceb072",
+"seconds": 0.971,
+"attempts": 1
+},
+"greeting-003": {
+"digest": "592504a014cf3f2571273d4876df738327062449",
+"seconds": 0.684,
+"attempts": 1
+},
+"greeting-004": {
+"digest": "49568f7eae15d7c8818153262b38a40d1b2a4c11",
+"seconds": 0.935,
+"attempts": 1
+},
+"greeting-005": {
+"digest": "28def23cf2658c8137557b870b6d1861bef6a8dc",
+"seconds": 0.895,
+"attempts": 1
+},
+"greeting-006": {
+"digest": "e47397238fe0196de618acdbce67b09da746eb6e",
+"seconds": 0.784,
+"attempts": 1
+},
+"greeting-007": {
+"digest": "b2b9302c634d35c9fae53e801ad2c3fd58d8cfe0",
+"seconds": 1.032,
+"attempts": 1
+},
+"greeting-008": {
+"digest": "54749b461d04f1ec80cb45bb4e9be2860f5a27ee",
+"seconds": 1.038,
+"attempts": 1
+},
+"greeting-009": {
+"digest": "c7e112775a6c1519c31c61138fdbc18d5e9e3559",
+"seconds": 0.985,
+"attempts": 1
+},
+"greeting-010": {
+"digest": "7eca3afd8f023bcbd67ae91025b514b8d11b0d73",
+"seconds": 0.813,
+"attempts": 1
+},
+"greeting-011": {
+"digest": "5f6615d06ee4a1e8196b82f52379235e28f51c64",
+"seconds": 1.215,
+"attempts": 1
+},
+"greeting-012": {
+"digest": "970a598a9f4c9b7bd9ee9a6cf9200cef4c2845c4",
+"seconds": 0.975,
+"attempts": 1
+},
+"greeting-013": {
+"digest": "370830d50496567f87a18a26b121ccb8a9589460",
+"seconds": 0.763,
+"attempts": 1
+},
+"greeting-014": {
+"digest": "1f8d3e563c24c2015f945a5e3087ad02f4f83d7d",
+"seconds": 1.426,
+"attempts": 1
+},
+"greeting-015": {
+"digest": "d7080e4947da7bedadd8ec80b49f80b17971ffe1",
+"seconds": 0.96,
+"attempts": 1
+},
+"greeting-016": {
+"digest": "2c544a25f0348d4ecb81dfcf1557c2ad390f7bc5",
+"seconds": 2.844,
+"attempts": 1
+},
+"greeting-017": {
+"digest": "ef00878b8d65cd089945c2f7b3214131db150be3",
+"seconds": 1.341,
+"attempts": 1
+},
+"greeting-018": {
+"digest": "ed6609590cfd34bcae4d72c446002fc87f39aead",
+"seconds": 1.135,
+"attempts": 1
+},
+"greeting-019": {
+"digest": "d8085d2f416245c6bce2bc6f24b3c3a6c9a35e25",
+"seconds": 1.183,
+"attempts": 1
+},
+"greeting-020": {
+"digest": "d5d1d01d1984f164e1ac241909beb80811021709",
+"seconds": 1.219,
+"attempts": 1
+},
+"greeting-021": {
+"digest": "e522405c1db7a9d5b53c6f027c9588228e0a14c2",
+"seconds": 0.87,
+"attempts": 1
+},
+"greeting-022": {
+"digest": "bab429dbb800a47f233cf10e583909975b2fffa6",
+"seconds": 1.299,
+"attempts": 1
+},
+"greeting-023": {
+"digest": "5caa6054093754c38ff2f616eaf86017aa864f72",
+"seconds": 1.403,
+"attempts": 1
+},
+"greeting-024": {
+"digest": "fc23a11fc70b1606188884c555ba696c8c5c0216",
+"seconds": 1.426,
+"attempts": 1
+},
+"greeting-025": {
+"digest": "d729f9437f40ffadf1631b31686c5fd184cf07b4",
+"seconds": 1.138,
+"attempts": 1
+},
+"greeting-026": {
+"digest": "3b81a06a81997636458730711efad3af096674b6",
+"seconds": 0.78,
+"attempts": 1
+},
+"greeting-027": {
+"digest": "7e868a3652b9c020fbcf574dd7634a00aba9b17a",
+"seconds": 0.935,
+"attempts": 1
+},
+"greeting-028": {
+"digest": "058cd13e579530015866039df5712150aa964137",
+"seconds": 1.282,
+"attempts": 1
+},
+"greeting-029": {
+"digest": "1342d22f67474a419c49eeb965c96c767d04b5b8",
+"seconds": 1.134,
+"attempts": 1
+},
+"greeting-030": {
+"digest": "a81094593e6ce717e4dd7c0d4006fc11abd009be",
+"seconds": 1.057,
+"attempts": 1
+},
+"greeting-031": {
+"digest": "af4f6a0f05ce2f1dc1c3f716179e0b0e0b9292af",
+"seconds": 1.678,
+"attempts": 1
+},
+"greeting-032": {
+"digest": "771593ed3044e98894505370580fbc7297f640a4",
+"seconds": 1.121,
+"attempts": 1
+},
+"greeting-033": {
+"digest": "22181018031fac846b7a590f741fff0b11f09cfb",
+"seconds": 0.691,
+"attempts": 1
+},
+"greeting-034": {
+"digest": "d8f92bf7bcc7cfc437857d969a72a85deb2b3110",
+"seconds": 0.951,
+"attempts": 1
+},
+"greeting-035": {
+"digest": "90072fab0db71a44782ffb48351ce6d3a3f60608",
+"seconds": 0.94,
+"attempts": 1
+},
+"greeting-036": {
+"digest": "a18f67435003f480d37b3bcc6c9fb3f45e51454b",
+"seconds": 1.002,
+"attempts": 1
+},
+"greeting-037": {
+"digest": "b687919839c86138181c20fa67488337eec3de54",
+"seconds": 0.699,
+"attempts": 1
+},
+"everyday-001": {
+"digest": "945f5b1c5882c34aa8283b59c8f56e0f96a623ea",
+"seconds": 1.534,
+"attempts": 1
+},
+"everyday-002": {
+"digest": "5b87f949471c0543b2e46e11ee8457d7a4203054",
+"seconds": 1.554,
+"attempts": 1
+},
+"everyday-003": {
+"digest": "35e8daeb8a75205f1d38c76a6424f7641d5be33f",
+"seconds": 1.413,
+"attempts": 1
+},
+"everyday-004": {
+"digest": "d1a534d3db4c894b3224272ee18295ac7a297f71",
+"seconds": 1.028,
+"attempts": 1
+},
+"everyday-005": {
+"digest": "958e75910e102961688c2f283a752acdb9594c62",
+"seconds": 0.966,
+"attempts": 1
+},
+"everyday-006": {
+"digest": "a92cd925d6af428a1942dff21cd7a33607c6fc07",
+"seconds": 1.236,
+"attempts": 1
+},
+"everyday-007": {
+"digest": "619a51d0b389405e4ba7eaebf0e7e3ee5239fd70",
+"seconds": 1.235,
+"attempts": 1
+},
+"everyday-008": {
+"digest": "9089f81ee8a83212d8e64d55068789c436d73f03",
+"seconds": 1.199,
+"attempts": 1
+},
+"everyday-009": {
+"digest": "22e1068c02e9e9552a20442300e8f98d9aa4725f",
+"seconds": 0.761,
+"attempts": 1
+},
+"everyday-010": {
+"digest": "d6214f9e954cde9402b2298dcb381b4fbe442b4f",
+"seconds": 0.928,
+"attempts": 1
+},
+"everyday-011": {
+"digest": "d5808a2d06d349a97227fe0863105cb659bf7354",
+"seconds": 1.091,
+"attempts": 1
+},
+"everyday-012": {
+"digest": "e9b77c2cbb523d732089bea4f9d55d4b69814947",
+"seconds": 1.033,
+"attempts": 1
+},
+"everyday-013": {
+"digest": "0b2d8f0f839bdadbe8be3f78f9c379572fe5640a",
+"seconds": 0.908,
+"attempts": 1
+},
+"everyday-014": {
+"digest": "714e6aa5d25ae265ef3bf2c26649c742bba5d44a",
+"seconds": 1.126,
+"attempts": 1
+},
+"everyday-015": {
+"digest": "f065821dee012ddcd5a8df1d12a1ebafda977d9b",
+"seconds": 0.83,
+"attempts": 1
+},
+"everyday-016": {
+"digest": "0889a9032a2ccb135dc6634e0aa32f0b0f60b7aa",
+"seconds": 0.926,
+"attempts": 1
+},
+"everyday-017": {
+"digest": "fa2703098de8efb5153f2fae229d15b10e5568e3",
+"seconds": 1.341,
+"attempts": 1
+},
+"everyday-018": {
+"digest": "325eca35d55303d626ad5022fe89f18a9786aa23",
+"seconds": 1.169,
+"attempts": 1
+},
+"everyday-019": {
+"digest": "244fb26b08c7a347707a29048795d084a6deff3a",
+"seconds": 1.318,
+"attempts": 1
+},
+"everyday-020": {
+"digest": "fa26f0c5b4f1ebef4dc50b9d86e077d08cf0efcf",
+"seconds": 0.921,
+"attempts": 1
+},
+"everyday-021": {
+"digest": "988a46944b908a29ac170a0e023afe1e7d395bdb",
+"seconds": 1.978,
+"attempts": 1
+},
+"everyday-022": {
+"digest": "f035ad0a4ff0a8a51ac8763999ec229bfef3d747",
+"seconds": 1.844,
+"attempts": 1
+},
+"everyday-023": {
+"digest": "bcec27c120d131dc95792db21bdcd430ffc45198",
+"seconds": 1.547,
+"attempts": 1
+},
+"everyday-024": {
+"digest": "3f8ec82196d6231bd1202a222ad93e3fce785a0a",
+"seconds": 1.795,
+"attempts": 1
+},
+"everyday-025": {
+"digest": "608c8ba76b837a6e1cc14e227ad78e963bf3957f",
+"seconds": 1.461,
+"attempts": 1
+},
+"everyday-026": {
+"digest": "0aa8453fb8a9ba9b5c660afed57d81e1d27e08b5",
+"seconds": 1.05,
+"attempts": 1
+},
+"everyday-027": {
+"digest": "a39a7241214f8f6f2418ec436a2bd91284cf8157",
+"seconds": 1.485,
+"attempts": 1
+},
+"everyday-028": {
+"digest": "5d99ec3ddc964a5d3dfd8649093e33d7740e4ad3",
+"seconds": 1.924,
+"attempts": 1
+},
+"everyday-029": {
+"digest": "fd12e61794465d5cad6b31fbfd0e618be4f02a01",
+"seconds": 1.321,
+"attempts": 1
+},
+"everyday-030": {
+"digest": "de232cb1f3a65422dc9adc4c9f227828d6c4413a",
+"seconds": 1.196,
+"attempts": 1
+},
+"everyday-031": {
+"digest": "610aff4b06973cebca078c5c502ebdaf1635e8ee",
+"seconds": 0.843,
+"attempts": 1
+},
+"everyday-032": {
+"digest": "637c5c876da940c21d6a46ef8d2425fe458ec867",
+"seconds": 0.884,
+"attempts": 1
+},
+"everyday-033": {
+"digest": "17c94fa80908a5e48115f9762aac911d15540b58",
+"seconds": 1.143,
+"attempts": 1
+},
+"everyday-034": {
+"digest": "332ba66286f5118f7a6246af661e2a2172e476e5",
+"seconds": 1.247,
+"attempts": 1
+},
+"everyday-035": {
+"digest": "0b1296b4985ca57660dd2a52db6c6648736eb919",
+"seconds": 0.719,
+"attempts": 1
+},
+"everyday-036": {
+"digest": "d496899b2d845fa86fcad134b9d4de53613335a8",
+"seconds": 0.945,
+"attempts": 1
+},
+"everyday-037": {
+"digest": "aa4b920c97ba41bd5851c9a91e8f3a2327e1d945",
+"seconds": 0.709,
+"attempts": 1
+},
+"everyday-038": {
+"digest": "cf4403b05d61955a9e5f00430230cd827e766c36",
+"seconds": 0.87,
+"attempts": 1
+},
+"everyday-039": {
+"digest": "4eaa7922cdc899e302ea4f6c96f70c768cec1b73",
+"seconds": 1.186,
+"attempts": 1
+},
+"everyday-040": {
+"digest": "72cdcde04f7fe1ff33ad823b430338556971d673",
+"seconds": 0.971,
+"attempts": 1
+},
+"everyday-041": {
+"digest": "48840ba6ada36868e0edacc5561c15f59a36706e",
+"seconds": 1.086,
+"attempts": 1
+},
+"everyday-042": {
+"digest": "a75404ef08b8372ab3d034ba79adf6eac5f467e5",
+"seconds": 1.33,
+"attempts": 1
+},
+"everyday-043": {
+"digest": "9bc247114b809ff37c6c646e4bd071f157e55864",
+"seconds": 1.224,
+"attempts": 1
+},
+"everyday-044": {
+"digest": "8c723a1603b7e2b59207ec2be7eccc3354aa6e3e",
+"seconds": 0.876,
+"attempts": 1
+},
+"everyday-045": {
+"digest": "b022a37661f32d9cc0bd932acbf837e0b4c24689",
+"seconds": 0.99,
+"attempts": 1
+},
+"everyday-046": {
+"digest": "3b3715d9c87deb1f459cac859cf83fa1f33b1ea1",
+"seconds": 0.941,
+"attempts": 1
+},
+"everyday-047": {
+"digest": "a3362db8a76e215b331ef382c2c7d487aa276403",
+"seconds": 0.839,
+"attempts": 1
+},
+"everyday-048": {
+"digest": "7175e369cd1467dda56c414979a845a7be33ef5f",
+"seconds": 1.162,
+"attempts": 1
+},
+"everyday-049": {
+"digest": "80e79c5d059e5530eed137f8975a0292d2ea8951",
+"seconds": 0.898,
+"attempts": 1
+},
+"everyday-050": {
+"digest": "efcad327a01f8e013047f92394c5ebe6db806cf5",
+"seconds": 1.465,
+"attempts": 1
+},
+"question-001": {
+"digest": "b98ad8cf3aef538bb3539c15a25218e14716b4ca",
+"seconds": 0.496,
+"attempts": 1
+},
+"question-002": {
+"digest": "7c90dd33e100d9e8d609bc59d715babdc9183c42",
+"seconds": 0.837,
+"attempts": 1
+},
+"question-003": {
+"digest": "2dc75c3cd510bfa96cd12df0ff95592aefc6a276",
+"seconds": 1.57,
+"attempts": 1
+},
+"question-004": {
+"digest": "d32725e94691833dec5f4fd36cd8c7fce6ca5eb0",
+"seconds": 1.339,
+"attempts": 1
+},
+"question-005": {
+"digest": "fed29a1844889e9231ce7728309c88f9af388748",
+"seconds": 0.823,
+"attempts": 1
+},
+"question-006": {
+"digest": "0cc21a5a53a9dc880610f67366d7158405775e09",
+"seconds": 0.538,
+"attempts": 1
+},
+"question-007": {
+"digest": "4a1eacacf876eb418bc992af26a4a50a4fd49385",
+"seconds": 0.919,
+"attempts": 1
+},
+"question-008": {
+"digest": "ee8fb9ce0722a56df28ac0c731d49cc922e5635e",
+"seconds": 0.934,
+"attempts": 1
+},
+"question-009": {
+"digest": "a14514a2d243cc1bc022e1dadc36d89c31536f4d",
+"seconds": 1.386,
+"attempts": 1
+},
+"question-010": {
+"digest": "4d57860323155abf137d09d2fc6d49cdcb455b92",
+"seconds": 1.204,
+"attempts": 1
+},
+"question-011": {
+"digest": "472a95cf383de7dfba7b0b9b3235491c32d51646",
+"seconds": 1.209,
+"attempts": 1
+},
+"question-012": {
+"digest": "fdd79a082dd0244f21a5f344544614ad08f1baa5",
+"seconds": 0.469,
+"attempts": 1
+},
+"question-013": {
+"digest": "8eb09a64ce4febd77f518cca8c247441f43a7788",
+"seconds": 0.701,
+"attempts": 1
+},
+"question-014": {
+"digest": "cefd252d8b7228997ed18b9b8ff15b2d21786b21",
+"seconds": 0.971,
+"attempts": 1
+},
+"question-015": {
+"digest": "d0b0e97c7907d0167d76e9a9dfc22002bb499f54",
+"seconds": 1.2,
+"attempts": 1
+},
+"question-016": {
+"digest": "7e05442c5d5ea4265f80d8881d67223c4cab47a1",
+"seconds": 1.059,
+"attempts": 1
+},
+"question-017": {
+"digest": "c31a0e8297bf251eb9142acd1337032bda565086",
+"seconds": 1.399,
+"attempts": 1
+},
+"question-018": {
+"digest": "57ee6aad87e1c042fbeb3be0bdbac3ec2de1ea74",
+"seconds": 1.442,
+"attempts": 1
+},
+"question-019": {
+"digest": "68956eceabda6f60094ab2f837d758d3f96c3d0b",
+"seconds": 0.536,
+"attempts": 1
+},
+"question-020": {
+"digest": "0c1ca9ce495dc71ef9936c10b74c8479b57fe788",
+"seconds": 0.952,
+"attempts": 1
+},
+"question-021": {
+"digest": "333aa07d45625d078ff29640ec85f1ec0bdfe817",
+"seconds": 1.136,
+"attempts": 1
+},
+"question-022": {
+"digest": "787ef9d52fb036856085e2d04cdd22216e609454",
+"seconds": 1.813,
+"attempts": 1
+},
+"question-023": {
+"digest": "9521d5da9eee5bb787125252d398a937c5689583",
+"seconds": 1.018,
+"attempts": 1
+},
+"question-024": {
+"digest": "40c6e1b3ee86e5b576f5484160a5474be7265fbe",
+"seconds": 0.74,
+"attempts": 1
+},
+"question-025": {
+"digest": "c1414bdf7d8e3ac69d2866820f7877fe794f0015",
+"seconds": 0.929,
+"attempts": 1
+},
+"question-026": {
+"digest": "9d4c25ca233b704f9701293d962d8da5214bb4e1",
+"seconds": 1.09,
+"attempts": 1
+},
+"question-027": {
+"digest": "a0cb5057763f8d6e8fe1c53ae0439e5d2f62f472",
+"seconds": 1.519,
+"attempts": 1
+},
+"question-028": {
+"digest": "e59b9d06cb2dab45762e41e4ad7cc1b9374a94ea",
+"seconds": 1.672,
+"attempts": 1
+},
+"question-029": {
+"digest": "60ae2edf01301d0d9267f6450d81f1701257f096",
+"seconds": 0.635,
+"attempts": 1
+},
+"question-030": {
+"digest": "a6cc81d66759bb90a3db8222809f0d06e6f231eb",
+"seconds": 1.219,
+"attempts": 1
+},
+"question-031": {
+"digest": "7a2fc165104e6a525eb90147d7b777ae5a01ab4b",
+"seconds": 1.45,
+"attempts": 1
+},
+"question-032": {
+"digest": "8a75313e6faa3aeac04028decf50379d027e2154",
+"seconds": 1.169,
+"attempts": 1
+},
+"question-033": {
+"digest": "c68ad84be6640b230247cd218cf8d511655ae7e9",
+"seconds": 1.086,
+"attempts": 1
+},
+"question-034": {
+"digest": "6968e9c873559e6efd15fb1a9b72f46f6dad1d50",
+"seconds": 0.731,
+"attempts": 1
+},
+"question-035": {
+"digest": "056892f02f21ca0533d066712a89f2f39bad278a",
+"seconds": 1.206,
+"attempts": 1
+},
+"question-036": {
+"digest": "c09e48a310e15b21065b20f57c83a02c36ae0bca",
+"seconds": 1.219,
+"attempts": 1
+},
+"question-037": {
+"digest": "b1032099814d0fc1258ae3a44651e7efd9efd63a",
+"seconds": 1.077,
+"attempts": 1
+},
+"question-038": {
+"digest": "e65b7b59dbc26a08d7f9d19464cfc3d14981ed95",
+"seconds": 0.911,
+"attempts": 1
+},
+"question-039": {
+"digest": "46e261283787764e2ec118495b7fd166c57d58a1",
+"seconds": 1.309,
+"attempts": 1
+},
+"question-040": {
+"digest": "4484ddd1b1e8845ed712d9bea67a9128dd1f445f",
+"seconds": 1.127,
+"attempts": 1
+},
+"question-041": {
+"digest": "b6c459fcb6d7962a0c3b91bb8907b13b3f67b328",
+"seconds": 1.34,
+"attempts": 1
+},
+"question-042": {
+"digest": "460fbb1cadfd428452dc14a44b8a0e33730fd963",
+"seconds": 1.537,
+"attempts": 1
+},
+"question-043": {
+"digest": "3c9c748ad498dce98bb14e4bd11887b6a2e221fe",
+"seconds": 1.074,
+"attempts": 1
+},
+"question-044": {
+"digest": "579cbfb0ee8e843953c28f7425e7d8673c93b007",
+"seconds": 1.091,
+"attempts": 1
+},
+"question-045": {
+"digest": "e8e193083ab7f71c26fa30b0afe63df38e530c91",
+"seconds": 1.321,
+"attempts": 1
+},
+"question-046": {
+"digest": "11fcac1973bc19455789470f95d01983086d2dca",
+"seconds": 1.163,
+"attempts": 1
+},
+"question-047": {
+"digest": "36efd05a58ac8455780db754ae31fa5cba575c0e",
+"seconds": 1.381,
+"attempts": 1
+},
+"question-048": {
+"digest": "09f264b1b0e2e92c513cfbdb65b0e2013838db52",
+"seconds": 1.379,
+"attempts": 1
+},
+"question-049": {
+"digest": "a94c1ac1c40f79713151654b2eec772ee7e3dfc7",
+"seconds": 2.091,
+"attempts": 1
+},
+"question-050": {
+"digest": "ea95c361a284f1ebb3ca16fbdaf02d558b06a532",
+"seconds": 1.031,
+"attempts": 1
+},
+"verb-001": {
+"digest": "39dc3112144fe32345a374a5d973eb0982858b9a",
+"seconds": 1.168,
+"attempts": 1
+},
+"verb-002": {
+"digest": "7707716f14bc63c3a69fb3ef523a35757dbddaa8",
+"seconds": 0.856,
+"attempts": 1
+},
+"verb-003": {
+"digest": "672f76e646ddc1551ee5321c04595c515b513ee0",
+"seconds": 1.149,
+"attempts": 1
+},
+"verb-004": {
+"digest": "ebf9c22de9da4e74788fc56348a75ec4aa4c484a",
+"seconds": 1.085,
+"attempts": 1
+},
+"verb-005": {
+"digest": "7550e7ed62894f62923a63b7ce2d6818a965bb75",
+"seconds": 1.164,
+"attempts": 1
+},
+"verb-006": {
+"digest": "7c9786baa010aa4ff33b2912756d2a15f9ab2a40",
+"seconds": 1.002,
+"attempts": 1
+},
+"verb-007": {
+"digest": "c4548a57b6537756d8690b49b19a7e40f14e6a82",
+"seconds": 1.135,
+"attempts": 1
+},
+"verb-008": {
+"digest": "0591dbf71edd64b6f5968cd6ff1009f65bb845d3",
+"seconds": 1.363,
+"attempts": 1
+},
+"verb-009": {
+"digest": "940f7504cb3be772594ad5b59ac1f44e5e44c8d7",
+"seconds": 0.89,
+"attempts": 1
+},
+"verb-010": {
+"digest": "b593f5d76146b5f6bc2b07d20bd49185d129a0de",
+"seconds": 0.87,
+"attempts": 1
+},
+"verb-011": {
+"digest": "597fbea75e65bb4a46c4f0ab3422622b64531976",
+"seconds": 1.212,
+"attempts": 1
+},
+"verb-012": {
+"digest": "e4f470ea77cab0941f8331311f6ca9cd76814a1d",
+"seconds": 1.066,
+"attempts": 1
+},
+"verb-013": {
+"digest": "5a2562022b15b81548aade70b62a66492900a060",
+"seconds": 1.476,
+"attempts": 1
+},
+"verb-014": {
+"digest": "3972b52a5cb8e07a4b6cb720f885515e2ad458cf",
+"seconds": 1.32,
+"attempts": 1
+},
+"verb-015": {
+"digest": "9f8c9d16410ebfc5d69b597f352951156f2a1dbe",
+"seconds": 1.112,
+"attempts": 1
+},
+"verb-016": {
+"digest": "970902bfee6f81b166a58e58bd5cc85d4cbb6952",
+"seconds": 1.152,
+"attempts": 1
+},
+"verb-017": {
+"digest": "f5bd8b6f1750f9297bf30dfcdfcf245f28df7a73",
+"seconds": 0.895,
+"attempts": 1
+},
+"verb-018": {
+"digest": "2c34ec1fce0fc08e0c64bc3b68d3a60ed8df3ec1",
+"seconds": 1.164,
+"attempts": 1
+},
+"verb-019": {
+"digest": "ddb64456b237655208d653adae2c3e41d8bcd820",
+"seconds": 1.362,
+"attempts": 1
+},
+"verb-020": {
+"digest": "75ed9e0c92051f9ec99d58cbab8331cae160d3dd",
+"seconds": 1.379,
+"attempts": 1
+},
+"verb-021": {
+"digest": "54e88c7fc731f0217bf80e353a3895f8be2fa6a0",
+"seconds": 1.573,
+"attempts": 1
+},
+"verb-022": {
+"digest": "60376672e0f2257ce6862d4349891b7dd93081d8",
+"seconds": 1.525,
+"attempts": 1
+},
+"verb-023": {
+"digest": "9a417e29812f8f3e3380cdab4596027669568cfd",
+"seconds": 1.297,
+"attempts": 1
+},
+"verb-024": {
+"digest": "e54978fae4828469b8226ea3f562765f2eb8e0d6",
+"seconds": 1.322,
+"attempts": 1
+},
+"verb-025": {
+"digest": "2dd00c037282be77582d717ce880b7dce2905df1",
+"seconds": 1.268,
+"attempts": 1
+},
+"verb-026": {
+"digest": "7bcdcc6dc413c38917b3253ef8e75ae4e7b07002",
+"seconds": 1.51,
+"attempts": 1
+},
+"verb-027": {
+"digest": "6cddfacb69295b6bc8b2d8d1765695b3e85865b3",
+"seconds": 1.992,
+"attempts": 1
+},
+"verb-028": {
+"digest": "1d839aa4c8c00f705d83a1e7de4bd1c8e9195df9",
+"seconds": 1.233,
+"attempts": 1
+},
+"verb-029": {
+"digest": "4004e5674b8737f0f2d51b44cf36100a1f21d735",
+"seconds": 1.319,
+"attempts": 1
+},
+"verb-030": {
+"digest": "814726fc64f5184e1b4652630bad0b243e2d3710",
+"seconds": 1.002,
+"attempts": 1
+},
+"verb-031": {
+"digest": "83df414a11c6c7aed65ec10dbbcc2f9e40d5ba0e",
+"seconds": 1.375,
+"attempts": 1
+},
+"verb-032": {
+"digest": "3f1560ddb1bfb5ffed1bd25406ac5d0c6952216a",
+"seconds": 1.008,
+"attempts": 1
+},
+"verb-033": {
+"digest": "91d98c090a14ade0a4dd84f0b952a3f954a5e83a",
+"seconds": 1.421,
+"attempts": 1
+},
+"verb-034": {
+"digest": "632a70a6d0b4505cc0b80c562258dc39f769b318",
+"seconds": 1.168,
+"attempts": 1
+},
+"verb-035": {
+"digest": "851a64da463d03bb804b71187f9a44d07a14d254",
+"seconds": 1.678,
+"attempts": 1
+},
+"verb-036": {
+"digest": "c31ba1168874e4b5094472fae21f486338c5bd09",
+"seconds": 1.147,
+"attempts": 1
+},
+"verb-037": {
+"digest": "0819048e799a9c061817d4f7bdb8f0409e865613",
+"seconds": 0.739,
+"attempts": 1
+},
+"verb-038": {
+"digest": "36a847d98bd49b28368641d627e44ce848cf63d7",
+"seconds": 1.314,
+"attempts": 1
+},
+"verb-039": {
+"digest": "25692f3d5318cb74e2a85cfada9c09883febadf8",
+"seconds": 1.184,
+"attempts": 1
+},
+"verb-040": {
+"digest": "5344164784fc35160a9589eca680f16cf081d825",
+"seconds": 1.704,
+"attempts": 1
+},
+"verb-041": {
+"digest": "957f4e75b59b184e8d2ce3ff8f4326ae74f7b9fc",
+"seconds": 1.206,
+"attempts": 1
+},
+"verb-042": {
+"digest": "5321b3da8cd71a6fabf70a4513cb0673df510b0a",
+"seconds": 1.067,
+"attempts": 1
+},
+"verb-043": {
+"digest": "e09f940411602e8659afdc9d95aea8edb7a747d1",
+"seconds": 1.412,
+"attempts": 1
+},
+"verb-044": {
+"digest": "0e69ffcb90cf52055f39660ca52764e73e739c40",
+"seconds": 1.715,
+"attempts": 1
+},
+"verb-045": {
+"digest": "7e3dddf94ff0e8b12a614183e6786fb658658994",
+"seconds": 1.46,
+"attempts": 1
+},
+"verb-046": {
+"digest": "efc289ca1c39c334f1e32728601f89c6271aeae8",
+"seconds": 1.599,
+"attempts": 1
+},
+"verb-047": {
+"digest": "62cf9f67786bc13620dbee522cb2f774309a1d5a",
+"seconds": 1.1,
+"attempts": 1
+},
+"verb-048": {
+"digest": "4fbfded117a18ebf6f8ed070ef8a8446c34a186c",
+"seconds": 1.312,
+"attempts": 1
+},
+"verb-049": {
+"digest": "89a042701972c13241d0bb35a6e705cff23e8a0f",
+"seconds": 1.37,
+"attempts": 1
+},
+"verb-050": {
+"digest": "36245159fa21ffc697003943adcf581b8367e963",
+"seconds": 1.362,
+"attempts": 1
+},
+"verb-051": {
+"digest": "8fb6d80953ca9eef80dc2ca9577acfe3981acd5f",
+"seconds": 1.295,
+"attempts": 1
+},
+"verb-052": {
+"digest": "2a192626ee8acb6487f1383098c8dc88269f69a2",
+"seconds": 1.5,
+"attempts": 1
+},
+"verb-053": {
+"digest": "7da88eb2ce5b9ffe337cfb2199a20479c065db7c",
+"seconds": 1.524,
+"attempts": 1
+},
+"verb-054": {
+"digest": "0bcea6bb4c5fa1057ab3932967563802f1b909d3",
+"seconds": 1.423,
+"attempts": 1
+},
+"verb-055": {
+"digest": "436c630a1474dd0391869c7d5d37bba240919fe5",
+"seconds": 1.424,
+"attempts": 1
+},
+"verb-056": {
+"digest": "5818d17613d2d925c9990eb58f6a834db1775d05",
+"seconds": 1.2,
+"attempts": 1
+},
+"verb-057": {
+"digest": "79c15d576d5844d2d3d829310b367aaa769ca8b8",
+"seconds": 1.064,
+"attempts": 1
+},
+"verb-058": {
+"digest": "266df67f6a162360836c64cb8c41d4330c26d38b",
+"seconds": 1.337,
+"attempts": 1
+},
+"verb-059": {
+"digest": "86b632245337fe6556942c5a0a8480c84563ba08",
+"seconds": 1.222,
+"attempts": 1
+},
+"verb-060": {
+"digest": "63a4954b033ad96cb2aad7d7f2938f172a6c9b76",
+"seconds": 1.129,
+"attempts": 1
+},
+"verb-061": {
+"digest": "448323dc3efbd24c9acc8f99dd5c87f075dc68de",
+"seconds": 1.002,
+"attempts": 1
+},
+"verb-062": {
+"digest": "2107c03b9c5b9804d53dcfc7e1a60ec6aa5876fa",
+"seconds": 1.508,
+"attempts": 1
+},
+"verb-063": {
+"digest": "3c868f0c611f0aaa1c4a3a4700d48edda3a30435",
+"seconds": 1.313,
+"attempts": 1
+},
+"verb-064": {
+"digest": "e536bf90aafdfcc8778dbf4d63a6e9e261008a5c",
+"seconds": 1.056,
+"attempts": 1
+},
+"verb-065": {
+"digest": "0360e75fe4f55823c263272fed99d4d0387b0734",
+"seconds": 0.821,
+"attempts": 1
+},
+"verb-066": {
+"digest": "644afae050eeb232ac99c7e095003e3f0759c3ca",
+"seconds": 1.466,
+"attempts": 1
+},
+"verb-067": {
+"digest": "0435f425d04e12e59aa7b429666ab1662b0cf98c",
+"seconds": 1.003,
+"attempts": 1
+},
+"routine-001": {
+"digest": "08d4d77311d526dab6def7377b3b456d1f2d168a",
+"seconds": 1.617,
+"attempts": 1
+},
+"routine-002": {
+"digest": "d7d7d16c13c8d6c3a53d2298b128dcbb26b213c2",
+"seconds": 1.017,
+"attempts": 1
+},
+"routine-003": {
+"digest": "75777b392cbe3b71d5ff9b4c8dcbe8578ee2d327",
+"seconds": 1.786,
+"attempts": 1
+},
+"routine-004": {
+"digest": "fa67c8bc8bd48e8cdd350086e9b6ba4bd15111b9",
+"seconds": 1.112,
+"attempts": 1
+},
+"routine-005": {
+"digest": "ca25508fb0e2e5a856cbd9a9f79b3eb806cf079f",
+"seconds": 1.285,
+"attempts": 1
+},
+"routine-006": {
+"digest": "7246608bab319f3dbefc6d8797618a79baa7b0d7",
+"seconds": 1.27,
+"attempts": 1
+},
+"routine-007": {
+"digest": "b32d0ce321fea5c31ed27891bba1ae871053ae7e",
+"seconds": 1.193,
+"attempts": 1
+},
+"routine-008": {
+"digest": "f1584b5b064a6f605e41d9d30e4a237a08f3f7df",
+"seconds": 0.919,
+"attempts": 1
+},
+"routine-009": {
+"digest": "1d539ca188e62d21fcaa0b5b120499fe9da9a557",
+"seconds": 1.304,
+"attempts": 1
+},
+"routine-010": {
+"digest": "cb45c565b0d847ab8fb92b6a98cd1ebbd3f94ef2",
+"seconds": 1.246,
+"attempts": 1
+},
+"routine-011": {
+"digest": "545d731d0a27f928fcf6286af11a508afbe3169e",
+"seconds": 1.372,
+"attempts": 1
+},
+"routine-012": {
+"digest": "37c02f1494a5708fb5140a9745abd32d821039d2",
+"seconds": 1.312,
+"attempts": 1
+},
+"routine-013": {
+"digest": "8054caf7193f03a24ad9322c41bf7ad9ee0e2a01",
+"seconds": 1.414,
+"attempts": 1
+},
+"routine-014": {
+"digest": "f0e89214caa214b6f3f3bfe85e426f47107fea2b",
+"seconds": 1.51,
+"attempts": 1
+},
+"routine-015": {
+"digest": "83d8dff4d94d38c8038dfb69af8fb7258a8d12e2",
+"seconds": 1.51,
+"attempts": 1
+},
+"routine-016": {
+"digest": "a235c43fb7cc406914436e3ea8551a30e5ba4981",
+"seconds": 1.338,
+"attempts": 1
+},
+"routine-017": {
+"digest": "ed6949661e6b4599a8485185939f2ff17c898f65",
+"seconds": 1.141,
+"attempts": 1
+},
+"routine-018": {
+"digest": "16710198f97d2792f7028aacbeacfeb8de4d35ec",
+"seconds": 1.368,
+"attempts": 1
+},
+"routine-019": {
+"digest": "88f7139924f038154865ddb6cc729d48cf2eb58c",
+"seconds": 1.29,
+"attempts": 1
+},
+"routine-020": {
+"digest": "dacf9c2624cc88bcb7af05bf5e86913284acedc6",
+"seconds": 1.172,
+"attempts": 1
+},
+"routine-021": {
+"digest": "79e7fdcd3afa49f64d3f162a02bd69d66333104c",
+"seconds": 1.788,
+"attempts": 1
+},
+"routine-022": {
+"digest": "58bb94e4f69be481426b23b11f64617fdaf1524b",
+"seconds": 1.801,
+"attempts": 1
+},
+"routine-023": {
+"digest": "7702430f7e54eb555db74665f39ea0b856caa6b9",
+"seconds": 1.511,
+"attempts": 1
+},
+"routine-024": {
+"digest": "801bebde159d241eb460c0d8212433d1ada52b17",
+"seconds": 1.688,
+"attempts": 1
+},
+"routine-025": {
+"digest": "8a18ef83caa59486c707b71dfbdd15a331573f23",
+"seconds": 1.376,
+"attempts": 1
+},
+"routine-026": {
+"digest": "50b57905a10cda59b996dd66cd908e32528c4eca",
+"seconds": 1.615,
+"attempts": 1
+},
+"routine-027": {
+"digest": "4c197667b9b94de632a7cf7b0848e9ef6364254e",
+"seconds": 1.184,
+"attempts": 1
+},
+"routine-028": {
+"digest": "edddbcbaeeb23e84d73a4860967358c15c9000ae",
+"seconds": 1.619,
+"attempts": 1
+},
+"routine-029": {
+"digest": "e64672cd9d4240863455a3cc7a747df720b76399",
+"seconds": 1.184,
+"attempts": 1
+},
+"routine-030": {
+"digest": "174210da4da6deafc8920b0a7542910c08e139c7",
+"seconds": 1.187,
+"attempts": 1
+},
+"routine-031": {
+"digest": "26c65f9127afcbc85ef30234b0b51e628cf8f1a8",
+"seconds": 1.232,
+"attempts": 1
+},
+"routine-032": {
+"digest": "d82eec56b39c724d91aca88b8314e8e0d2617740",
+"seconds": 1.361,
+"attempts": 1
+},
+"routine-033": {
+"digest": "ac2915dd002308f43a45a9c1ed62e03a96a501f7",
+"seconds": 1.3,
+"attempts": 1
+},
+"routine-034": {
+"digest": "b9b21f85888b5a1a89a0d7058480aa2e5f2fcbc9",
+"seconds": 1.699,
+"attempts": 1
+},
+"routine-035": {
+"digest": "382a84be463e87ca9058fb5a45f0f625b78c3946",
+"seconds": 1.978,
+"attempts": 1
+},
+"routine-036": {
+"digest": "bb6e24b866c7cfeb156c93834e24c3306e870954",
+"seconds": 1.16,
+"attempts": 1
+},
+"routine-037": {
+"digest": "e94be00cfa405e1d55a0cb97c71be93c1d654724",
+"seconds": 1.363,
+"attempts": 1
+},
+"routine-038": {
+"digest": "fe1a647a46b57148ba14414a1f81426934e1df63",
+"seconds": 1.583,
+"attempts": 1
+},
+"routine-039": {
+"digest": "afede682978d3d519139837b3dfaa08b9cc52aa2",
+"seconds": 1.153,
+"attempts": 1
+},
+"routine-040": {
+"digest": "a28ed875a672645695dc489b79eab5eeb87ed721",
+"seconds": 1.325,
+"attempts": 1
+},
+"routine-041": {
+"digest": "d7c186cd4b7e096befcfe426ecca6b8dfa806c43",
+"seconds": 1.206,
+"attempts": 1
+},
+"routine-042": {
+"digest": "19a6a7777680a507948e09d31067426b3c7d3331",
+"seconds": 1.382,
+"attempts": 1
+},
+"routine-043": {
+"digest": "a71b2a7352c0a58fbf0c5fcc44e6305de8db46ff",
+"seconds": 1.954,
+"attempts": 1
+},
+"routine-044": {
+"digest": "f3b6fea6c2a03045b1148b89aaf8e53ac69009a0",
+"seconds": 1.688,
+"attempts": 1
+},
+"routine-045": {
+"digest": "1e18de07fe961d428fb2caf6ca583efbaae3ce81",
+"seconds": 1.841,
+"attempts": 1
+},
+"routine-046": {
+"digest": "f404ab89cddeb939ac0b4313a423fe3922718c75",
+"seconds": 1.789,
+"attempts": 1
+},
+"work-001": {
+"digest": "0ef4e2cc90620a935f9cf3d91aac0f8dda4bdbf4",
+"seconds": 1.366,
+"attempts": 1
+},
+"work-002": {
+"digest": "da1f584f02c972fc00ee0f7db60668019284ae10",
+"seconds": 1.399,
+"attempts": 1
+},
+"work-003": {
+"digest": "f7e0bfd9c11b9b83383b06f093c5dc4fffa6d1a2",
+"seconds": 1.252,
+"attempts": 1
+},
+"work-004": {
+"digest": "253e6ad7d42e79ceab24fe5b8d01a3743f7c363b",
+"seconds": 1.698,
+"attempts": 1
+},
+"work-005": {
+"digest": "1698b3c148e6330c9174817e2b6742d03bee7e18",
+"seconds": 1.284,
+"attempts": 1
+},
+"work-006": {
+"digest": "03c02eff837022f1c6f20f4eb56e27d3de2ab6fb",
+"seconds": 1.772,
+"attempts": 1
+},
+"work-007": {
+"digest": "476489ec07a003fd28eedf4cb1cceb36ababef3e",
+"seconds": 0.919,
+"attempts": 1
+},
+"work-008": {
+"digest": "51ac1ab027c256ddca62dae555e641f63ab03131",
+"seconds": 1.858,
+"attempts": 1
+},
+"work-009": {
+"digest": "549dbd509ef6d27daa665a931b4d90c44ca94adb",
+"seconds": 2.253,
+"attempts": 1
+},
+"work-010": {
+"digest": "08f1f1012456f6e3049b1b10439333719b85776b",
+"seconds": 1.421,
+"attempts": 1
+},
+"work-011": {
+"digest": "f9cff9d15bedb34bfa74e11b0fc75d3db1f8ff4b",
+"seconds": 1.535,
+"attempts": 1
+},
+"work-012": {
+"digest": "1bb541b74fe0ec53f3156759359473324130ca79",
+"seconds": 1.792,
+"attempts": 1
+},
+"work-013": {
+"digest": "51c3650cfb3b2c166b9c56da99bf40cec3fe5733",
+"seconds": 1.82,
+"attempts": 1
+},
+"work-014": {
+"digest": "edfaf2939836a12358eaa286b51a3d9ab5ebd12e",
+"seconds": 1.289,
+"attempts": 1
+},
+"work-015": {
+"digest": "25a1d675d94d293b0b94a8521df1b4e3a76ac989",
+"seconds": 1.993,
+"attempts": 1
+},
+"work-016": {
+"digest": "bb4056363d0ba0b795be669274cdc5bc33717c22",
+"seconds": 1.623,
+"attempts": 1
+},
+"work-017": {
+"digest": "652bb4f5399fa47976871c06d3efb7f0c4b2195f",
+"seconds": 1.784,
+"attempts": 1
+},
+"work-018": {
+"digest": "8bcd7b5e4a0fe70575e413979a1aee92a869f065",
+"seconds": 1.419,
+"attempts": 1
+},
+"work-019": {
+"digest": "c9e72917e39560f2cc99bce78dd8affc47436e45",
+"seconds": 2.062,
+"attempts": 1
+},
+"work-020": {
+"digest": "193092a63ac1ca21ba44fcb659578467a4888473",
+"seconds": 1.481,
+"attempts": 1
+},
+"work-021": {
+"digest": "d4534906d8447658c0fabddb409887a10c83b859",
+"seconds": 2.058,
+"attempts": 1
+},
+"work-022": {
+"digest": "d6e9dc09aec532bf143d0960a9fe7dfceda676d2",
+"seconds": 2.221,
+"attempts": 1
+},
+"work-023": {
+"digest": "577a8dc36cc0d10e14f1c9017e09e84267fb2bb5",
+"seconds": 1.978,
+"attempts": 1
+},
+"work-024": {
+"digest": "314eb6dc9f4c48629f0d6f0106c0aae8a3d1b70e",
+"seconds": 2.048,
+"attempts": 1
+},
+"work-025": {
+"digest": "ff38698d1519819f88690eaddb8dd498e16c684b",
+"seconds": 1.551,
+"attempts": 1
+},
+"work-026": {
+"digest": "3c510ca821ee166e875662420281497526e6b117",
+"seconds": 0.869,
+"attempts": 1
+},
+"work-027": {
+"digest": "c99f2d454284c22d5dd9704ce48cdd6fb9269134",
+"seconds": 1.46,
+"attempts": 1
+},
+"work-028": {
+"digest": "c68f6ab0da82d784ff8760aab76bd121e4b84a40",
+"seconds": 1.828,
+"attempts": 1
+},
+"work-029": {
+"digest": "0802218cb2ffaebd157684dfc181e41000c505ed",
+"seconds": 1.652,
+"attempts": 1
+},
+"work-030": {
+"digest": "9195fb8a6e6c61a0e8c2bcd8e106f82e32ee700d",
+"seconds": 1.562,
+"attempts": 1
+},
+"work-031": {
+"digest": "38731f1ff53b721dc6567c832fbd73c09cfbc57a",
+"seconds": 1.41,
+"attempts": 1
+},
+"work-032": {
+"digest": "693b8814244025ea28280b90a8631be3d4d8d28d",
+"seconds": 1.508,
+"attempts": 1
+},
+"work-033": {
+"digest": "b3b07359d0825b01f2439321c457d1263b3f6672",
+"seconds": 1.415,
+"attempts": 1
+},
+"work-034": {
+"digest": "12fa27a20ddfce51f76d2ec12f227f6b76421fb0",
+"seconds": 1.497,
+"attempts": 1
+},
+"work-035": {
+"digest": "c22219972f4ad67c3e4a2b1d4f894073916a82a6",
+"seconds": 1.08,
+"attempts": 1
+},
+"family-001": {
+"digest": "b6928f325f5bf4693045181fefb85d88903b2810",
+"seconds": 1.212,
+"attempts": 1
+},
+"family-002": {
+"digest": "a66ee2538303a9d749f532590b37ab470d5dbd18",
+"seconds": 1.554,
+"attempts": 1
+},
+"family-003": {
+"digest": "19be6b723b38661fa8dcdf61876637b4acb8e7d9",
+"seconds": 1.474,
+"attempts": 1
+},
+"family-004": {
+"digest": "61a39fe41c87245efe8bb8166255fce25d29cd93",
+"seconds": 2.111,
+"attempts": 1
+},
+"family-005": {
+"digest": "d8e19c379229abf62e267c5829ef5daa7f6421f6",
+"seconds": 1.839,
+"attempts": 1
+},
+"family-006": {
+"digest": "56b95098da13b9ee96568dc3e5bc76f87430cae2",
+"seconds": 1.526,
+"attempts": 1
+},
+"family-007": {
+"digest": "7357ae573ae7af619e58ed81adbcccc502e00728",
+"seconds": 1.113,
+"attempts": 1
+},
+"family-008": {
+"digest": "ce8fc985073531ebad0f75a6929954cd057fffb7",
+"seconds": 1.574,
+"attempts": 1
+},
+"family-009": {
+"digest": "f55a465919dbe57aadc11c8d295e035c5251e8e1",
+"seconds": 1.686,
+"attempts": 1
+},
+"family-010": {
+"digest": "b437694924836e75771eb0460752247b0e1bcd82",
+"seconds": 1.122,
+"attempts": 1
+},
+"family-011": {
+"digest": "4b7c8e0134ee3641c9694a3fa20541ca55149fb1",
+"seconds": 1.046,
+"attempts": 1
+},
+"family-012": {
+"digest": "808f9c6957d30fd7c5d90a361e2134fff08e8f8a",
+"seconds": 1.248,
+"attempts": 1
+},
+"family-013": {
+"digest": "55d64a5662b21ba3a31f40a26debae5d5fd917d5",
+"seconds": 1.263,
+"attempts": 1
+},
+"family-014": {
+"digest": "524411c0862ec64bceb92ca495fc14d986898674",
+"seconds": 1.331,
+"attempts": 1
+},
+"family-015": {
+"digest": "4997aa43095769a356fcf4610bad6e186c31b659",
+"seconds": 1.118,
+"attempts": 1
+},
+"family-016": {
+"digest": "e3ce543c2331853f45d2a6e23314ef80c0cbea06",
+"seconds": 1.095,
+"attempts": 1
+},
+"family-017": {
+"digest": "2c4add108d635821ce31a0518b67af937cb7a7f8",
+"seconds": 1.782,
+"attempts": 1
+},
+"family-018": {
+"digest": "4be132582a617fda8af5647083136c80203f8249",
+"seconds": 1.123,
+"attempts": 1
+},
+"family-019": {
+"digest": "3f3d29eada34f00865db35f37d77f6df6fb8fabe",
+"seconds": 1.58,
+"attempts": 1
+},
+"family-020": {
+"digest": "741ad3276e37cd1b61c759ef38d8bcefe9d83ad6",
+"seconds": 1.019,
+"attempts": 1
+},
+"family-021": {
+"digest": "eb26ea99ccbe1d7611363823960e29692ba71b27",
+"seconds": 1.416,
+"attempts": 1
+},
+"family-022": {
+"digest": "2c070cbe07b986b45535ca3a052fd5e5bbd7de3b",
+"seconds": 0.92,
+"attempts": 1
+},
+"family-023": {
+"digest": "22634a23afb96997efa903abc3aa99da1b59a912",
+"seconds": 1.241,
+"attempts": 1
+},
+"family-024": {
+"digest": "b75ddc39eafc21b749775b2ea47ee430a9e0a405",
+"seconds": 1.477,
+"attempts": 1
+},
+"family-025": {
+"digest": "890aeb3b342b9fa8992a486971f0e42d0ca1295e",
+"seconds": 1.066,
+"attempts": 1
+},
+"family-026": {
+"digest": "68896bc516a59d1eb3a71d80dd3fcc587d37a599",
+"seconds": 1.24,
+"attempts": 1
+},
+"family-027": {
+"digest": "2f5f6752dc15c240fbe3dc05db0ff54d9b49c321",
+"seconds": 1.768,
+"attempts": 1
+},
+"family-028": {
+"digest": "6b7e2b3f175cd3f867d51fc5e085919b2d397942",
+"seconds": 1.471,
+"attempts": 1
+},
+"family-029": {
+"digest": "94db55025bb3b366b6129ae76d4a2d8c47b0c6de",
+"seconds": 1.697,
+"attempts": 1
+},
+"family-030": {
+"digest": "d60b2ca503375ac11af8f369293039902a33e3ab",
+"seconds": 1.356,
+"attempts": 1
+},
+"family-031": {
+"digest": "8c06f4b39781141b394e4a086dbbae4e9910188e",
+"seconds": 2.024,
+"attempts": 1
+},
+"family-032": {
+"digest": "252dd4bafac7bb1eb1046b901abe09d5335290b0",
+"seconds": 1.078,
+"attempts": 1
+},
+"food-001": {
+"digest": "e6c7c9837b80cac6c620d48523e6d5237a1a74d1",
+"seconds": 1.944,
+"attempts": 1
+},
+"food-002": {
+"digest": "c95bc3b50b1dffda065803bddd8b354f80eaeb8c",
+"seconds": 1.459,
+"attempts": 1
+},
+"food-003": {
+"digest": "dd8e17b03e9e812af023a9afcc95894a4bcd72aa",
+"seconds": 1.146,
+"attempts": 1
+},
+"food-004": {
+"digest": "2a7bf863275ba945ab36cfa6dcf3a378449ee6a3",
+"seconds": 1.087,
+"attempts": 1
+},
+"food-005": {
+"digest": "6314805d8c106360b8a78885a9570320bae10f8a",
+"seconds": 1.484,
+"attempts": 1
+},
+"food-006": {
+"digest": "0109fd31a294238e31a6e454adfebbc0aaeaa18d",
+"seconds": 1.88,
+"attempts": 1
+},
+"food-007": {
+"digest": "cb8190ac8d99637fe69b87f98eac828e98b8fa64",
+"seconds": 2.05,
+"attempts": 1
+},
+"food-008": {
+"digest": "4b6bd6f72063634360334b70038761cc179655a0",
+"seconds": 1.805,
+"attempts": 1
+},
+"food-009": {
+"digest": "1abf6bb9985324aae8885eab54eb4694f312d77c",
+"seconds": 0.919,
+"attempts": 1
+},
+"food-010": {
+"digest": "c793c39e66f773001b504d0f541002caf8684806",
+"seconds": 1.435,
+"attempts": 1
+},
+"food-011": {
+"digest": "815d3ed7c8760b43ada634b8f38de5148c285ecb",
+"seconds": 1.407,
+"attempts": 1
+},
+"food-012": {
+"digest": "9ea5c792a60a45e37511268a84d2150fbd3c58e0",
+"seconds": 1.014,
+"attempts": 1
+},
+"food-013": {
+"digest": "987849942d482706a2acde393328fbe2f0281aba",
+"seconds": 1.168,
+"attempts": 1
+},
+"food-014": {
+"digest": "3e7860c40b9a8011a5fab511373a9f0c82c55abc",
+"seconds": 1.399,
+"attempts": 1
+},
+"food-015": {
+"digest": "6d00a9e941fce07675f0581e8d1e2fdb2ddd9b6f",
+"seconds": 1.68,
+"attempts": 1
+},
+"food-016": {
+"digest": "14e7e5eb43612f87304333e3dd011b9b98775281",
+"seconds": 1.298,
+"attempts": 1
+},
+"food-017": {
+"digest": "94f0377a2c2ca622b2f148082f934636ac518f52",
+"seconds": 1.477,
+"attempts": 1
+},
+"food-018": {
+"digest": "fa069f654344e3ae277a0093d6ef32d379c7d1f9",
+"seconds": 1.141,
+"attempts": 1
+},
+"food-019": {
+"digest": "3feb015e87b0336f28d0993d31e4979edfcb3df6",
+"seconds": 2.204,
+"attempts": 1
+},
+"food-020": {
+"digest": "71f50c3d7c309d5124e886564fe93634c64a2889",
+"seconds": 2.099,
+"attempts": 1
+},
+"food-021": {
+"digest": "b8bddf0b118ead198875896230c80d9c3579091e",
+"seconds": 2.203,
+"attempts": 1
+},
+"food-022": {
+"digest": "670ce91369408120141899a5ae87bbf93d6de230",
+"seconds": 1.499,
+"attempts": 1
+},
+"food-023": {
+"digest": "f0b03171afcee31bcb481453b756ef5561df554d",
+"seconds": 1.307,
+"attempts": 1
+},
+"food-024": {
+"digest": "27deb030bd5b361626b9191d3d60e32091a845c5",
+"seconds": 1.177,
+"attempts": 1
+},
+"food-025": {
+"digest": "2796f8dfe2cb773fdae2e6979f766acf2394c2ef",
+"seconds": 0.92,
+"attempts": 1
+},
+"food-026": {
+"digest": "9a9322b634b5ea06527df898c294c937729f9836",
+"seconds": 0.945,
+"attempts": 1
+},
+"food-027": {
+"digest": "dc57028ce57489f85ae097d8d64c3bf7f06ee86c",
+"seconds": 1.161,
+"attempts": 1
+},
+"food-028": {
+"digest": "b6e10a55ddfb6da187b3c57d2b0363e89d59d774",
+"seconds": 1.001,
+"attempts": 1
+},
+"food-029": {
+"digest": "5b40960e994c0f1de0c65083e4ce8700a501ad0a",
+"seconds": 1.043,
+"attempts": 1
+},
+"food-030": {
+"digest": "af2ef20619155858703e28e3c0f04256d4ff79ea",
+"seconds": 1.688,
+"attempts": 1
+},
+"food-031": {
+"digest": "20fa3b435949bb531c2985fe47da3ec96f3592b6",
+"seconds": 2.029,
+"attempts": 1
+},
+"food-032": {
+"digest": "d1529a67033ffc577c154f93f57a97df38a243ea",
+"seconds": 1.143,
+"attempts": 1
+},
+"food-033": {
+"digest": "83ba1100323874bfb8fda493046d2f7bebebd4cc",
+"seconds": 1.606,
+"attempts": 1
+},
+"food-034": {
+"digest": "83f337f3c4cdaa47d89defd58128e41ea20a5078",
+"seconds": 1.404,
+"attempts": 1
+},
+"food-035": {
+"digest": "3ea0076b9700589e136c89226d79fa9fdedd2b55",
+"seconds": 1.304,
+"attempts": 1
+},
+"food-036": {
+"digest": "ffb03f9fdf8acd5d4999838902a6dd125c17b68d",
+"seconds": 1.446,
+"attempts": 1
+},
+"food-037": {
+"digest": "979177371af3bb295e31b2a86436d31b7f2c8cf5",
+"seconds": 1.02,
+"attempts": 1
+},
+"food-038": {
+"digest": "6a8e421014d1d97a36b88251e666f96261bb3cd9",
+"seconds": 0.857,
+"attempts": 1
+},
+"food-039": {
+"digest": "c29d0838787acbfb603b2cf81040287c1972c2de",
+"seconds": 1.874,
+"attempts": 1
+},
+"food-040": {
+"digest": "df1b1dac765292a7cf940a3c1f1552b9ea57ec0a",
+"seconds": 1.24,
+"attempts": 1
+},
+"food-041": {
+"digest": "76d00b4f19ff037588e2a0a00641f804bce4f30d",
+"seconds": 1.281,
+"attempts": 1
+},
+"food-042": {
+"digest": "443930b24243412181c35c8c4d85779e959d6925",
+"seconds": 1.244,
+"attempts": 1
+},
+"place-001": {
+"digest": "4a36cecc8ee6f2112c68d103a17838cb7f24bdcb",
+"seconds": 2.023,
+"attempts": 1
+},
+"place-002": {
+"digest": "45181112d36a5febfdc2bf78b056b9d6396ca813",
+"seconds": 1.346,
+"attempts": 1
+},
+"place-003": {
+"digest": "cc5326bc511dd768da80850a479fa9c9f81d2eb7",
+"seconds": 2.098,
+"attempts": 1
+},
+"place-004": {
+"digest": "b945a558fcebf818ed7c53f8daa8c2de2d74e130",
+"seconds": 1.925,
+"attempts": 1
+},
+"place-005": {
+"digest": "ee49a5a030be3ebb0e172c7ac770278c8f82bb79",
+"seconds": 1.035,
+"attempts": 1
+},
+"place-006": {
+"digest": "f4ede4f1d1a5bc3b635d3cacdabe0c8f2bdb8a89",
+"seconds": 1.42,
+"attempts": 1
+},
+"place-007": {
+"digest": "ed0c82e1c6949a18167286fa04017b917a8b29f0",
+"seconds": 0.96,
+"attempts": 1
+},
+"place-008": {
+"digest": "bdfa745d0ce1e55f60928883619c148fe4c452dc",
+"seconds": 1.324,
+"attempts": 1
+},
+"place-009": {
+"digest": "1d418f02e663e2c9121067d6333e3d563ba0ff25",
+"seconds": 0.958,
+"attempts": 1
+},
+"place-010": {
+"digest": "bcefb773e9e4b75f2e8e1e6c3a3dfed4201c1c5f",
+"seconds": 1.195,
+"attempts": 1
+},
+"place-011": {
+"digest": "e071ea5dd54345f38c8c91d4e6a5cc623d34040d",
+"seconds": 1.123,
+"attempts": 1
+},
+"place-012": {
+"digest": "89c9acde1f7db5f6deac175a49d02c8f54a3518a",
+"seconds": 1.875,
+"attempts": 1
+},
+"place-013": {
+"digest": "666c0fe83fe1cd6ef9fc10580098fdbfccb10e9e",
+"seconds": 1.373,
+"attempts": 1
+},
+"place-014": {
+"digest": "6f4af27405e79fb45d2f9bdc518e5c08b75c95cc",
+"seconds": 1.372,
+"attempts": 1
+},
+"place-015": {
+"digest": "b2105a165228910f11f25047dac0200b59a6f55a",
+"seconds": 0.886,
+"attempts": 1
+},
+"place-016": {
+"digest": "6c70054421ecbca2d210a5789c9b1d14f7a27d26",
+"seconds": 2.163,
+"attempts": 1
+},
+"place-017": {
+"digest": "329b6bd1390ad2dc3e944baf86bfaeb08cee52c8",
+"seconds": 1.926,
+"attempts": 1
+},
+"place-018": {
+"digest": "28ba0861435fca5ef296af91a3841937da6e6ea4",
+"seconds": 1.616,
+"attempts": 1
+},
+"place-019": {
+"digest": "fcfa8e387b74df46c72e807e4d03b4e8a3abb040",
+"seconds": 1.431,
+"attempts": 1
+},
+"place-020": {
+"digest": "cb899bfdafb312f94273debdcd008daaf9ad070f",
+"seconds": 1.56,
+"attempts": 1
+},
+"place-021": {
+"digest": "6ac75360e95ff4538220769d18b576f5f78149f3",
+"seconds": 1.611,
+"attempts": 1
+},
+"place-022": {
+"digest": "c51e3bba18a39948cf97ab2cddb7ff09739d82d8",
+"seconds": 1.54,
+"attempts": 1
+},
+"place-023": {
+"digest": "a3ef0e8c76cd2222db45d055478cb58e4620c50d",
+"seconds": 1.416,
+"attempts": 1
+},
+"place-024": {
+"digest": "9da66047bc2e529dfabaa0273ebcadb342bc4f5f",
+"seconds": 1.352,
+"attempts": 1
+},
+"place-025": {
+"digest": "aa7c82eccc7554cbbc7fceea069cdf0b7fce93f7",
+"seconds": 1.874,
+"attempts": 1
+},
+"place-026": {
+"digest": "e2d66222d0f63a4f39bf4a0f6589606c45318bd5",
+"seconds": 1.979,
+"attempts": 1
+},
+"place-027": {
+"digest": "02f05a5e9ebfe941515954554725fcc8ac85ec14",
+"seconds": 1.84,
+"attempts": 1
+},
+"place-028": {
+"digest": "f37335f4c47ff9bfa62a016834e22bb90dceb5e0",
+"seconds": 1.215,
+"attempts": 1
+},
+"place-029": {
+"digest": "b9305a7367d4463bbe7f47f759f7fef037e7b915",
+"seconds": 1.315,
+"attempts": 1
+},
+"place-030": {
+"digest": "ed4638e316df031aa598ab80ee8b62313f7a08bb",
+"seconds": 1.427,
+"attempts": 1
+},
+"place-031": {
+"digest": "dd51f3f1e7dd9eefb0c891139fc290d082654272",
+"seconds": 1.743,
+"attempts": 1
+},
+"place-032": {
+"digest": "80147e9cf971fa818698c18eeb144685895ba8b2",
+"seconds": 1.468,
+"attempts": 1
+},
+"place-033": {
+"digest": "3d5b828d17cca84c1c9f3cfcb930483b08d3689b",
+"seconds": 1.359,
+"attempts": 1
+},
+"place-034": {
+"digest": "44af3028890328ac38779061cad57089e080fbd2",
+"seconds": 1.002,
+"attempts": 1
+},
+"place-035": {
+"digest": "99687c259ea26dbb3e4afb5736a894c57465e086",
+"seconds": 1.161,
+"attempts": 1
+},
+"place-036": {
+"digest": "a36e178400229f4f96625fb67733b3cf7e58adb8",
+"seconds": 1.548,
+"attempts": 1
+},
+"place-037": {
+"digest": "2cbe8b1b2631d89d38ba9a5f701f3677ccb5ba35",
+"seconds": 1.566,
+"attempts": 1
+},
+"feeling-001": {
+"digest": "78227215c845d39c0efb9056b7d5df4f1771f836",
+"seconds": 0.8,
+"attempts": 1
+},
+"feeling-002": {
+"digest": "4ad63460f91c20e18a785a4a0383ce406cf76b99",
+"seconds": 0.964,
+"attempts": 1
+},
+"feeling-003": {
+"digest": "127ea707bb36c0dc2c46eb2676d3d11259c4a945",
+"seconds": 1.022,
+"attempts": 1
+},
+"feeling-004": {
+"digest": "17f0b9705783033d7f055e66140c1e6b705b0643",
+"seconds": 1.018,
+"attempts": 1
+},
+"feeling-005": {
+"digest": "05bd692cfa2e9c83d192f109d5c2f934c23934a0",
+"seconds": 1.243,
+"attempts": 1
+},
+"feeling-006": {
+"digest": "5c8bf02d56083064cd8e1c9593dfd87528a11820",
+"seconds": 1.215,
+"attempts": 1
+},
+"feeling-007": {
+"digest": "2df38d0c9b7d7e2d326781938073936a4926476a",
+"seconds": 1.498,
+"attempts": 1
+},
+"feeling-008": {
+"digest": "b08c5ca78b33c4e67ead7ee5e7a14909599699b1",
+"seconds": 0.806,
+"attempts": 1
+},
+"feeling-009": {
+"digest": "db69c339282d5e78338b0656e960796b7c5a0932",
+"seconds": 0.845,
+"attempts": 1
+},
+"feeling-010": {
+"digest": "d40c3c89fdcfeec6d77f0c5b5e1eee0eef013e1d",
+"seconds": 1.309,
+"attempts": 1
+},
+"feeling-011": {
+"digest": "aef4834ca3908d3f953eeebabe8c57d6049fee1b",
+"seconds": 1.056,
+"attempts": 1
+},
+"feeling-012": {
+"digest": "e0babbfbb08cb9e0a5a1475d5f5bc68aff95a648",
+"seconds": 1.408,
+"attempts": 1
+},
+"feeling-013": {
+"digest": "341a9fe9897a8bbde83fe37a4c563dd18a1c428c",
+"seconds": 1.178,
+"attempts": 1
+},
+"feeling-014": {
+"digest": "c85ff44e8c8eddf6132a4c73e56e535586dfb732",
+"seconds": 1.271,
+"attempts": 1
+},
+"feeling-015": {
+"digest": "a3d9edc3b3bcb0c75c224ecf19b9c100017f7d47",
+"seconds": 0.902,
+"attempts": 1
+},
+"feeling-016": {
+"digest": "878d84f7ec696940a6100747cc6b01e3d8fc5c7a",
+"seconds": 1.213,
+"attempts": 1
+},
+"feeling-017": {
+"digest": "cd8f8e42a834df4653b3d96b9e93b6b4d9bbc4e3",
+"seconds": 1.335,
+"attempts": 1
+},
+"feeling-018": {
+"digest": "9d6da2b739c073f018d6f8de6c01092aaf9c115c",
+"seconds": 1.113,
+"attempts": 1
+},
+"feeling-019": {
+"digest": "da3a72ff4c173f9f2e449925a3a8a24de50c23ee",
+"seconds": 1.23,
+"attempts": 1
+},
+"feeling-020": {
+"digest": "fca6cc27423a63f2b0e5d557aab5f69b0739ce67",
+"seconds": 1.138,
+"attempts": 1
+},
+"feeling-021": {
+"digest": "40c82be5c4666527876acdfc563deff50f3ed2a4",
+"seconds": 1.168,
+"attempts": 1
+},
+"feeling-022": {
+"digest": "a490b2399ac6f5f4d144820bf1168b515d96014c",
+"seconds": 1.295,
+"attempts": 1
+},
+"feeling-023": {
+"digest": "69b21bf05e782e00d897bfc7ebca3c29b6e0d503",
+"seconds": 1.307,
+"attempts": 1
+},
+"feeling-024": {
+"digest": "761eeba2abc944f100d5fbcbf103571ea52cd6fc",
+"seconds": 1.312,
+"attempts": 1
+},
+"feeling-025": {
+"digest": "24a610ae68e1098b45fabee02a0b248cd86414c3",
+"seconds": 1.476,
+"attempts": 1
+},
+"feeling-026": {
+"digest": "8f76d7272291af1aa99935730bae0f0869980152",
+"seconds": 1.201,
+"attempts": 1
+},
+"feeling-027": {
+"digest": "415145b2e8c63518f296dfc64a788a7cf5a6dc5f",
+"seconds": 1.248,
+"attempts": 1
+},
+"feeling-028": {
+"digest": "6f62f3a0cf842d79db13fb7494449245e169ab4d",
+"seconds": 0.924,
+"attempts": 1
+},
+"feeling-029": {
+"digest": "70a69e4e0ff2dd1ec52b15cdc8c8388781c8ff66",
+"seconds": 0.974,
+"attempts": 1
+},
+"feeling-030": {
+"digest": "f20d1fb40dcbedf0937f4939491070d137562b9f",
+"seconds": 1.225,
+"attempts": 1
+},
+"feeling-031": {
+"digest": "38598cf8f745465d7bdace627c8f5888c238a731",
+"seconds": 1.22,
+"attempts": 1
+},
+"feeling-032": {
+"digest": "5d58eb8057ca35523bd1cf86fbf685e01f376c0c",
+"seconds": 2.112,
+"attempts": 1
+},
+"time-001": {
+"digest": "89f6afe4fb5ff28841ef0b6822cbe648fad8dd42",
+"seconds": 1.006,
+"attempts": 1
+},
+"time-002": {
+"digest": "195a8aa6277764e3fa7ad3449147b1fe868d1e05",
+"seconds": 0.959,
+"attempts": 1
+},
+"time-003": {
+"digest": "492037bf49efd043c2f4f0d29ee69c711a1c9d04",
+"seconds": 1.205,
+"attempts": 1
+},
+"time-004": {
+"digest": "a9535fca8f077266171aa6a6c18802f7962cd57c",
+"seconds": 1.231,
+"attempts": 1
+},
+"time-005": {
+"digest": "8c99df6a68e8aafd86a22060096bcf74cb76da86",
+"seconds": 0.915,
+"attempts": 1
+},
+"time-006": {
+"digest": "255afc3b50e8ef9d3f8be0a10ed4761376dbc841",
+"seconds": 0.987,
+"attempts": 1
+},
+"time-007": {
+"digest": "d3d3f73f0715ede67114cef7014347d31b646d93",
+"seconds": 1.691,
+"attempts": 1
+},
+"time-008": {
+"digest": "1e1ac4179e8a02470d08c19513ee06c841a1886f",
+"seconds": 0.85,
+"attempts": 1
+},
+"time-009": {
+"digest": "e35c34d539d29d07734fb96e6db09588d20031b8",
+"seconds": 0.976,
+"attempts": 1
+},
+"time-010": {
+"digest": "3ba8e855bd0e64ead3cfcd7d00e9a6b751afb32c",
+"seconds": 1.497,
+"attempts": 1
+},
+"time-011": {
+"digest": "89db65d516558507139d3344c81724e61950c63d",
+"seconds": 0.92,
+"attempts": 1
+},
+"time-012": {
+"digest": "a33bde7f8b5cde3da594be6c4e6711d4ba24f463",
+"seconds": 1.235,
+"attempts": 1
+},
+"time-013": {
+"digest": "b62c50c77e57af7abac10e689aa3afed9f1b1a87",
+"seconds": 1.744,
+"attempts": 1
+},
+"time-014": {
+"digest": "ae7c594c73b0eaa6bbccac505e835fd92f145cc8",
+"seconds": 1.128,
+"attempts": 1
+},
+"time-015": {
+"digest": "34c4b6f9871358bfb68cfccb0025cc673646f380",
+"seconds": 1.368,
+"attempts": 1
+},
+"time-016": {
+"digest": "83eee153b2ed899d995028fb49a99e9116ad865a",
+"seconds": 2.449,
+"attempts": 1
+},
+"time-017": {
+"digest": "594798407e970143cf102253862a625dfb8163b1",
+"seconds": 2.383,
+"attempts": 1
+},
+"time-018": {
+"digest": "019eec86adaae72b9057c70029ddeef43f958814",
+"seconds": 1.739,
+"attempts": 1
+},
+"time-019": {
+"digest": "e373c92a2264f98513b2922b7e5beff42dfa274f",
+"seconds": 1.678,
+"attempts": 1
+},
+"time-020": {
+"digest": "c3919f18b04f2225aefe555dcb2305c3a511ecd0",
+"seconds": 1.51,
+"attempts": 1
+},
+"time-021": {
+"digest": "cfda18b24478bec3d5224e8429fbcbc44862faa5",
+"seconds": 1.536,
+"attempts": 1
+},
+"time-022": {
+"digest": "bde58c661ac4b2bf7c9bb6c32c43cfd191d820f1",
+"seconds": 1.281,
+"attempts": 1
+},
+"time-023": {
+"digest": "b58016e24d4e0f38147a01a1bcb5032905f73940",
+"seconds": 1.598,
+"attempts": 1
+},
+"time-024": {
+"digest": "6fe2b20fd1ac8bcc5d8780c1d8620240197c3453",
+"seconds": 1.987,
+"attempts": 1
+},
+"time-025": {
+"digest": "5c0ff2ec068fd70b9cf2c0311603d49841903299",
+"seconds": 1.785,
+"attempts": 1
+},
+"time-026": {
+"digest": "9011268769190874b7ded52dc3abce90fae87779",
+"seconds": 1.903,
+"attempts": 1
+},
+"time-027": {
+"digest": "a9d2d0d49f2b8c64667481f9291dcee0cb5be85a",
+"seconds": 1.189,
+"attempts": 1
+},
+"time-028": {
+"digest": "bceda9d0e96aa6e6da9498f116fbd7aa1c7a664d",
+"seconds": 1.307,
+"attempts": 1
+},
+"spoken-001": {
+"digest": "c318cd01977881af1ae6c1c4f1932cf4b6973a6b",
+"seconds": 0.869,
+"attempts": 1
+},
+"spoken-002": {
+"digest": "6736447c98c760fafd925d52923ce63f85f61e0f",
+"seconds": 1.081,
+"attempts": 1
+},
+"spoken-003": {
+"digest": "61f8bdb4864dc5070e157b0cb5a5d01e6114db2f",
+"seconds": 1.147,
+"attempts": 1
+},
+"spoken-004": {
+"digest": "1fd3adaac0f6fc90ebd56a2af47b65aeebd3240b",
+"seconds": 0.851,
+"attempts": 1
+},
+"spoken-005": {
+"digest": "6cf97f49a079b92056e6739957a3b998e83b8ba9",
+"seconds": 0.813,
+"attempts": 1
+},
+"spoken-006": {
+"digest": "07e881347a2f9450ac0feaf105292ff32316ae2a",
+"seconds": 1.009,
+"attempts": 1
+},
+"spoken-007": {
+"digest": "fc5e2cb8f140af2d4b1fb38b28b88c061d3ce434",
+"seconds": 0.862,
+"attempts": 1
+},
+"spoken-008": {
+"digest": "dc96d571762a1746d6127bec873d3d98d912ca6d",
+"seconds": 1.048,
+"attempts": 1
+},
+"spoken-009": {
+"digest": "98605b324c40d81b403e9f5e1bccf8f79840c8fc",
+"seconds": 0.653,
+"attempts": 1
+},
+"spoken-010": {
+"digest": "1a892c688881f0c284c47804899bbc9834535af4",
+"seconds": 0.576,
+"attempts": 1
+},
+"spoken-011": {
+"digest": "8fafbcc8ef8300d1a37000be6264484ca7b633a9",
+"seconds": 0.773,
+"attempts": 1
+},
+"spoken-012": {
+"digest": "7422a7805c25a7676821f57798ffff4338c1fb1a",
+"seconds": 0.623,
+"attempts": 1
+},
+"spoken-013": {
+"digest": "a6e74969730740bcf3e25e509d8461dbfbdef1e1",
+"seconds": 0.879,
+"attempts": 1
+},
+"spoken-014": {
+"digest": "f30b6752218932c8c6d4e495040619395c4b6a71",
+"seconds": 0.989,
+"attempts": 1
+},
+"spoken-015": {
+"digest": "f3b947056421bcce39bfa4f8d9e5a54275afd8fc",
+"seconds": 1.316,
+"attempts": 1
+},
+"spoken-016": {
+"digest": "f0ccb0254533885525cdb5e1d1f6478bbe664515",
+"seconds": 1.228,
+"attempts": 1
+},
+"spoken-017": {
+"digest": "565ec5c358d70f83efd1da800d1c7bd2d77f0ec9",
+"seconds": 0.985,
+"attempts": 1
+},
+"spoken-018": {
+"digest": "6d9b9ea9f0442195ab29dfb790b451d777e14bf2",
+"seconds": 0.856,
+"attempts": 1
+},
+"spoken-019": {
+"digest": "4c683ce51e6118c9e4fe025c13165ab997a59e84",
+"seconds": 0.773,
+"attempts": 1
+},
+"spoken-020": {
+"digest": "1791293eefc138cd8b9410e145594e133f82e736",
+"seconds": 0.802,
+"attempts": 1
+},
+"spoken-021": {
+"digest": "ed83c9c93a0e947e7b0ee859d9be35aeb211288b",
+"seconds": 0.795,
+"attempts": 1
+},
+"spoken-022": {
+"digest": "8e54a24273c7d781f0444f1703caed073039d916",
+"seconds": 0.606,
+"attempts": 1
+},
+"spoken-023": {
+"digest": "b5731bb0597e410aa914820c971d5a2a4e3b4b49",
+"seconds": 0.743,
+"attempts": 1
+},
+"spoken-024": {
+"digest": "06df345b77ecac2dbd6c71efac8dfcf0bf18aa20",
+"seconds": 0.809,
+"attempts": 1
+},
+"spoken-025": {
+"digest": "a968cc99e3019beace05507953af4ff6b60c9b4d",
+"seconds": 0.936,
+"attempts": 1
+},
+"spoken-026": {
+"digest": "4ea20f8c458c2460290380a7963a3e22ac340f47",
+"seconds": 0.788,
+"attempts": 1
+},
+"spoken-027": {
+"digest": "8befffa29d239b9dc7a4239824f84eabf1201be0",
+"seconds": 0.8,
+"attempts": 1
+},
+"spoken-028": {
+"digest": "447626330ee73219ba7b3cb34aad55b3fc5dd7af",
+"seconds": 0.796,
+"attempts": 1
+},
+"spoken-029": {
+"digest": "8d8ab59b3d9d5a38fb089e37552a965f9c52611b",
+"seconds": 0.75,
+"attempts": 1
+},
+"spoken-030": {
+"digest": "064f35f51b2281776ad22d33c034ecea69513fa4",
+"seconds": 0.7,
+"attempts": 1
+},
+"spoken-031": {
+"digest": "6178dc32971101d5cadd7f6054d580f729749d24",
+"seconds": 0.991,
+"attempts": 1
+},
+"spoken-032": {
+"digest": "4e266131aa7099d59ceed90ef5c17a2936ccce68",
+"seconds": 1.509,
+"attempts": 1
+},
+"spoken-033": {
+"digest": "792566b7d36d306091d4efbb2e15a93525a710aa",
+"seconds": 1.727,
+"attempts": 1
+},
+"spoken-034": {
+"digest": "3758654d6d8d48fae2fa90a33e30cb83ce0afbc3",
+"seconds": 1.593,
+"attempts": 1
+},
+"spoken-035": {
+"digest": "d9e91dab370547a70fbb111911dbb1c970094b2e",
+"seconds": 1.641,
+"attempts": 1
+},
+"spoken-036": {
+"digest": "2578c1451788da166f16f560740a260cf238d569",
+"seconds": 1.379,
+"attempts": 1
+},
+"spoken-037": {
+"digest": "9e46884d2047e328ed0b67ada877599850dcd562",
+"seconds": 0.906,
+"attempts": 1
+},
+"spoken-038": {
+"digest": "1eced13ede375095a347275b5a50a1686dcbde1f",
+"seconds": 1.407,
+"attempts": 1
+},
+"spoken-039": {
+"digest": "ce2fdfefbca42f68e28fc49753b2149122ca6e1c",
+"seconds": 1.681,
+"attempts": 1
+},
+"spoken-040": {
+"digest": "eeabbd5e5e773108daceea02938c34750a56c016",
+"seconds": 2.373,
+"attempts": 1
+},
+"spoken-041": {
+"digest": "816558c8e4929574326134f04112b470d0037d6a",
+"seconds": 2.424,
+"attempts": 1
+},
+"spoken-042": {
+"digest": "89027dc79c164924781afebdecb273ef187e0782",
+"seconds": 1.953,
+"attempts": 1
+},
+"spoken-043": {
+"digest": "73cba64fdcb3ad42fedd7f6d8cfb27c2f4ebaa74",
+"seconds": 2.142,
+"attempts": 1
+},
+"spoken-044": {
+"digest": "aba646f21a48c38120494bb63e1426e2fe09ed81",
+"seconds": 1.037,
+"attempts": 1
+},
+"spoken-045": {
+"digest": "be1f09a6664eddd05198726f9a746527e1f17063",
+"seconds": 0.908,
+"attempts": 1
+},
+"spoken-046": {
+"digest": "73e6ac9ce8cdeb8607564ac0dd9b204b4b2f3e62",
+"seconds": 1.025,
+"attempts": 1
+},
+"spoken-047": {
+"digest": "ef883d19ca61143ca5c84a4592c54f657bc5ad12",
+"seconds": 1.328,
+"attempts": 1
+},
+"spoken-048": {
+"digest": "9aeb10eb9a5fa25d9c17ad652c2da7e2797e1698",
+"seconds": 1.117,
+"attempts": 1
+},
+"spoken-049": {
+"digest": "f83564300d8bd63e2eaa7222d05faa80da14064b",
+"seconds": 0.838,
+"attempts": 1
+},
+"spoken-050": {
+"digest": "4fdaae09395e9494170c806dad1ce08b61547842",
+"seconds": 0.821,
+"attempts": 1
+},
+"spoken-051": {
+"digest": "fff58359ceca218af390f732ec1bd767577336ed",
+"seconds": 1.026,
+"attempts": 1
+},
+"vocab-001": {
+"digest": "1f71e0f4ac9b47cd93bf269e4017abaab9d3bd63",
+"seconds": 0.875,
+"attempts": 1
+},
+"vocab-001-ex": {
+"digest": "61a036e8a813e9dc9d431ac2837b60272f3e18d5",
+"seconds": 1.343,
+"attempts": 1
+},
+"vocab-002": {
+"digest": "5e8405ef788f31da612371d0392dbe8ff2ce7659",
+"seconds": 0.939,
+"attempts": 1
+},
+"vocab-002-ex": {
+"digest": "e9cedd7db4f9e9681917a10800f15fd5a4a31805",
+"seconds": 1.694,
+"attempts": 1
+},
+"vocab-003": {
+"digest": "1bfbdf35b1359fc6b6f93893874cf23a50293de5",
+"seconds": 0.665,
+"attempts": 1
+},
+"vocab-003-ex": {
+"digest": "b0e10111f9ae43910bee55b74abf7af04bef5144",
+"seconds": 1.306,
+"attempts": 1
+},
+"vocab-004": {
+"digest": "c52892095b5f03b5da3fcb3f8853eefb1133f8a1",
+"seconds": 1.005,
+"attempts": 1
+},
+"vocab-004-ex": {
+"digest": "9fe1e6f6e20d24d7f0a14b441635786ee2965578",
+"seconds": 1.385,
+"attempts": 1
+},
+"vocab-005": {
+"digest": "9f98291e44103e962fdca9ef3d069dbdbb0973a4",
+"seconds": 0.766,
+"attempts": 1
+},
+"vocab-005-ex": {
+"digest": "6d64ad19fb5857077cd625989bdb37f24a907d00",
+"seconds": 1.326,
+"attempts": 1
+},
+"vocab-006": {
+"digest": "00e1de3f52d4da091bc377d31a819a0c5da0fe6f",
+"seconds": 0.707,
+"attempts": 1
+},
+"vocab-006-ex": {
+"digest": "c01966cdb1a39ca4f5ad25bcf3d77b44cc282d96",
+"seconds": 1.187,
+"attempts": 1
+},
+"vocab-007": {
+"digest": "5898fc860300e228dcd54c0b1045b5fa0dcda502",
+"seconds": 0.596,
+"attempts": 1
+},
+"vocab-007-ex": {
+"digest": "094fa51c47602ce4d37c571d4cc1b483a765d2c4",
+"seconds": 1.33,
+"attempts": 1
+},
+"vocab-008": {
+"digest": "37031f99ac78580c9f82e04fa237d295ea10ca41",
+"seconds": 0.546,
+"attempts": 1
+},
+"vocab-008-ex": {
+"digest": "6a2ff8d893d09277a7215240c59e0462ba3f209c",
+"seconds": 1.119,
+"attempts": 1
+},
+"vocab-009": {
+"digest": "8af4ee7835ade028874b481d04eaa5bd7f1f2bff",
+"seconds": 0.783,
+"attempts": 1
+},
+"vocab-009-ex": {
+"digest": "cb92f6154230d4fd8042f9c6d599b484049e187f",
+"seconds": 1.192,
+"attempts": 1
+},
+"vocab-010": {
+"digest": "7867bbbe885d66a5add7a42e5eee53f2b2d049de",
+"seconds": 0.808,
+"attempts": 1
+},
+"vocab-010-ex": {
+"digest": "a621fca8a1fb14b618d5bf4aa2cb396aee395491",
+"seconds": 1.222,
+"attempts": 1
+},
+"vocab-011": {
+"digest": "f008f75738260737db88d246e490257f73fb3a8e",
+"seconds": 0.571,
+"attempts": 1
+},
+"vocab-011-ex": {
+"digest": "c73cbff36ab0bf65070f661af5f6c9e9d8ca15fe",
+"seconds": 1.6,
+"attempts": 1
+},
+"vocab-012": {
+"digest": "a0884f17576524d4ee5ceb22a9d6ab576e1fc009",
+"seconds": 0.762,
+"attempts": 1
+},
+"vocab-012-ex": {
+"digest": "9ace6c26316ab27b8de8a6b40abb507eb329fc11",
+"seconds": 1.627,
+"attempts": 1
+},
+"vocab-013": {
+"digest": "ae31f93bc10bce581e74f3df286b9db3f328b10f",
+"seconds": 0.759,
+"attempts": 1
+},
+"vocab-013-ex": {
+"digest": "7ca6d76d8fcdd1a01fc2a24ef79eb2a71c228010",
+"seconds": 1.405,
+"attempts": 1
+},
+"vocab-014": {
+"digest": "519902d4d850872cb6d6a04745c6ffea91721740",
+"seconds": 0.592,
+"attempts": 1
+},
+"vocab-014-ex": {
+"digest": "ecf46d3f96cd8bdfe25aaa5c3d8a13b5979f4e61",
+"seconds": 1.298,
+"attempts": 1
+},
+"vocab-015": {
+"digest": "6478d3b7c87919818f4a4b87dae006dcc6a742a6",
+"seconds": 0.846,
+"attempts": 1
+},
+"vocab-015-ex": {
+"digest": "6d790e04260399d60e1a06a0b630069c499c4209",
+"seconds": 1.377,
+"attempts": 1
+},
+"vocab-016": {
+"digest": "f7cb1f68a4d966a43b406eab29ff7dfb3997a306",
+"seconds": 0.557,
+"attempts": 1
+},
+"vocab-016-ex": {
+"digest": "fda47afe69ed0d62721205c84d799e4deeaf1aa2",
+"seconds": 1.136,
+"attempts": 1
+},
+"vocab-017": {
+"digest": "eba47378060360e8358c90a878b2e4ae26dac5b9",
+"seconds": 0.624,
+"attempts": 1
+},
+"vocab-017-ex": {
+"digest": "ade5bbc310f7cd5676fc8c34bde0fce35103643e",
+"seconds": 1.53,
+"attempts": 1
+},
+"vocab-018": {
+"digest": "a664f10b5e580cdde0ca6f4ae01ccf741592737a",
+"seconds": 0.629,
+"attempts": 1
+},
+"vocab-018-ex": {
+"digest": "2acef1fc0bf7558d83e37977763720eff6e77efb",
+"seconds": 1.151,
+"attempts": 1
+},
+"vocab-019": {
+"digest": "479471ad05080986ced885af84405a1f0aea8b81",
+"seconds": 0.774,
+"attempts": 1
+},
+"vocab-019-ex": {
+"digest": "91f1c972afc00fb81d7eaa320b86f6d69b87d002",
+"seconds": 1.457,
+"attempts": 1
+},
+"vocab-020": {
+"digest": "5f49e229d8567fd04301850221c6efdcd7b9bfd2",
+"seconds": 0.789,
+"attempts": 1
+},
+"vocab-020-ex": {
+"digest": "724c129165babeb0a6d4b52ef03bf275db29eef6",
+"seconds": 1.24,
+"attempts": 1
+},
+"vocab-021": {
+"digest": "4f0a8c629e23d947bb369cf420607947c24dc9a9",
+"seconds": 0.713,
+"attempts": 1
+},
+"vocab-021-ex": {
+"digest": "75fced31a76c0dfaf7aa299632e42f6ec925a75a",
+"seconds": 1.051,
+"attempts": 1
+},
+"vocab-022": {
+"digest": "b714ebb17d951ebf60e1e16d0a3d27957bf1e699",
+"seconds": 0.74,
+"attempts": 1
+},
+"vocab-022-ex": {
+"digest": "9364fc9daa8011c71f09dd7aa4e63c47fcb2e725",
+"seconds": 1.199,
+"attempts": 1
+},
+"vocab-023": {
+"digest": "5d95cb27f49aafe1eac579adf55ae18deeb49b8c",
+"seconds": 0.664,
+"attempts": 1
+},
+"vocab-023-ex": {
+"digest": "fea4d39ff9465d5d4730b953c873da1688e775f0",
+"seconds": 1.243,
+"attempts": 1
+},
+"vocab-024": {
+"digest": "442edb21c491a6e6f502eb79e98614f3c7edf43e",
+"seconds": 0.833,
+"attempts": 1
+},
+"vocab-024-ex": {
+"digest": "f72b99c8d9803a6be29b9df25264ae73c92f65c9",
+"seconds": 1.38,
+"attempts": 1
+},
+"vocab-025": {
+"digest": "d3101676be409f2777c6f2cf997acb07ba5dd919",
+"seconds": 0.889,
+"attempts": 1
+},
+"vocab-025-ex": {
+"digest": "1e5ca91b42ad0c905df6b03f80a335c5d308f705",
+"seconds": 2.19,
+"attempts": 1
+},
+"vocab-026": {
+"digest": "dd3bc42b2cbba792a371118cd1c87384c107bf6c",
+"seconds": 0.567,
+"attempts": 1
+},
+"vocab-026-ex": {
+"digest": "b473e99555a3aa886544b22edf8c8d1c0b3931fd",
+"seconds": 1.067,
+"attempts": 1
+},
+"vocab-027": {
+"digest": "503c02f0c435f0b4da0fa867f7cd59ca411b6857",
+"seconds": 0.563,
+"attempts": 1
+},
+"vocab-027-ex": {
+"digest": "b453d860b8671c578f0ea43181683077fd7c29f0",
+"seconds": 1.069,
+"attempts": 1
+},
+"vocab-028": {
+"digest": "dff3ee8d747354cccddf81d7880c71fc99e97ab2",
+"seconds": 0.644,
+"attempts": 1
+},
+"vocab-028-ex": {
+"digest": "b16c281c0964805b55f85be83f60a3850e960142",
+"seconds": 1.247,
+"attempts": 1
+},
+"vocab-029": {
+"digest": "1f411ddac746bd8266c276fa566e1ff7d37ded86",
+"seconds": 0.728,
+"attempts": 1
+},
+"vocab-029-ex": {
+"digest": "ca14e69434e0595f771dfe8fd3783df4769a95b8",
+"seconds": 1.231,
+"attempts": 1
+},
+"vocab-030": {
+"digest": "64a7f9da472ce8179e482f6d266f98a8c4053b25",
+"seconds": 0.741,
+"attempts": 1
+},
+"vocab-030-ex": {
+"digest": "1b41c5d24bc5dbfe416555d19b9a90e1501bfe62",
+"seconds": 1.152,
+"attempts": 1
+},
+"vocab-031": {
+"digest": "bec9703f7a456cd2b4ab5fb3220ae016e3e394e3",
+"seconds": 0.774,
+"attempts": 1
+},
+"vocab-031-ex": {
+"digest": "25a47fd8398dbdcc601bd23480b3d33cbc576332",
+"seconds": 0.981,
+"attempts": 1
+},
+"vocab-032": {
+"digest": "56b0df750d26e34080b743c5e7b3bacef5107521",
+"seconds": 0.668,
+"attempts": 1
+},
+"vocab-032-ex": {
+"digest": "d6d596d7edfa73ba1c8684115706ab055196491d",
+"seconds": 1.344,
+"attempts": 1
+},
+"vocab-033": {
+"digest": "8b84f324b370c5a4c6a79ccea2446f9214fbfc5e",
+"seconds": 0.807,
+"attempts": 1
+},
+"vocab-033-ex": {
+"digest": "9aad80c9c632a874ad93752b04e59f7b7246fba3",
+"seconds": 1.093,
+"attempts": 1
+},
+"vocab-034": {
+"digest": "1371484d6f722ef16f848c6ea413e5833fc0e52b",
+"seconds": 0.716,
+"attempts": 1
+},
+"vocab-034-ex": {
+"digest": "fce63f8b83f93d1fef43c674edf58a75b061676e",
+"seconds": 1.084,
+"attempts": 1
+},
+"vocab-035": {
+"digest": "26ecab457b842e5a17cac4b14730c68b5da02898",
+"seconds": 0.599,
+"attempts": 1
+},
+"vocab-035-ex": {
+"digest": "69937b666577eb9ff385d92364620126f25855ca",
+"seconds": 1.845,
+"attempts": 1
+},
+"vocab-036": {
+"digest": "ae2b1a2bbb4fa16ef6b6b6620e03c89a81fb0e68",
+"seconds": 0.645,
+"attempts": 1
+},
+"vocab-036-ex": {
+"digest": "f4eed5d785ffa9e82ebaae26737977e984512b8f",
+"seconds": 0.972,
+"attempts": 1
+},
+"vocab-037": {
+"digest": "db9149cb38bcd8be8c1fef9f64d475c1e757fd06",
+"seconds": 0.687,
+"attempts": 1
+},
+"vocab-037-ex": {
+"digest": "100348aef807ae7545b8cbadc5be7c133ad04fc6",
+"seconds": 1.159,
+"attempts": 1
+},
+"vocab-038": {
+"digest": "0d4da47fa26ba903290adbdc5e3772136229b93f",
+"seconds": 0.604,
+"attempts": 1
+},
+"vocab-038-ex": {
+"digest": "d5fec571c36939f7c345011bd61fef4cc57a62e5",
+"seconds": 1.033,
+"attempts": 1
+},
+"vocab-039": {
+"digest": "04987fcab72ade3a87a64267b02a2ad9f8f22484",
+"seconds": 0.867,
+"attempts": 1
+},
+"vocab-039-ex": {
+"digest": "7c46b506111a27caf22eb62be0eafee21947d465",
+"seconds": 1.581,
+"attempts": 1
+},
+"vocab-040": {
+"digest": "18e3021e20e0ef6f2c6aaa45caa691eaf6ddec61",
+"seconds": 0.781,
+"attempts": 1
+},
+"vocab-040-ex": {
+"digest": "0f79059391c943feddf12fa7f68cf11444c358dc",
+"seconds": 1.463,
+"attempts": 1
+},
+"vocab-041": {
+"digest": "7676e7b98b4df00789e60f8f704ae9dc29f15fdd",
+"seconds": 0.87,
+"attempts": 1
+},
+"vocab-041-ex": {
+"digest": "f150eb156db699bcc906e1382df0e3e1e69ade9e",
+"seconds": 1.317,
+"attempts": 1
+},
+"vocab-042": {
+"digest": "339528c893a014c23d7e8577d56108f13c0fe5f9",
+"seconds": 0.618,
+"attempts": 1
+},
+"vocab-042-ex": {
+"digest": "546d5f777f8d298aaa4a4422efb67ea9de83d4fb",
+"seconds": 1.595,
+"attempts": 1
+},
+"vocab-043": {
+"digest": "de73eac0c305038f0437bc6a1f994a5a4379ed28",
+"seconds": 0.49,
+"attempts": 1
+},
+"vocab-043-ex": {
+"digest": "c056f7d3db475cdda8512700aef56aaa975d2236",
+"seconds": 1.124,
+"attempts": 1
+},
+"vocab-044": {
+"digest": "b3fb555e1b2763828f0214f6fe2bea9892db8292",
+"seconds": 0.734,
+"attempts": 1
+},
+"vocab-044-ex": {
+"digest": "7dbad443d00b089b518586ce3e0f663bffc3c3a3",
+"seconds": 1.433,
+"attempts": 1
+},
+"vocab-045": {
+"digest": "f195cb208dd9ed3719671be6475f2463db41e373",
+"seconds": 0.948,
+"attempts": 1
+},
+"vocab-045-ex": {
+"digest": "04256e4303f99b6904986d9483b0123e90227160",
+"seconds": 1.575,
+"attempts": 1
+},
+"vocab-046": {
+"digest": "292c1dc6045864a46bbe6506320094b2b62091d6",
+"seconds": 0.618,
+"attempts": 1
+},
+"vocab-046-ex": {
+"digest": "7fad7c2a4c0d361926769d5b467c6b1c92ec1b56",
+"seconds": 1.437,
+"attempts": 1
+},
+"vocab-047": {
+"digest": "b4c676a043a368aef4118a1736cb2170d2aacd59",
+"seconds": 0.599,
+"attempts": 1
+},
+"vocab-047-ex": {
+"digest": "a90061bf29e6285d76fd41a59a79b7e7787a3a99",
+"seconds": 1.134,
+"attempts": 1
+},
+"vocab-048": {
+"digest": "6df94695625d70c554795bee0df5f9d9ccac9e79",
+"seconds": 0.832,
+"attempts": 1
+},
+"vocab-048-ex": {
+"digest": "2f89685639cef0e9324c866da46ac429f434cada",
+"seconds": 1.266,
+"attempts": 1
+},
+"vocab-049": {
+"digest": "6a7d17c8588ef886e8f24f63f3173bfd0f5d3dcf",
+"seconds": 0.604,
+"attempts": 1
+},
+"vocab-049-ex": {
+"digest": "3016745284d42592f3f876f70b5443682a684342",
+"seconds": 1.165,
+"attempts": 1
+},
+"vocab-050": {
+"digest": "00cc01ace9aac457ead8cea546298da82347e71f",
+"seconds": 0.617,
+"attempts": 1
+},
+"vocab-050-ex": {
+"digest": "65b0d63fe0380056704be8edc424a0c3b972a4e6",
+"seconds": 1.53,
+"attempts": 1
+},
+"vocab-051": {
+"digest": "f709c8dc636bfd619dbb6b5132d495ea1b3d18ae",
+"seconds": 0.832,
+"attempts": 1
+},
+"vocab-051-ex": {
+"digest": "e9adf7028d6298eb4dcfdc917170e044ae86e448",
+"seconds": 1.078,
+"attempts": 1
+},
+"vocab-052": {
+"digest": "72988ef4dc0df9b16ccdb1409cb88fab713aa28d",
+"seconds": 0.483,
+"attempts": 1
+},
+"vocab-052-ex": {
+"digest": "7242a78bd0b14a5e19c8be3be207de7b40dc8cbd",
+"seconds": 1.269,
+"attempts": 1
+},
+"vocab-053": {
+"digest": "9473d93666ab8c41596d738ba1fc36297f6904c8",
+"seconds": 0.616,
+"attempts": 1
+},
+"vocab-053-ex": {
+"digest": "910d7c60be1ee14eed43311ee6b032613e68f8c1",
+"seconds": 0.888,
+"attempts": 1
+},
+"vocab-054": {
+"digest": "de23adaa61f188f20f19ee634593a143008c37a4",
+"seconds": 0.737,
+"attempts": 1
+},
+"vocab-054-ex": {
+"digest": "36f7fb12bdd9f49f5fbbc4ab1e8d02ae505fd86e",
+"seconds": 1.279,
+"attempts": 1
+},
+"vocab-055": {
+"digest": "912a883ea50f1118ba819b386dc659574effbf89",
+"seconds": 0.745,
+"attempts": 1
+},
+"vocab-055-ex": {
+"digest": "72de243b526a5070ba190f380f051f7076f87661",
+"seconds": 1.079,
+"attempts": 1
+},
+"vocab-056": {
+"digest": "a6bbc9bcd5c572b9a4920aa298a2b0cfc95e7f55",
+"seconds": 0.921,
+"attempts": 1
+},
+"vocab-056-ex": {
+"digest": "f3fec524131054196c76683175db796674cf3879",
+"seconds": 1.501,
+"attempts": 1
+},
+"vocab-057": {
+"digest": "86bdcfaadb87de219b33c703dff585cf77c64ff7",
+"seconds": 0.679,
+"attempts": 1
+},
+"vocab-057-ex": {
+"digest": "251a2c8bf847a8799d1f3e5b4cb55e9eea5489b2",
+"seconds": 1.45,
+"attempts": 1
+},
+"vocab-058": {
+"digest": "851996c0dc981a335e0689a53b02435e6f8fc8e0",
+"seconds": 0.899,
+"attempts": 1
+},
+"vocab-058-ex": {
+"digest": "ac45dd94fa68b6e87d73c7fe8025978181677b6c",
+"seconds": 1.221,
+"attempts": 1
+},
+"vocab-059": {
+"digest": "785ee49b7e2b0e5f10791f06364fb8d17291d1d8",
+"seconds": 0.743,
+"attempts": 1
+},
+"vocab-059-ex": {
+"digest": "4d2bd31da7c99c59fd605a87da15abddcda78df8",
+"seconds": 1.277,
+"attempts": 1
+},
+"vocab-060": {
+"digest": "786dc31c2e9549f1534259f7d4542e63202c04ab",
+"seconds": 0.907,
+"attempts": 1
+},
+"vocab-060-ex": {
+"digest": "36738c966d833ea53c28795849f57502c9f07d48",
+"seconds": 1.674,
+"attempts": 1
+},
+"vocab-061": {
+"digest": "4582cd02ee9fd9bc2c94f802575fd1ad42f245a0",
+"seconds": 0.462,
+"attempts": 1
+},
+"vocab-061-ex": {
+"digest": "bee3d90413dbec5b46e6767830b02025efb0c042",
+"seconds": 1.21,
+"attempts": 1
+},
+"vocab-062": {
+"digest": "849ddd456f5606253c0dc22c5bab1bf0d0d0c454",
+"seconds": 0.538,
+"attempts": 1
+},
+"vocab-062-ex": {
+"digest": "01f1026d526630d4769c71a484b66951a9a20a33",
+"seconds": 0.956,
+"attempts": 1
+},
+"vocab-063": {
+"digest": "f424452a9673918c6f09b0cdd35b20be8e6ae7d7",
+"seconds": 0.73,
+"attempts": 1
+},
+"vocab-063-ex": {
+"digest": "cc87039d84a8f3d1c6151c99006cbd86e2fa59c2",
+"seconds": 1.261,
+"attempts": 1
+},
+"vocab-064": {
+"digest": "148a844964e50eeef33ce7862e684977205c166b",
+"seconds": 0.53,
+"attempts": 1
+},
+"vocab-064-ex": {
+"digest": "e5071a74c3b96e577f6cae8cff832770d3f27fa6",
+"seconds": 1.149,
+"attempts": 1
+},
+"vocab-065": {
+"digest": "906e82256aa4d48abf153b5fa18a1e4055fa9a0b",
+"seconds": 0.601,
+"attempts": 1
+},
+"vocab-065-ex": {
+"digest": "cdde76b6fe22eb1160578e7c02a8f499ba384224",
+"seconds": 0.936,
+"attempts": 1
+},
+"vocab-066": {
+"digest": "bda1f7ce004368cbf3b542b02dc078cc7ccbc88c",
+"seconds": 0.634,
+"attempts": 1
+},
+"vocab-066-ex": {
+"digest": "ac19e3aed21ca4efd6ae1518ec76bf3f89f3c352",
+"seconds": 1.688,
+"attempts": 1
+},
+"vocab-067": {
+"digest": "a74635300577df30de3a4b72cbcf10ea1b84f08c",
+"seconds": 0.749,
+"attempts": 1
+},
+"vocab-067-ex": {
+"digest": "45b738c0c7acd95622b80709ffcebb7a3d92d894",
+"seconds": 1.451,
+"attempts": 1
+},
+"vocab-068": {
+"digest": "5d7ce3d3df9b256bc03d6b31103150c89a0f1963",
+"seconds": 0.8,
+"attempts": 1
+},
+"vocab-068-ex": {
+"digest": "36245159fa21ffc697003943adcf581b8367e963",
+"seconds": 1.332,
+"attempts": 1
+},
+"vocab-069": {
+"digest": "1133990592d5f5df1870aca8e94d83ada91b8d77",
+"seconds": 0.749,
+"attempts": 1
+},
+"vocab-069-ex": {
+"digest": "44450859ef30fe1c61d72e928e2fbae255c39481",
+"seconds": 1.429,
+"attempts": 1
+},
+"vocab-070": {
+"digest": "6c515bed18af1b2f8305dcfb5365f00c6c750b59",
+"seconds": 0.689,
+"attempts": 1
+},
+"vocab-070-ex": {
+"digest": "054597fc910a56a934d7e3a67fb228da6c0e11a7",
+"seconds": 1.466,
+"attempts": 1
+},
+"vocab-071": {
+"digest": "8db30658147685766b22d9b573ba7847e9db7693",
+"seconds": 0.863,
+"attempts": 1
+},
+"vocab-071-ex": {
+"digest": "eabdc131b3ebfeb4a51ea9b25b26182d5a71fe62",
+"seconds": 1.313,
+"attempts": 1
+},
+"vocab-072": {
+"digest": "f053b8b6867d63b294d649595d714aa755500d93",
+"seconds": 0.701,
+"attempts": 1
+},
+"vocab-072-ex": {
+"digest": "9170ba7f87f260965d0ece94127fddcfc119c3b0",
+"seconds": 1.08,
+"attempts": 1
+},
+"vocab-073": {
+"digest": "752c14ea195c460bac3c3b7896975ee9fd15eeb7",
+"seconds": 0.568,
+"attempts": 1
+},
+"vocab-073-ex": {
+"digest": "22e2b6bc2e2712c68edec14e89596794e98f4962",
+"seconds": 1.456,
+"attempts": 1
+},
+"vocab-074": {
+"digest": "52f78ec96f5863f9b56d3271294e82a59b8bbd9b",
+"seconds": 0.95,
+"attempts": 1
+},
+"vocab-074-ex": {
+"digest": "6a0510d3a00f6b7c0b0ccd28362fd587472c074c",
+"seconds": 1.418,
+"attempts": 1
+},
+"vocab-075": {
+"digest": "09dcbbb0dd9fd96ae458ad578fd93e83379bacd8",
+"seconds": 0.754,
+"attempts": 1
+},
+"vocab-075-ex": {
+"digest": "7ce5d38acac3c7112bad4ac1bb1b01bfbf839ec1",
+"seconds": 1.433,
+"attempts": 1
+},
+"vocab-076": {
+"digest": "f312770e41d3cd85cabce07532f6745ca8fe810f",
+"seconds": 1.013,
+"attempts": 1
+},
+"vocab-076-ex": {
+"digest": "96496186d4316103428b6f45bb864a55a2801561",
+"seconds": 1.706,
+"attempts": 1
+},
+"vocab-077": {
+"digest": "3f8d0a04380060186c25d45f1f6bd40a70e717b1",
+"seconds": 0.856,
+"attempts": 1
+},
+"vocab-077-ex": {
+"digest": "5e5f9f5e12b184c6bc25167492c2d71171bc5c5c",
+"seconds": 1.409,
+"attempts": 1
+},
+"vocab-078": {
+"digest": "be343d6288dff0e594a948f53e35c1a81035ad65",
+"seconds": 0.681,
+"attempts": 1
+},
+"vocab-078-ex": {
+"digest": "f38b7b7aff1433bf1799d613629cee3a8e61969a",
+"seconds": 1.385,
+"attempts": 1
+},
+"vocab-079": {
+"digest": "32ac991d88d626c75cf319149ca6f7865076ae64",
+"seconds": 0.937,
+"attempts": 1
+},
+"vocab-079-ex": {
+"digest": "62b78e18fb35ac01f45d0def369a9cad07c83a9e",
+"seconds": 1.626,
+"attempts": 1
+},
+"vocab-080": {
+"digest": "c3805175370d19c334b59f45b87343b9f2b7f5e1",
+"seconds": 0.879,
+"attempts": 1
+},
+"vocab-080-ex": {
+"digest": "3e48feed5aa57efd634a5bcf504161a31c8d18ad",
+"seconds": 1.562,
+"attempts": 1
+},
+"vocab-081": {
+"digest": "996c8da3ca1ca2884598c91c17f210de1ba785d7",
+"seconds": 0.721,
+"attempts": 1
+},
+"vocab-081-ex": {
+"digest": "f46e8b23e68cebda4bc346821169b5265fbdd820",
+"seconds": 1.347,
+"attempts": 1
+},
+"vocab-082": {
+"digest": "5d615639e84ec5f06be6d7de621ba1c6fa0e1143",
+"seconds": 0.951,
+"attempts": 1
+},
+"vocab-082-ex": {
+"digest": "a2816177b9a454452711c62bf6c30c6f9d86fbc4",
+"seconds": 2.259,
+"attempts": 1
+},
+"vocab-083": {
+"digest": "fc5c457b1c4bf8ffeac09fd04a39224832ba005c",
+"seconds": 0.777,
+"attempts": 1
+},
+"vocab-083-ex": {
+"digest": "c4e2afc003089006838c74c87e9b83d23b8f66d1",
+"seconds": 1.281,
+"attempts": 1
+},
+"vocab-084": {
+"digest": "5207bccad28049b5ee78bc02a1ae19c59cbda37b",
+"seconds": 0.552,
+"attempts": 1
+},
+"vocab-084-ex": {
+"digest": "0b5e07374672ced7026fd9f4085676853f4fb912",
+"seconds": 1.421,
+"attempts": 1
+},
+"vocab-085": {
+"digest": "985ac3146ca203d35e10958c50ee8724b15d0365",
+"seconds": 0.936,
+"attempts": 1
+},
+"vocab-085-ex": {
+"digest": "5e04414bbd137683588ae3506ab875b99339cc25",
+"seconds": 1.438,
+"attempts": 1
+},
+"vocab-086": {
+"digest": "a93ab3534ed6e935d4f97a8c17df5fca15bfec03",
+"seconds": 0.767,
+"attempts": 1
+},
+"vocab-086-ex": {
+"digest": "7332ded429d88c5cffc5c7b03882ce1043a081da",
+"seconds": 1.716,
+"attempts": 1
+},
+"vocab-087": {
+"digest": "e67bd941a30dc1c20dc780c3dd37323ecf3bb0f4",
+"seconds": 0.734,
+"attempts": 1
+},
+"vocab-087-ex": {
+"digest": "6ff17f618a5f50839893a042d7a0d72e8dbaeeef",
+"seconds": 1.222,
+"attempts": 1
+},
+"vocab-088": {
+"digest": "ef21f1b60d4af6abf61ec6c080f20fc54846f673",
+"seconds": 0.822,
+"attempts": 1
+},
+"vocab-088-ex": {
+"digest": "4fb3ebd7db745bf7f4770eba3fa1553ae363c59d",
+"seconds": 1.466,
+"attempts": 1
+},
+"vocab-089": {
+"digest": "544ee82fe7f1f1f58c6c9d22a15c011d27b53376",
+"seconds": 0.956,
+"attempts": 1
+},
+"vocab-089-ex": {
+"digest": "ee28c25a85ba80426106d2b93918ba74f37b7fa7",
+"seconds": 1.12,
+"attempts": 1
+},
+"vocab-090": {
+"digest": "cd843a96bfed25583f937b3b2c911f33cb168ece",
+"seconds": 0.816,
+"attempts": 1
+},
+"vocab-090-ex": {
+"digest": "6d6ee1ab8265ba8e38e2d4298d2d09b3bc3b83af",
+"seconds": 1.763,
+"attempts": 1
+},
+"vocab-091": {
+"digest": "6de535fecbba93282065f45fca3fd215b3fc9288",
+"seconds": 0.524,
+"attempts": 1
+},
+"vocab-091-ex": {
+"digest": "0d202124df73afd0561a535e8d52b6560994967c",
+"seconds": 1.291,
+"attempts": 1
+},
+"vocab-092": {
+"digest": "cb00b3bdc934ab0e42b8d6d0707f2c7435b14132",
+"seconds": 0.764,
+"attempts": 1
+},
+"vocab-092-ex": {
+"digest": "992431d24a5e6b6bd4809a9d04e17c6b1d0adede",
+"seconds": 1.34,
+"attempts": 1
+},
+"vocab-093": {
+"digest": "33493e49f8be7db65eefd9aadba0dc306065bb68",
+"seconds": 0.796,
+"attempts": 1
+},
+"vocab-093-ex": {
+"digest": "65dd9ff3f72dacf1979f29c67d4add62268f10b6",
+"seconds": 1.282,
+"attempts": 1
+},
+"vocab-094": {
+"digest": "d07b45f0e48c1a30f7110522514722cd3a7b081a",
+"seconds": 0.516,
+"attempts": 1
+},
+"vocab-094-ex": {
+"digest": "5ac2f5fb94e88eff94fa660402cfc1c4fde3fd0d",
+"seconds": 1.339,
+"attempts": 1
+},
+"vocab-095": {
+"digest": "6b230159f222c1d4f1c3dd796ddd58799d90ef3e",
+"seconds": 0.698,
+"attempts": 1
+},
+"vocab-095-ex": {
+"digest": "f09b108aed629bb5e3c48d215db055a3836c8fe0",
+"seconds": 1.364,
+"attempts": 1
+},
+"vocab-096": {
+"digest": "00300ba47858d9c515585a49af2c2cbfb6b67773",
+"seconds": 0.798,
+"attempts": 1
+},
+"vocab-096-ex": {
+"digest": "f2e8eb1ff2adf9d1e025e7577a34c67011191441",
+"seconds": 1.325,
+"attempts": 1
+},
+"vocab-097": {
+"digest": "3f7a5e6185868f95c42948b6c90366c82f1c2cfc",
+"seconds": 0.621,
+"attempts": 1
+},
+"vocab-097-ex": {
+"digest": "4c86f8a2e92875c057c55a41b3b1ad37cf1be98f",
+"seconds": 1.277,
+"attempts": 1
+},
+"vocab-098": {
+"digest": "9d62f39f91433a16a8a54fa531b21eeb145caf6c",
+"seconds": 0.709,
+"attempts": 1
+},
+"vocab-098-ex": {
+"digest": "1db813d6c7b1f7796997999ae572f869db0d7eb8",
+"seconds": 1.31,
+"attempts": 1
+},
+"vocab-099": {
+"digest": "1623eb89b057ab8a0a13ad912e187f0308525c92",
+"seconds": 0.846,
+"attempts": 1
+},
+"vocab-099-ex": {
+"digest": "1c003989d13d4962642077241da78c0b4e3b067e",
+"seconds": 1.119,
+"attempts": 1
+},
+"vocab-100": {
+"digest": "3db01bf62ab6f98746e8dac584317475a0f57d9a",
+"seconds": 0.861,
+"attempts": 1
+},
+"vocab-100-ex": {
+"digest": "cfde204b72d2af0eba126a4c88cec7ed51ce7e19",
+"seconds": 1.396,
+"attempts": 1
+},
+"vocab-101": {
+"digest": "f586983dc3ed80a05c31e1782a5e02b1719d34ea",
+"seconds": 0.904,
+"attempts": 1
+},
+"vocab-101-ex": {
+"digest": "584192f5eefcfb5f7d0196db1b4f537e614356b8",
+"seconds": 1.402,
+"attempts": 1
+},
+"vocab-102": {
+"digest": "35c2aca5db66bd871b5f9a8d7ec3aed909453b9a",
+"seconds": 0.871,
+"attempts": 1
+},
+"vocab-102-ex": {
+"digest": "08c2214e5b0a6ba4225effd48e25d968462d00b4",
+"seconds": 1.385,
+"attempts": 1
+},
+"vocab-103": {
+"digest": "e8d01b3bcf984666e4d3159387320ad545379814",
+"seconds": 0.869,
+"attempts": 1
+},
+"vocab-103-ex": {
+"digest": "c70f3ec5f649622a973a2c41f0b7dd4efdfe3ebe",
+"seconds": 1.799,
+"attempts": 1
+},
+"vocab-104": {
+"digest": "c1c0b23407c5dd83c2b40ed68df019c616454019",
+"seconds": 0.72,
+"attempts": 1
+},
+"vocab-104-ex": {
+"digest": "34643bf9f20ce5bc6c770bfcb5b1d1b8d3940d2b",
+"seconds": 1.552,
+"attempts": 1
+},
+"vocab-105": {
+"digest": "893f0deb9f77f985784af93c73a28e66d1c413a7",
+"seconds": 0.632,
+"attempts": 1
+},
+"vocab-105-ex": {
+"digest": "21217e3d8ab86804e419adbadba6a2dd1b91e263",
+"seconds": 1.469,
+"attempts": 1
+},
+"vocab-106": {
+"digest": "707a62b12254c3790c0e3e5843091958a16aaabf",
+"seconds": 0.82,
+"attempts": 1
+},
+"vocab-106-ex": {
+"digest": "4aa63b83dd89e2cc31a73bcec6c8d51e504d392e",
+"seconds": 1.363,
+"attempts": 1
+},
+"vocab-107": {
+"digest": "6a3aec982109de5a58f33bcdcd6465b4d7a6074f",
+"seconds": 0.803,
+"attempts": 1
+},
+"vocab-107-ex": {
+"digest": "c7003284996cae478f71fceb85d02d6f21ddfd99",
+"seconds": 1.157,
+"attempts": 1
+},
+"vocab-108": {
+"digest": "faa00b144e1908aedc39345ed84a7e7c5f6d8282",
+"seconds": 0.77,
+"attempts": 1
+},
+"vocab-108-ex": {
+"digest": "a649a9326b3e32891dacc9bba6ea395912365884",
+"seconds": 1.266,
+"attempts": 1
+},
+"vocab-109": {
+"digest": "4643f5ef6824f7c3436c970353c0ec1cee9c09d5",
+"seconds": 0.824,
+"attempts": 1
+},
+"vocab-109-ex": {
+"digest": "e39d892b690e4e8b1007d86cda6cd9e0fce8444b",
+"seconds": 1.454,
+"attempts": 1
+},
+"vocab-110": {
+"digest": "2b89b8860027161b5d218665f4b5848828e34a77",
+"seconds": 0.809,
+"attempts": 1
+},
+"vocab-110-ex": {
+"digest": "d360117274cf25d81945db0cecdaac447bd76fcc",
+"seconds": 1.156,
+"attempts": 1
+},
+"vocab-111": {
+"digest": "f5cf5e12c1ad91af4e0019503a9118073fba2ab7",
+"seconds": 0.819,
+"attempts": 1
+},
+"vocab-111-ex": {
+"digest": "2d885d0deb204e411157c9e0173b49d58ba6f913",
+"seconds": 1.364,
+"attempts": 1
+},
+"vocab-112": {
+"digest": "8e1784481b11203bcd8f4f2cf7ddd22500b9851a",
+"seconds": 0.962,
+"attempts": 1
+},
+"vocab-112-ex": {
+"digest": "dee931694fb44a02411abd4efaef6121ce06803a",
+"seconds": 1.775,
+"attempts": 1
+},
+"vocab-113": {
+"digest": "2419cac36f350e6ed5a61e813f6a08383e445197",
+"seconds": 0.666,
+"attempts": 1
+},
+"vocab-113-ex": {
+"digest": "c21fe68232535ce1fbe149a9f986490efcb7d50c",
+"seconds": 1.297,
+"attempts": 1
+},
+"vocab-114": {
+"digest": "f61d9bebb3b8ba912bee9c73897de35718a7a2ad",
+"seconds": 0.746,
+"attempts": 1
+},
+"vocab-114-ex": {
+"digest": "ca954237a94824d66a3c49a54d1d72a8c2b35b61",
+"seconds": 1.488,
+"attempts": 1
+},
+"vocab-115": {
+"digest": "beb2029cbbb54374e7038376d3f89d07e9b31a8c",
+"seconds": 0.775,
+"attempts": 1
+},
+"vocab-115-ex": {
+"digest": "9b50d69462722272263413974ef4c93ee74f8f16",
+"seconds": 1.586,
+"attempts": 1
+},
+"vocab-116": {
+"digest": "8dc27547a250f58c230cd3d51730b2d712b2ad9e",
+"seconds": 0.91,
+"attempts": 1
+},
+"vocab-116-ex": {
+"digest": "134ae818681b7aef09922f1196f4840e66d91d74",
+"seconds": 1.207,
+"attempts": 1
+},
+"vocab-117": {
+"digest": "efdb9938ff84d19ab35d6e5a7b95f23d0f48a6a2",
+"seconds": 0.85,
+"attempts": 1
+},
+"vocab-117-ex": {
+"digest": "a97798b498f59f4dfc801abb7a244f05b7fd5658",
+"seconds": 1.132,
+"attempts": 1
+},
+"vocab-118": {
+"digest": "f49ea40563dd877afa26ad69cca5e590fb79a900",
+"seconds": 0.657,
+"attempts": 1
+},
+"vocab-118-ex": {
+"digest": "fc9bba70f69e235f781f45fce1f171cce6fdff2b",
+"seconds": 1.557,
+"attempts": 1
+},
+"vocab-119": {
+"digest": "fc5ed9f5c6ffd568bfe3f1b2b2fb5b110a607363",
+"seconds": 0.836,
+"attempts": 1
+},
+"vocab-119-ex": {
+"digest": "976cbf05689877297d1505fbeb40c6dbdebe5565",
+"seconds": 1.385,
+"attempts": 1
+},
+"vocab-120": {
+"digest": "6309f68c819d4f33d8870aa643fd766fb4908abf",
+"seconds": 0.854,
+"attempts": 1
+},
+"vocab-120-ex": {
+"digest": "4a6cd9ec3c50c5087e7c5da5c17c9be4a4dd4dda",
+"seconds": 1.348,
+"attempts": 1
+},
+"vocab-121": {
+"digest": "b5d8f4f6e0139f2424a2362850258274c3eaea11",
+"seconds": 0.852,
+"attempts": 1
+},
+"vocab-121-ex": {
+"digest": "ca2822b8ae57a65ebd899da4ee2cb25059b93c74",
+"seconds": 1.435,
+"attempts": 1
+},
+"vocab-122": {
+"digest": "938a17478ed364410fd7c06b2209c43c410cccd1",
+"seconds": 0.668,
+"attempts": 1
+},
+"vocab-122-ex": {
+"digest": "af55c1c12fd0b7ddf4ba7cdc3b396021a459fa0b",
+"seconds": 0.945,
+"attempts": 1
+},
+"vocab-123": {
+"digest": "4212df1a2a10040310a9652ca3a18e5f2563a6d5",
+"seconds": 0.749,
+"attempts": 1
+},
+"vocab-123-ex": {
+"digest": "4b4c152f4332fe8d5477733cba6cad4a8a376b3f",
+"seconds": 1.051,
+"attempts": 1
+},
+"vocab-124": {
+"digest": "63ef7a06389e04a01d4a9d57f96e71ccb2674015",
+"seconds": 0.62,
+"attempts": 1
+},
+"vocab-124-ex": {
+"digest": "fb9e327dea1cfc31e26e478e45a1ef46c56db749",
+"seconds": 1.38,
+"attempts": 1
+},
+"vocab-125": {
+"digest": "6d22906ec23d9964a53f992c73911f1a993fcd3b",
+"seconds": 0.572,
+"attempts": 1
+},
+"vocab-125-ex": {
+"digest": "3defe656fa8f09788aea58514eb05239f105dc6b",
+"seconds": 1.305,
+"attempts": 1
+},
+"vocab-126": {
+"digest": "0f6878f15aa49a61c4b252e083a159e42d150a43",
+"seconds": 0.644,
+"attempts": 1
+},
+"vocab-126-ex": {
+"digest": "ad29e053cbfe70b51409d5b7a7938683f4c28b7e",
+"seconds": 1.224,
+"attempts": 1
+},
+"vocab-127": {
+"digest": "3b4f14403e709da5b91e1679d6e9ad1b00b9d903",
+"seconds": 0.568,
+"attempts": 1
+},
+"vocab-127-ex": {
+"digest": "f76510dec673d6e8ab8e62fa38a15b6f45eb8bf6",
+"seconds": 1.293,
+"attempts": 1
+},
+"vocab-128": {
+"digest": "7bd4778479648dbdbec535e5d58f3f436cd003a4",
+"seconds": 0.737,
+"attempts": 1
+},
+"vocab-128-ex": {
+"digest": "bf622ed72c56028c01aecf914552e5d58ba9803a",
+"seconds": 1.296,
+"attempts": 1
+},
+"vocab-129": {
+"digest": "dafde1bc46b2c9e8d64ae54f0c201c636ba1ae0f",
+"seconds": 0.628,
+"attempts": 1
+},
+"vocab-129-ex": {
+"digest": "5d94ee65e0aa2cb5bba0ebd93d4975fab04b1daf",
+"seconds": 1.306,
+"attempts": 1
+},
+"vocab-130": {
+"digest": "cafe5f11d6a3b26e59f28454d0ad90a951c64a6a",
+"seconds": 0.739,
+"attempts": 1
+},
+"vocab-130-ex": {
+"digest": "36119b19907ed6d3f5c0fd81eee903a33fc52562",
+"seconds": 1.515,
+"attempts": 1
+},
+"vocab-131": {
+"digest": "ce584ac70734cfa5a848cd28039798932c7ea675",
+"seconds": 0.642,
+"attempts": 1
+},
+"vocab-131-ex": {
+"digest": "2fe89441f744b3fc3eb4552da356765feb0470ff",
+"seconds": 1.364,
+"attempts": 1
+},
+"vocab-132": {
+"digest": "3d148dc70eca5a8676a65b258d21f71e415112f2",
+"seconds": 0.693,
+"attempts": 1
+},
+"vocab-132-ex": {
+"digest": "1e81928040e45d960cb6bdda94b359f042b2bfb9",
+"seconds": 1.19,
+"attempts": 1
+},
+"vocab-133": {
+"digest": "ad97b505531a7e003859cded924a905bee876307",
+"seconds": 0.875,
+"attempts": 1
+},
+"vocab-133-ex": {
+"digest": "6a978f4a8200150d348d50d984be21149ed03bb8",
+"seconds": 1.238,
+"attempts": 1
+},
+"vocab-134": {
+"digest": "65c7023244bca78b2012b0fb860f7c61d0bea3b8",
+"seconds": 1.049,
+"attempts": 1
+},
+"vocab-134-ex": {
+"digest": "3e54425d118f2162f3243062150cf9299ac915e6",
+"seconds": 1.596,
+"attempts": 1
+},
+"vocab-135": {
+"digest": "e925fcaa4cc4619f0a9280cf3612fec6784bb7bf",
+"seconds": 0.731,
+"attempts": 1
+},
+"vocab-135-ex": {
+"digest": "1675e5d214484026aae933ca9f8b9706f183359a",
+"seconds": 1.124,
+"attempts": 1
+},
+"vocab-136": {
+"digest": "89c7d69834f9a5b6d950a648a0f980c81aa80722",
+"seconds": 0.787,
+"attempts": 1
+},
+"vocab-136-ex": {
+"digest": "570c66c3c6c445f9fafb1c45f60abd16ac4d08ac",
+"seconds": 1.392,
+"attempts": 1
+},
+"vocab-137": {
+"digest": "a2eb2f895863d44b24936ff3027250297af8b5a8",
+"seconds": 0.772,
+"attempts": 1
+},
+"vocab-137-ex": {
+"digest": "c63564f0b5125140513800e62d39deebb0261cf4",
+"seconds": 1.353,
+"attempts": 1
+},
+"vocab-138": {
+"digest": "00d500e4987ba246cbd9b7472760b9ec6aad0427",
+"seconds": 0.701,
+"attempts": 1
+},
+"vocab-138-ex": {
+"digest": "059029a621b7107667bb7c5f27dcf6420fb021df",
+"seconds": 1.422,
+"attempts": 1
+},
+"vocab-139": {
+"digest": "d1695e2cec40372ed7283e1e657b7ab18cd3efa9",
+"seconds": 0.742,
+"attempts": 1
+},
+"vocab-139-ex": {
+"digest": "ea830c69d5d1aff5bb54299f0e68b9cbddbbe0ba",
+"seconds": 1.407,
+"attempts": 1
+},
+"vocab-140": {
+"digest": "2dae5f350d5702b3ab80c8e5a9d95393ef66e62e",
+"seconds": 0.52,
+"attempts": 1
+},
+"vocab-140-ex": {
+"digest": "f4653b1c899b4140f640b3f9838581dff884b8a2",
+"seconds": 1.056,
+"attempts": 1
+},
+"vocab-141": {
+"digest": "f03c555231162e53b85b0e2dff6519997097fc22",
+"seconds": 0.607,
+"attempts": 1
+},
+"vocab-141-ex": {
+"digest": "3a4fc108eb96f993bfafa01dacb8dc986f585a45",
+"seconds": 1.346,
+"attempts": 1
+},
+"vocab-142": {
+"digest": "31be9f98c543174beb37f7bf41e92903cc597b13",
+"seconds": 0.743,
+"attempts": 1
+},
+"vocab-142-ex": {
+"digest": "d4f36e9e9b1f4afe4e107a2176cec690f186d45b",
+"seconds": 1.347,
+"attempts": 1
+},
+"vocab-143": {
+"digest": "32e4ddf3be8c059ea96cc59c7c4d7120c247936a",
+"seconds": 0.94,
+"attempts": 1
+},
+"vocab-143-ex": {
+"digest": "27b7a20f96db18663fc8613c086bdf391bea835f",
+"seconds": 1.592,
+"attempts": 1
+},
+"vocab-144": {
+"digest": "fb910ef7d45de1bef846bf4a3638e93ceb884872",
+"seconds": 0.562,
+"attempts": 1
+},
+"vocab-144-ex": {
+"digest": "96a85975a9ca71e4f06292ac71bc2d5417686ef6",
+"seconds": 1.164,
+"attempts": 1
+},
+"vocab-145": {
+"digest": "05297834ce7ed4bad827248e6778fc9653419b39",
+"seconds": 0.678,
+"attempts": 1
+},
+"vocab-145-ex": {
+"digest": "7bce5201e6eb79d67b09288d60493268ae6d7b8c",
+"seconds": 1.022,
+"attempts": 1
+},
+"vocab-146": {
+"digest": "675c42101074fc6b1913540793915d9b4b2a0373",
+"seconds": 0.71,
+"attempts": 1
+},
+"vocab-146-ex": {
+"digest": "f84d85a724aa5426d3bf4821d8f0dcaad187e736",
+"seconds": 1.485,
+"attempts": 1
+},
+"vocab-147": {
+"digest": "c3ee137d4f22eb06ed1351d644f3674592c90836",
+"seconds": 0.776,
+"attempts": 1
+},
+"vocab-147-ex": {
+"digest": "94451dfbdbd04f890f1a11ff17e488d705210f5a",
+"seconds": 1.249,
+"attempts": 1
+},
+"vocab-148": {
+"digest": "c64ae5ee3944926efd02c25e96ec7cbea1809af7",
+"seconds": 0.795,
+"attempts": 1
+},
+"vocab-148-ex": {
+"digest": "bd64fc34d75a2f41f2e1a6910a8770d1e3e37ba5",
+"seconds": 1.282,
+"attempts": 1
+},
+"vocab-149": {
+"digest": "c9904cff579a83a6b2f1ea4dd5dca8b3338dda97",
+"seconds": 0.82,
+"attempts": 1
+},
+"vocab-149-ex": {
+"digest": "237a97bccd257ce5b2e2a7afb8cb17aa912d0183",
+"seconds": 1.337,
+"attempts": 1
+},
+"vocab-150": {
+"digest": "5d999367c4b219b27e36ee2a3db039c1dcc264c9",
+"seconds": 0.752,
+"attempts": 1
+},
+"vocab-150-ex": {
+"digest": "355fcbe9f859abdeedec40fada4896f0f71db907",
+"seconds": 1.091,
+"attempts": 1
+},
+"vocab-151": {
+"digest": "1012c9a47e657e50f4863c36524991eb1d105528",
+"seconds": 0.888,
+"attempts": 1
+},
+"vocab-151-ex": {
+"digest": "038a8f6ca74eec400d03d8eafa80cf97b2424b2d",
+"seconds": 1.635,
+"attempts": 1
+},
+"vocab-152": {
+"digest": "98fed91b7f28267338fd01dba3744a2aa1112299",
+"seconds": 1.013,
+"attempts": 1
+},
+"vocab-152-ex": {
+"digest": "f24ea6bd4153fb20d8dfeaa2e5713fd93ce735bd",
+"seconds": 1.739,
+"attempts": 1
+},
+"vocab-153": {
+"digest": "4c2b44a37f2e4f800ea42bffe2977f3d3e26f391",
+"seconds": 0.654,
+"attempts": 1
+},
+"vocab-153-ex": {
+"digest": "51b4baa59cad9c91e8a252b599f76f89699c1a75",
+"seconds": 1.243,
+"attempts": 1
+},
+"vocab-154": {
+"digest": "8c577c0b70a6c65b36f279d592d56d1b2b4b0ca1",
+"seconds": 0.947,
+"attempts": 1
+},
+"vocab-154-ex": {
+"digest": "8e88e75eb031822362634c568f74d58020ed0383",
+"seconds": 1.396,
+"attempts": 1
+},
+"vocab-155": {
+"digest": "fe22b520f90a2dd8b68b89949ce4653ed9353c9e",
+"seconds": 0.709,
+"attempts": 1
+},
+"vocab-155-ex": {
+"digest": "e29b14957270fb54099f4e3615f108a6f0148b03",
+"seconds": 1.179,
+"attempts": 1
+},
+"vocab-156": {
+"digest": "c9667d46cddc82365a5e26a4abfe3c684b2724e8",
+"seconds": 0.802,
+"attempts": 1
+},
+"vocab-156-ex": {
+"digest": "e2bc0a3160face27642473ae522f7a33a3f7d611",
+"seconds": 1.596,
+"attempts": 1
+},
+"vocab-157": {
+"digest": "d5f2e5c77054c44c2c72a1b017deca06fc637c99",
+"seconds": 0.744,
+"attempts": 1
+},
+"vocab-157-ex": {
+"digest": "5f669e1c763ea789d763c909f8e0a24182be1072",
+"seconds": 1.177,
+"attempts": 1
+},
+"vocab-158": {
+"digest": "d51b42dfec5383e779c7afdfa47e9c20f12c3dfe",
+"seconds": 0.775,
+"attempts": 1
+},
+"vocab-158-ex": {
+"digest": "1e8ee96b5509d8626f7957637c0cd25a4baf97c6",
+"seconds": 1.5,
+"attempts": 1
+},
+"vocab-159": {
+"digest": "f0f4a5e74afc446d8258ee75ab6175a41082829d",
+"seconds": 1.047,
+"attempts": 1
+},
+"vocab-159-ex": {
+"digest": "46daa85de2718ccf8ab9a7adae56b42fe4d6f2ee",
+"seconds": 1.724,
+"attempts": 1
+},
+"vocab-160": {
+"digest": "d2a04d71301a8915217dd5faf81d12cffd6cd958",
+"seconds": 0.732,
+"attempts": 1
+},
+"vocab-160-ex": {
+"digest": "91a134c3b502f7d5c212d22416cbfbaf1c7a6ff0",
+"seconds": 1.325,
+"attempts": 1
+},
+"vocab-161": {
+"digest": "e718ab41a00fe697cc1973be2104f5df4ed0b538",
+"seconds": 1.024,
+"attempts": 1
+},
+"vocab-161-ex": {
+"digest": "78d168f8d221296eee3c1dc15617d205b94e4e08",
+"seconds": 1.898,
+"attempts": 1
+},
+"vocab-162": {
+"digest": "8b41884da3ab6abdf6e38bbae3677a27547094b5",
+"seconds": 0.749,
+"attempts": 1
+},
+"vocab-162-ex": {
+"digest": "d3a44ee608fdcb93146c2c53dfbb6722303f40c7",
+"seconds": 1.32,
+"attempts": 1
+},
+"vocab-163": {
+"digest": "94efdd6f628eda9c1ae893467c9652808443ef3e",
+"seconds": 0.536,
+"attempts": 1
+},
+"vocab-163-ex": {
+"digest": "5b3fb27905e962581f26ed6228fd12bc69fa4cac",
+"seconds": 1.389,
+"attempts": 1
+},
+"vocab-164": {
+"digest": "32c70cebf110eedb8637b5e875a6c94f1ef6e8c5",
+"seconds": 0.734,
+"attempts": 1
+},
+"vocab-164-ex": {
+"digest": "2c03bb79d81429084d4bf297d0b540937600a9ca",
+"seconds": 1.425,
+"attempts": 1
+},
+"vocab-165": {
+"digest": "9295ea4ccdca1a9f6e827c301186090fa73b8d11",
+"seconds": 0.79,
+"attempts": 1
+},
+"vocab-165-ex": {
+"digest": "fc30e7249d90a4ea2161b6075ba79e9921f90105",
+"seconds": 1.532,
+"attempts": 1
+},
+"vocab-166": {
+"digest": "4d82205a20287450dad9d71e049f46a57692279c",
+"seconds": 0.73,
+"attempts": 1
+},
+"vocab-166-ex": {
+"digest": "287890cb62dc4137dda523935fd2aa75063b8068",
+"seconds": 1.218,
+"attempts": 1
+},
+"vocab-167": {
+"digest": "60d6c4b5bc1e57ecc820759ce3daa020492c6db8",
+"seconds": 0.757,
+"attempts": 1
+},
+"vocab-167-ex": {
+"digest": "5e1c1ba6cc0fec8bf78e8140b817e7542e83e333",
+"seconds": 1.189,
+"attempts": 1
+},
+"vocab-168": {
+"digest": "176b9e6cfb844911386123da336d901f4c0b5ecf",
+"seconds": 0.669,
+"attempts": 1
+},
+"vocab-168-ex": {
+"digest": "06759280a41cc4473eb171b9ba4e098759000d6b",
+"seconds": 1.334,
+"attempts": 1
+},
+"vocab-169": {
+"digest": "0292e6492fb51a7909b19b66edd266bf4aacb678",
+"seconds": 0.716,
+"attempts": 1
+},
+"vocab-169-ex": {
+"digest": "3727aaa39cfa62525af1f4c97d89715fdb7d8e02",
+"seconds": 1.615,
+"attempts": 1
+},
+"vocab-170": {
+"digest": "9cb72eb7778ab3dbc69a1d68a3f58a4b41e5a1ca",
+"seconds": 0.637,
+"attempts": 1
+},
+"vocab-170-ex": {
+"digest": "2a8e8d870770cd2b525179b1d4cf954612122f56",
+"seconds": 1.172,
+"attempts": 1
+},
+"vocab-171": {
+"digest": "040f06fd774092478d450774f5ba30c5da78acc8",
+"seconds": 0.762,
+"attempts": 1
+},
+"vocab-171-ex": {
+"digest": "cfb6702f76d3646fb3686de0a2e59e5f67dda7ee",
+"seconds": 1.345,
+"attempts": 1
+},
+"vocab-172": {
+"digest": "f47590ee586a980bd11fbf00e3c06cb19a19734e",
+"seconds": 0.763,
+"attempts": 1
+},
+"vocab-172-ex": {
+"digest": "035e680765a3c2abcdcbb22cb883eefdd42826c7",
+"seconds": 1.313,
+"attempts": 1
+},
+"vocab-173": {
+"digest": "0df629eddfe073b382d807e78029aaafc1782c0a",
+"seconds": 0.847,
+"attempts": 1
+},
+"vocab-173-ex": {
+"digest": "62ad840cea5c8f8bdb9ef32589e1a59fee0d71ad",
+"seconds": 1.259,
+"attempts": 1
+},
+"vocab-174": {
+"digest": "f57c6ecd293833c550d2b5e8dbb4af547c21d701",
+"seconds": 0.837,
+"attempts": 1
+},
+"vocab-174-ex": {
+"digest": "ec68a94181b8e0ea3574a8364a0def46d7fbd6c2",
+"seconds": 1.298,
+"attempts": 1
+},
+"vocab-175": {
+"digest": "ad5a0d717ced05d0c8217217c32738420482850d",
+"seconds": 0.632,
+"attempts": 1
+},
+"vocab-175-ex": {
+"digest": "4404d5443bd86256216e29a7b023a39405ed7c54",
+"seconds": 1.232,
+"attempts": 1
+},
+"vocab-176": {
+"digest": "204132e9468487ac573f0cf9343bce534b52b9e9",
+"seconds": 0.761,
+"attempts": 1
+},
+"vocab-176-ex": {
+"digest": "b325d99bb4b136f8522976b8c5cbcc9cd5b172db",
+"seconds": 0.919,
+"attempts": 1
+},
+"vocab-177": {
+"digest": "c620b45c2f1ccca3ec09785d178fc0a5a8e5905a",
+"seconds": 0.572,
+"attempts": 1
+},
+"vocab-177-ex": {
+"digest": "2f2bddc79188a00e9b42ec04ba9735b16e21e956",
+"seconds": 1.218,
+"attempts": 1
+},
+"vocab-178": {
+"digest": "2750061861052090d46514862e44912977ad0562",
+"seconds": 0.681,
+"attempts": 1
+},
+"vocab-178-ex": {
+"digest": "c9b9871e6128b3c2ebc266c4bbde70d6e4428042",
+"seconds": 1.2,
+"attempts": 1
+},
+"vocab-179": {
+"digest": "889d38e3a06d04e312257b29178b93d6a51832e8",
+"seconds": 0.584,
+"attempts": 1
+},
+"vocab-179-ex": {
+"digest": "ba41e498b226f62ca3adf111dcbc29efb7973fc2",
+"seconds": 1.297,
+"attempts": 1
+},
+"vocab-180": {
+"digest": "61f611a4fd585e96d518c703dc7dcdeec8354e1c",
+"seconds": 0.512,
+"attempts": 1
+},
+"vocab-180-ex": {
+"digest": "51976f11cdd310835e7bc8910b370696067cc775",
+"seconds": 1.099,
+"attempts": 1
+},
+"vocab-181": {
+"digest": "6675b13184ee0cc447e65d18a3ef4bd8c4a56d0c",
+"seconds": 0.542,
+"attempts": 1
+},
+"vocab-181-ex": {
+"digest": "1d1b6c14c82443aee6861441b8ae3c8b4542da3a",
+"seconds": 0.869,
+"attempts": 1
+},
+"vocab-182": {
+"digest": "47bb7acd4dd89ccd4082f8618e204a8969bc2dd2",
+"seconds": 0.527,
+"attempts": 1
+},
+"vocab-182-ex": {
+"digest": "de8d24e94df525c88c2e992214af0792a8a1e4c6",
+"seconds": 0.813,
+"attempts": 1
+},
+"vocab-183": {
+"digest": "70d2b886edd310708ae58ed854b5a07255a1393f",
+"seconds": 0.545,
+"attempts": 1
+},
+"vocab-183-ex": {
+"digest": "6641969d23765d329cf19ff2eae08c533d19af7f",
+"seconds": 0.883,
+"attempts": 1
+},
+"vocab-184": {
+"digest": "9a3e86e7ab1171703fffaada65f206b2eaed93b9",
+"seconds": 0.769,
+"attempts": 1
+},
+"vocab-184-ex": {
+"digest": "1e68f4317ee7508508b2c0e929981441fb0442cb",
+"seconds": 1.15,
+"attempts": 1
+},
+"vocab-185": {
+"digest": "118a9989815489c24b81b160782015890ed2085e",
+"seconds": 0.683,
+"attempts": 1
+},
+"vocab-185-ex": {
+"digest": "befd1e93d203b864367dab39b5049266ae69a776",
+"seconds": 1.158,
+"attempts": 1
+},
+"vocab-186": {
+"digest": "f3f28a3bd5f30b799d389d8b0ed06687ae8bc10c",
+"seconds": 0.746,
+"attempts": 1
+},
+"vocab-186-ex": {
+"digest": "55c6e00662ba9fa3d44fc7853a780f5ccda02218",
+"seconds": 1.413,
+"attempts": 1
+},
+"vocab-187": {
+"digest": "1c23aad40a3494c02b873deaa6dcce26f0fb945c",
+"seconds": 0.565,
+"attempts": 1
+},
+"vocab-187-ex": {
+"digest": "bb4d2f44a0f73c0e3ec2c197e09b547b3b31087a",
+"seconds": 1.211,
+"attempts": 1
+},
+"vocab-188": {
+"digest": "c34f17a35b85200cd6a728eff800878d2a898a3a",
+"seconds": 0.548,
+"attempts": 1
+},
+"vocab-188-ex": {
+"digest": "a3ceaf831e779e31ce400068909124cc2a5ea6b9",
+"seconds": 0.972,
+"attempts": 1
+},
+"vocab-189": {
+"digest": "600ccd1b71569232d01d110bc63e906beab04d8c",
+"seconds": 0.519,
+"attempts": 1
+},
+"vocab-189-ex": {
+"digest": "1fe54b793d5f2f96b17305e4640eaa8f30fcb883",
+"seconds": 1.119,
+"attempts": 1
+},
+"vocab-190": {
+"digest": "094b0fe0e302854af1311afab85b5203ba457a3b",
+"seconds": 0.521,
+"attempts": 1
+},
+"vocab-190-ex": {
+"digest": "3f7854c665bcfee977e0e183e43b27c776c9e1ec",
+"seconds": 1.288,
+"attempts": 1
+},
+"vocab-191": {
+"digest": "d2c149c49f4797e1654bf7b0f33bfdd15df55977",
+"seconds": 0.559,
+"attempts": 1
+},
+"vocab-191-ex": {
+"digest": "f0819c4cf9083584fcdf79bc868a239e8895b8fb",
+"seconds": 1.361,
+"attempts": 1
+},
+"vocab-192": {
+"digest": "3d54fd66df56b29b98f5b3fb74890e24318f663d",
+"seconds": 0.776,
+"attempts": 1
+},
+"vocab-192-ex": {
+"digest": "fa61f82c4c67434fee5ac310a20286791207af3b",
+"seconds": 1.704,
+"attempts": 1
+},
+"vocab-193": {
+"digest": "c42f1b72ae17298564481fde33fa9f04febb1605",
+"seconds": 0.621,
+"attempts": 1
+},
+"vocab-193-ex": {
+"digest": "4aafb9e5c0fe548a54bb43f9f42d50701f1c0935",
+"seconds": 1.537,
+"attempts": 1
+},
+"vocab-194": {
+"digest": "84c87a11e6df5abd06759ffff90321dee9a595fb",
+"seconds": 0.734,
+"attempts": 1
+},
+"vocab-194-ex": {
+"digest": "6dc843d54ff715fb4ab1c1adc9bd8aa9d63ddead",
+"seconds": 1.271,
+"attempts": 1
+},
+"vocab-195": {
+"digest": "1fc8536818fe0f6c9b2c61f70d4d7dbc3bb7e024",
+"seconds": 0.676,
+"attempts": 1
+},
+"vocab-195-ex": {
+"digest": "54d2d981260b2e92e8724ef558782b0a85f8104a",
+"seconds": 1.499,
+"attempts": 1
+},
+"vocab-196": {
+"digest": "03c988f5828654f424f976eb0d9c44cf1f5ddc37",
+"seconds": 0.598,
+"attempts": 1
+},
+"vocab-196-ex": {
+"digest": "ac86aaf922f7129d8e44d296559075f89ba9f7ea",
+"seconds": 0.953,
+"attempts": 1
+},
+"vocab-197": {
+"digest": "53cba4ca74de64d16868a665f56e0193c84ed6e9",
+"seconds": 0.658,
+"attempts": 1
+},
+"vocab-197-ex": {
+"digest": "c9ab10bf0ec404573c2079c64d20d15758ef673a",
+"seconds": 0.985,
+"attempts": 1
+},
+"vocab-198": {
+"digest": "83ac1c4ef14a2d71f9099fb66c781f673261774b",
+"seconds": 0.814,
+"attempts": 1
+},
+"vocab-198-ex": {
+"digest": "e4758e5a9d14490922f2410b1600980bc5ff115d",
+"seconds": 1.347,
+"attempts": 1
+},
+"vocab-199": {
+"digest": "274ca4ed28507d2985dc5df2d04efbb5fcd3887a",
+"seconds": 0.869,
+"attempts": 1
+},
+"vocab-199-ex": {
+"digest": "6ce5d2958d3e730ecc6ae637fec2c00d05220903",
+"seconds": 1.716,
+"attempts": 1
+},
+"vocab-200": {
+"digest": "6ecffa5a4fc94ba0722a56d3d0c687a11aaf3266",
+"seconds": 0.636,
+"attempts": 1
+},
+"vocab-200-ex": {
+"digest": "d943faa96fbf4daf00d7bf7cfc4e7cc3363fd103",
+"seconds": 1.498,
+"attempts": 1
+},
+"vocab-201": {
+"digest": "fbd0b3f6cbbe0b3bb146cee1af5ea403fc805ea3",
+"seconds": 0.779,
+"attempts": 1
+},
+"vocab-201-ex": {
+"digest": "8395071e959aa3caf402b9ca4ba11ce6dd1d2ac7",
+"seconds": 1.427,
+"attempts": 1
+},
+"vocab-202": {
+"digest": "a5bc1d9b2ae74e7a8a249659c13b14f5c2eac13f",
+"seconds": 0.474,
+"attempts": 1
+},
+"vocab-202-ex": {
+"digest": "397e1963dad3072c4dcce2e1b3302ddeb12903da",
+"seconds": 2.217,
+"attempts": 1
+},
+"vocab-203": {
+"digest": "d5f10c9bc8370694a415ccbaabcb062e36948c5a",
+"seconds": 0.415,
+"attempts": 1
+},
+"vocab-203-ex": {
+"digest": "d4d336ab6bfe3cb73f4d48433b08df64c5d0e7fd",
+"seconds": 1.274,
+"attempts": 1
+},
+"vocab-204": {
+"digest": "4f728e8f7ef2354086b13df65e48ec4c8ac1d6c6",
+"seconds": 0.508,
+"attempts": 1
+},
+"vocab-204-ex": {
+"digest": "d4c0bb8228bc96349980660223e4c6b910394afb",
+"seconds": 1.971,
+"attempts": 1
+},
+"vocab-205": {
+"digest": "aecab78d77f8d2ab86e3da768ed85eeed0154d59",
+"seconds": 0.753,
+"attempts": 1
+},
+"vocab-205-ex": {
+"digest": "658085c21062d7a5587c73991b4f59489fe2720d",
+"seconds": 1.926,
+"attempts": 1
+},
+"vocab-206": {
+"digest": "781ccdd2e1bc72b646046df9105c23ce7f72cb07",
+"seconds": 0.809,
+"attempts": 1
+},
+"vocab-206-ex": {
+"digest": "251a6420b927060a7339225d70ab87fe0407e3d2",
+"seconds": 1.332,
+"attempts": 1
+},
+"vocab-207": {
+"digest": "4cea229072b7b5295c6c8a9c6159e95197c70c4f",
+"seconds": 0.634,
+"attempts": 1
+},
+"vocab-207-ex": {
+"digest": "b018b4db69c714df5830a0ff1b678fb06d2ce8b3",
+"seconds": 1.924,
+"attempts": 1
+},
+"vocab-208": {
+"digest": "48697b1ebf645175e2ede654e62ef956168746ca",
+"seconds": 0.63,
+"attempts": 1
+},
+"vocab-208-ex": {
+"digest": "dd41c118a0001530782ff6f710833fdabf366dc6",
+"seconds": 0.951,
+"attempts": 1
+},
+"vocab-209": {
+"digest": "87538fd45489475aff19721f49d5aaf736169179",
+"seconds": 0.697,
+"attempts": 1
+},
+"vocab-209-ex": {
+"digest": "242b6bddb33c54a4e9d778601c25207e8dd956d2",
+"seconds": 1.306,
+"attempts": 1
+},
+"vocab-210": {
+"digest": "c7880a0a6e84a9583e54a18e10cebbe13e48f502",
+"seconds": 0.67,
+"attempts": 1
+},
+"vocab-210-ex": {
+"digest": "95af7ccdce8c5d66953f7b994f8b5d2d2a7db379",
+"seconds": 1.393,
+"attempts": 1
+},
+"vocab-211": {
+"digest": "d4e2f6084164980181e0dd4bf20adea643fb042b",
+"seconds": 0.615,
+"attempts": 1
+},
+"vocab-211-ex": {
+"digest": "e449be36a18c6fc7b14e3e7f83f829e3d9553bfe",
+"seconds": 1.521,
+"attempts": 1
+},
+"vocab-212": {
+"digest": "084c402a1ca4cd2c37830585501a21972ce3a5a9",
+"seconds": 0.653,
+"attempts": 1
+},
+"vocab-212-ex": {
+"digest": "ededd9a761bc54871379c1db0bc91f83cb30d014",
+"seconds": 1.159,
+"attempts": 1
+},
+"vocab-213": {
+"digest": "989190ed01bb48976068b053137d4218887058b7",
+"seconds": 0.544,
+"attempts": 1
+},
+"vocab-213-ex": {
+"digest": "80928aaa371f67dbf87fab5f364969c854391d0d",
+"seconds": 1.015,
+"attempts": 1
+},
+"vocab-214": {
+"digest": "af580f7aa20f8bffc32174fd64e3db5031e5aeb6",
+"seconds": 0.796,
+"attempts": 1
+},
+"vocab-214-ex": {
+"digest": "69bd53ed7e375e3cb9e924450dec01e2f773f7e2",
+"seconds": 1.477,
+"attempts": 1
+},
+"vocab-215": {
+"digest": "a249f75b669aeca95b9c57383fa844c2972b749b",
+"seconds": 0.783,
+"attempts": 1
+},
+"vocab-215-ex": {
+"digest": "83278860beca37908ab762f24babf26e7e94171b",
+"seconds": 1.421,
+"attempts": 1
+},
+"vocab-216": {
+"digest": "b70113686a8533777d86c66941d636122fb6376b",
+"seconds": 0.739,
+"attempts": 1
+},
+"vocab-216-ex": {
+"digest": "25eb377fb944f6879ac122e5ed6315f8b0d1b462",
+"seconds": 1.508,
+"attempts": 1
+}
+}

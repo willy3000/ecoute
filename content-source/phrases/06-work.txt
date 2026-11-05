@@ -1,0 +1,41 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Asking about a job
+1 | Qu'est-ce que tu fais dans la vie ? | What do you do for a living? | 2 | | Tu fais quoi dans la vie ?
+2 | Où est-ce que tu travailles ? | Where do you work? | 2 | | Tu travailles où ?
+3 | Tu aimes ton travail ? | Do you like your job? | 1
+4 | Tu travailles dans quel domaine ? | What field do you work in? | 3
+## Talking about your job
+5 | Je suis ingénieur. | I'm an engineer. | 1 | French does not use "a" or "an" before a job.
+6 | Je suis professeur de français. | I'm a French teacher. | 1
+7 | Elle est médecin. | She's a doctor. | 1
+8 | Je travaille dans un hôpital. | I work in a hospital. | 1 | The h of "hôpital" is silent, so "un" links to it: "u-n-hôpital".
+9 | Je travaille dans une grande entreprise. | I work for a big company. | 2
+10 | Je travaille à la maison. | I work from home. | 1
+11 | Je cherche du travail. | I'm looking for work. | 1
+12 | J'aime beaucoup mon travail. | I really like my job. | 1
+13 | C'est un travail intéressant. | It's an interesting job. | 1 | "C'est un" is usually linked: "c'es-t-un".
+14 | Je m'occupe des clients. | I look after the customers. | 2
+## Colleagues
+15 | Voici mon collègue, Marc. | This is my colleague, Marc. | 1
+16 | Ma collègue est très sympa. | My colleague is really nice. | 1 | "Sympa" is short for "sympathique".
+17 | Je travaille avec une bonne équipe. | I work with a good team. | 2
+18 | Mon chef est en réunion. | My boss is in a meeting. | 1
+## Schedules
+19 | Je travaille de neuf heures à dix-sept heures. | I work from nine to five. | 2
+20 | Je ne travaille pas le lundi. | I don't work on Mondays. | 1 | | Je travaille pas le lundi.
+21 | Je travaille beaucoup cette semaine. | I'm working a lot this week. | 1
+22 | Je suis en vacances la semaine prochaine. | I'm on holiday next week. | 2
+23 | La réunion est à quatorze heures. | The meeting is at two in the afternoon. | 2
+24 | La réunion commence dans dix minutes. | The meeting starts in ten minutes. | 2 | Before "minutes", the x of "dix" is silent.
+25 | Je finis tard aujourd'hui. | I'm finishing late today. | 1
+## At the workplace
+26 | Tu as un moment ? | Do you have a moment? | 1 | | T'as un moment ?
+27 | Je peux te poser une question ? | Can I ask you a question? | 2
+28 | Vous pouvez m'aider, s'il vous plaît ? | Can you help me, please? | 1
+29 | Je suis occupé en ce moment. | I'm busy at the moment. | 2
+30 | J'ai beaucoup de travail. | I have a lot of work. | 1
+31 | Je t'envoie un e-mail. | I'll send you an email. | 2
+32 | Je t'appelle cet après-midi. | I'll call you this afternoon. | 2
+33 | C'est fini pour aujourd'hui. | That's it for today. | 1
+34 | Je vais faire une pause café. | I'm going to take a coffee break. | 2
+35 | Bon courage ! | Good luck! | 2 | Said when someone faces something difficult or tiring.

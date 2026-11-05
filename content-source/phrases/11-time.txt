@@ -1,0 +1,32 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Telling the time
+1 | Quelle heure est-il ? | What time is it? | 1 | "Heure" and "est" run together. The t of "est-il" is pronounced: "é-til". | Il est quelle heure ?
+2 | Il est une heure. | It's one o'clock. | 1
+3 | Il est huit heures et demie. | It's half past eight. | 1 | The t of "huit" links to "heures".
+4 | Il est dix heures et quart. | It's quarter past ten. | 1 | The x of "dix" sounds like a z before "heures".
+5 | Il est midi. | It's noon. | 1
+6 | Il est minuit. | It's midnight. | 1
+7 | Il est trois heures moins le quart. | It's quarter to three. | 2 | Liaison in "trois heures": "troi-z-heures".
+8 | Tu as l'heure ? | Do you have the time? | 1 | | T'as l'heure ?
+9 | À quelle heure ? | At what time? | 1
+## Dates, days and months
+10 | On est quel jour aujourd'hui ? | What day is it today? | 1
+11 | On est lundi. | It's Monday. | 1
+12 | Nous sommes le trois mai. | It's the third of May. | 2 | French uses plain numbers for dates: "the three May".
+13 | Mon anniversaire est le premier juin. | My birthday is the first of June. | 2 | Only the first of the month uses "premier".
+14 | Je pars en juillet. | I'm leaving in July. | 1
+15 | Je ne travaille pas mardi. | I'm not working on Tuesday. | 1 | | Je travaille pas mardi.
+16 | La semaine prochaine, je suis à Paris. | Next week I'm in Paris. | 2
+17 | Le week-end, je me repose. | At the weekend, I rest. | 1
+18 | Mercredi, c'est parfait. | Wednesday is perfect. | 1
+19 | Jeudi ou vendredi ? | Thursday or Friday? | 1
+## Appointments and schedules
+20 | J'ai rendez-vous à dix heures. | I have an appointment at ten o'clock. | 2 | "Rendez-vous" is pronounced "ron-day-voo".
+21 | Je voudrais prendre rendez-vous. | I'd like to make an appointment. | 2
+22 | Tu es libre samedi ? | Are you free on Saturday? | 1 | | T'es libre samedi ?
+23 | On se retrouve à dix-huit heures ? | Shall we meet at six in the evening? | 2
+24 | Ça te va, jeudi à midi ? | Does Thursday at noon work for you? | 2
+25 | Le magasin ouvre à neuf heures. | The shop opens at nine o'clock. | 2
+26 | Le magasin ferme à vingt heures. | The shop closes at eight in the evening. | 2 | The t of "vingt" links to "heures".
+27 | J'ai vingt minutes. | I have twenty minutes. | 1 | The t of "vingt" is silent here.
+28 | Je reviens dans une heure. | I'll be back in an hour. | 1

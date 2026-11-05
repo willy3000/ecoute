@@ -1,0 +1,54 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Checking in
+1 | Comment s'est passée ta journée ? | How was your day? | 3 | | C'était comment, ta journée ?
+2 | Ta journée s'est bien passée ? | Did you have a good day? | 3
+3 | Ça s'est bien passé. | It went well. | 3
+4 | Qu'est-ce que tu fais ? | What are you doing? | 1 | "Qu'est-ce que" sounds like "kess-kuh". | Tu fais quoi ?
+5 | Je ne fais rien. | I'm not doing anything. | 1 | | Je fais rien.
+6 | Qu'est-ce qui s'est passé ? | What happened? | 3 | "Qu'est-ce qui" sounds like "kess-kee".
+7 | Qu'est-ce qui se passe ? | What's going on? | 2
+8 | Rien de grave. | Nothing serious. | 2
+9 | Tu vas bien ? | Are you okay? | 1
+10 | Ça va aller. | It's going to be okay. | 2
+11 | Tu as une minute ? | Do you have a minute? | 1 | Liaison in "as une" ("a-z-une") is optional and usually dropped in everyday speech. | T'as une minute ?
+12 | Je suis désolé. | I'm sorry. | 1 | A woman writes "désolée". Both forms sound identical.
+## Understanding each other
+13 | Je comprends. | I understand. | 1 | The final "ds" is silent, and the vowel at the end is nasal.
+14 | Je ne comprends pas. | I don't understand. | 1 | | Je comprends pas.
+15 | Tu comprends ? | Do you understand? | 1
+16 | Je ne sais pas. | I don't know. | 1 | | Je sais pas.
+17 | Je ne sais pas encore. | I don't know yet. | 2 | Liaison in "pas encore" is optional and often dropped in speech.
+18 | Qu'est-ce que tu veux dire ? | What do you mean? | 2
+19 | Qu'est-ce que ça veut dire ? | What does that mean? | 2
+20 | Qu'est-ce que tu dis ? | What are you saying? | 2
+21 | Tu peux répéter, s'il te plaît ? | Can you repeat that, please? | 1
+22 | Vous pouvez répéter, s'il vous plaît ? | Could you repeat that, please? | 1
+23 | Plus lentement, s'il vous plaît. | More slowly, please. | 1
+24 | Pardon, je n'ai pas compris. | Sorry, I didn't catch that. | 2 | | Pardon, j'ai pas compris.
+25 | Comment on dit ça en français ? | How do you say that in French? | 2
+26 | Tu parles anglais ? | Do you speak English? | 1
+27 | Je parle un peu français. | I speak a little French. | 1
+28 | Je suis en train d'apprendre le français. | I'm learning French. | 3 | "En train de" means something is happening right now.
+## Common responses
+29 | Oui, bien sûr. | Yes, of course. | 1
+30 | Non, pas du tout. | No, not at all. | 1
+31 | D'accord. | Okay. | 1 | The final d is silent.
+32 | Tu as raison. | You're right. | 1 | | T'as raison.
+33 | Je suis d'accord. | I agree. | 1
+34 | Je ne suis pas d'accord. | I don't agree. | 1 | | Je suis pas d'accord.
+35 | C'est vrai. | That's true. | 1
+36 | Ce n'est pas vrai. | That's not true. | 1 | | C'est pas vrai.
+37 | Vraiment ? | Really? | 1
+38 | Peut-être. | Maybe. | 1
+39 | Je pense que oui. | I think so. | 2
+40 | Je ne pense pas. | I don't think so. | 2 | | Je pense pas.
+41 | Ce n'est pas grave. | It doesn't matter. | 1 | | C'est pas grave.
+42 | Il n'y a pas de problème. | No problem. | 2 | | Y a pas de problème.
+43 | C'est une bonne idée. | That's a good idea. | 1
+44 | C'est très bien. | That's very good. | 1
+45 | C'est super ! | That's great! | 1
+46 | C'est dommage. | That's a pity. | 2
+47 | Ça dépend. | It depends. | 2
+48 | Attends une minute. | Wait a minute. | 1
+49 | J'arrive ! | I'm coming! | 1 | Said when someone calls you or is waiting for you.
+50 | Merci pour ton aide. | Thanks for your help. | 1

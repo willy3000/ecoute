@@ -1,0 +1,49 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## At a restaurant
+1 | Une table pour deux, s'il vous plaît. | A table for two, please. | 1
+2 | La carte, s'il vous plaît. | The menu, please. | 1 | In a restaurant, the list of dishes is "la carte". "Le menu" is a set meal.
+3 | Qu'est-ce que vous prenez ? | What will you have? | 1
+4 | Vous avez choisi ? | Are you ready to order? | 2 | Literally "have you chosen?"
+5 | Je vais prendre le poulet. | I'll have the chicken. | 1
+6 | Pour moi, une salade, s'il vous plaît. | A salad for me, please. | 1
+7 | Comme boisson, de l'eau, s'il vous plaît. | Water to drink, please. | 2
+8 | Une carafe d'eau, s'il vous plaît. | A jug of tap water, please. | 2
+9 | C'est très bon ! | It's delicious! | 1
+10 | L'addition, s'il vous plaît. | The bill, please. | 1
+11 | On peut payer par carte ? | Can we pay by card? | 1
+12 | Bon appétit ! | Enjoy your meal! | 1 | The t of "appétit" is silent. "Bon" links to the next word and sounds like "bonne": "bo-n-appétit".
+## Likes and preferences
+13 | J'aime le poisson. | I like fish. | 1
+14 | Je n'aime pas les légumes. | I don't like vegetables. | 1 | | J'aime pas les légumes.
+15 | Je préfère le thé au café. | I prefer tea to coffee. | 2
+16 | Je suis végétarien. | I'm a vegetarian. | 1 | A woman says "végétarienne", with a clear n sound.
+17 | C'est trop sucré pour moi. | It's too sweet for me. | 2
+18 | Tu as déjà mangé ? | Have you already eaten? | 2 | | T'as déjà mangé ?
+## Café and bakery
+19 | Un café et un croissant, s'il vous plaît. | A coffee and a croissant, please. | 1
+20 | Je voudrais une baguette, s'il vous plaît. | I'd like a baguette, please. | 1
+21 | Deux pains au chocolat, s'il vous plaît. | Two pains au chocolat, please. | 1
+22 | Un verre d'eau, s'il vous plaît. | A glass of water, please. | 1
+23 | Je prends un thé au lait. | I'll have tea with milk. | 1
+24 | C'est pour emporter. | It's to take away. | 2
+## Prices
+25 | C'est combien ? | How much is it? | 1
+26 | Ça fait combien ? | How much does that come to? | 1
+27 | Ça fait dix euros. | That comes to ten euros. | 1 | Liaison in "dix euros": "di-z-euros".
+28 | C'est trop cher. | It's too expensive. | 1
+29 | Ce n'est pas cher. | It isn't expensive. | 1 | | C'est pas cher.
+## Quantities
+30 | Je voudrais un kilo de pommes. | I'd like a kilo of apples. | 1
+31 | Une bouteille d'eau, s'il vous plaît. | A bottle of water, please. | 1
+32 | Encore un peu de pain ? | A little more bread? | 1
+33 | Un peu de sucre, s'il vous plaît. | A little sugar, please. | 1
+34 | Ça suffit, merci. | That's enough, thank you. | 2 | Said when being served. On its own, "Ça suffit !" can sound like an annoyed "That's enough!"
+## Buying things
+35 | Je cherche un cadeau. | I'm looking for a gift. | 1
+36 | Vous avez ce pull en bleu ? | Do you have this jumper in blue? | 2
+37 | Je peux l'essayer ? | Can I try it on? | 2
+38 | Je le prends. | I'll take it. | 1
+39 | Je regarde juste, merci. | I'm just looking, thanks. | 1
+40 | Il n'y a plus de lait. | There's no more milk. | 2 | | Y a plus de lait.
+41 | Il faut acheter du pain. | We need to buy some bread. | 1
+42 | Où est-ce que je peux payer ? | Where can I pay? | 2

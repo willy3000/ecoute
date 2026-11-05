@@ -1,0 +1,86 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Être
+1 | Je suis fatigué. | I'm tired. | 1 | A woman writes "fatiguée". Both forms sound identical.
+2 | Tu es sûr ? | Are you sure? | 1 | A woman hears "sûre". Both forms sound identical. | T'es sûr ?
+3 | Il est très gentil. | He is very kind. | 1 | The final l of "gentil" is silent.
+4 | Elle est à la maison. | She's at home. | 1
+5 | On est en retard. | We're late. | 1 | "On" often replaces "nous" in everyday speech. Liaison: "on-n-est".
+6 | Nous sommes prêts. | We're ready. | 2
+7 | Vous êtes français ? | Are you French? | 1 | Liaison in "vous êtes": "vou-z-êtes".
+8 | Ils sont en vacances. | They're on holiday. | 2 | "Ils sont" uses an s sound. Compare "ils ont", with a z sound.
+## Avoir
+9 | J'ai une idée. | I have an idea. | 1
+10 | Tu as le temps ? | Do you have time? | 1 | | T'as le temps ?
+11 | Il a deux enfants. | He has two children. | 1 | Liaison in "deux enfants": "deu-z-enfants".
+12 | Elle a trente ans. | She's thirty years old. | 1 | French uses "to have" for age.
+13 | Nous avons une petite maison. | We have a small house. | 2 | Liaison in "nous avons": "nou-z-avons".
+14 | Ils ont une voiture. | They have a car. | 2 | Liaison in "ils ont": "il-z-ont".
+## Aller
+15 | Je vais au marché. | I'm going to the market. | 1
+16 | Tu vas où ce soir ? | Where are you going tonight? | 1
+17 | Elle va bien. | She's doing well. | 1
+18 | On va au cinéma ? | Shall we go to the cinema? | 1
+19 | Nous allons à Paris demain. | We're going to Paris tomorrow. | 2 | Liaison in "nous allons": "nou-z-allons".
+20 | Ils vont à l'école à pied. | They walk to school. | 2 | Literally "they go to school on foot".
+## Faire
+21 | Je fais du sport le samedi. | I do sport on Saturdays. | 1 | "Le samedi" means every Saturday.
+22 | Tu fais quoi ce week-end ? | What are you doing this weekend? | 1
+23 | Il fait beau aujourd'hui. | The weather is nice today. | 1 | French uses "faire" for weather.
+24 | Nous faisons les courses. | We're doing the shopping. | 2 | "Faisons" is pronounced "fuh-zon".
+25 | Vous faites quoi dans la vie ? | What do you do for a living? | 2 | A very common way to ask about someone's job.
+## Vouloir
+26 | Je veux rentrer à la maison. | I want to go home. | 1
+27 | Je voudrais un café, s'il vous plaît. | I'd like a coffee, please. | 1 | "Je voudrais" is more polite than "je veux".
+28 | Tu veux venir avec nous ? | Do you want to come with us? | 1
+29 | Elle ne veut pas sortir. | She doesn't want to go out. | 2 | | Elle veut pas sortir.
+## Pouvoir
+30 | Je peux t'aider ? | Can I help you? | 1
+31 | Tu peux m'appeler ce soir ? | Can you call me tonight? | 1
+32 | On peut parler ? | Can we talk? | 1
+33 | Je ne peux pas venir demain. | I can't come tomorrow. | 2 | | Je peux pas venir demain.
+## Devoir
+34 | Je dois partir. | I have to go. | 1
+35 | Tu dois manger quelque chose. | You need to eat something. | 2
+36 | Nous devons parler. | We need to talk. | 2
+## Savoir
+37 | Je sais. | I know. | 1 | Used for facts. Use "connaître" for people and places.
+38 | Tu sais où il habite ? | Do you know where he lives? | 2
+39 | Elle sait conduire. | She knows how to drive. | 2
+## Connaître
+40 | Je connais bien cette ville. | I know this city well. | 2
+41 | Tu connais ma sœur ? | Do you know my sister? | 1
+42 | On ne se connaît pas. | We don't know each other. | 3 | | On se connaît pas.
+## Parler
+43 | Elle parle très vite. | She speaks very fast. | 1
+44 | Nous parlons français à la maison. | We speak French at home. | 2
+45 | Ils parlent trop fort. | They're talking too loudly. | 2 | The ending "-ent" of "parlent" is silent.
+## Aimer
+46 | J'aime beaucoup cette chanson. | I really like this song. | 1
+47 | Tu aimes le chocolat ? | Do you like chocolate? | 1
+48 | Il n'aime pas le café. | He doesn't like coffee. | 1 | | Il aime pas le café.
+## Manger et boire
+49 | On mange ensemble ? | Shall we eat together? | 1
+50 | Je ne mange pas de viande. | I don't eat meat. | 1 | | Je mange pas de viande.
+51 | Je bois beaucoup d'eau. | I drink a lot of water. | 1
+52 | Vous buvez quelque chose ? | Would you like something to drink? | 2 | Literally "are you drinking something?"
+## Travailler et habiter
+53 | Il travaille à la banque. | He works at the bank. | 1
+54 | Elle habite avec ses parents. | She lives with her parents. | 1
+55 | Nous habitons près d'ici. | We live near here. | 2 | Liaison in "nous habitons": "nou-z-habitons".
+## Venir
+56 | Je viens de rentrer. | I just got back. | 3 | "Venir de" plus a verb means something has just happened.
+57 | Tu viens avec moi ? | Are you coming with me? | 1
+58 | Ils viennent ce soir. | They're coming tonight. | 2 | "Viennent" ends in a clear n sound. Compare "il vient".
+## Prendre
+59 | Je prends le bus. | I'm taking the bus. | 1
+60 | Tu prends un café ? | Will you have a coffee? | 1 | "Prendre" is used for food and drink as well as transport.
+## Comprendre
+61 | Elle comprend tout. | She understands everything. | 1
+62 | Vous comprenez ma question ? | Do you understand my question? | 2
+## Dire
+63 | Je te dis la vérité. | I'm telling you the truth. | 2
+64 | Il ne dit rien. | He's not saying anything. | 2 | | Il dit rien.
+## Voir
+65 | Je vois. | I see. | 1 | Also means "I understand" in conversation.
+66 | Tu vois la voiture rouge ? | Do you see the red car? | 1
+67 | On se voit demain ? | Shall we meet up tomorrow? | 1

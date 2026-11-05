@@ -1,0 +1,54 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Waking up
+1 | Je me réveille à sept heures. | I wake up at seven o'clock. | 1 | "Sept" links to "heures": "se-t-heures".
+2 | Je me lève tôt. | I get up early. | 1
+3 | Je me lève tard le dimanche. | I get up late on Sundays. | 1
+4 | J'ai bien dormi. | I slept well. | 2
+5 | Je n'ai pas bien dormi. | I didn't sleep well. | 2 | | J'ai pas bien dormi.
+6 | Tu es déjà réveillé ? | Are you already awake? | 2 | | T'es déjà réveillé ?
+## Getting ready
+7 | Je prends une douche. | I'm taking a shower. | 1
+8 | Je m'habille. | I'm getting dressed. | 1 | The h is silent: "je m'abille".
+9 | Je me brosse les dents. | I'm brushing my teeth. | 1
+10 | Je dois me préparer. | I need to get ready. | 2
+11 | Je suis presque prêt. | I'm almost ready. | 1
+12 | Je ne trouve pas mes clés. | I can't find my keys. | 1 | | Je trouve pas mes clés.
+13 | Il faut partir maintenant. | We have to leave now. | 2 | "Il faut" has no real subject and is very common.
+## Eating
+14 | Je prends mon petit déjeuner. | I'm having breakfast. | 1
+15 | Je bois un café le matin. | I have a coffee in the morning. | 1
+16 | Je ne mange pas le matin. | I don't eat in the morning. | 1 | | Je mange pas le matin.
+17 | On déjeune à midi. | We have lunch at noon. | 1
+18 | Qu'est-ce qu'on mange ce soir ? | What are we eating tonight? | 1 | | On mange quoi ce soir ?
+19 | Je prépare le dîner. | I'm making dinner. | 1
+20 | Le dîner est prêt ! | Dinner is ready! | 1
+## Going to work
+21 | Je pars au travail à huit heures. | I leave for work at eight o'clock. | 1
+22 | Je vais au travail en voiture. | I go to work by car. | 1
+23 | Je vais au bureau à vélo. | I cycle to the office. | 1
+24 | Je suis en retard ce matin. | I'm late this morning. | 1
+25 | Je commence à neuf heures. | I start at nine o'clock. | 1 | The f of "neuf" sounds like a v before "heures": "neu-v-heures".
+## Coming home
+26 | Je finis à dix-sept heures. | I finish at five in the afternoon. | 2 | French often uses the 24-hour clock for schedules.
+27 | Je rentre à la maison. | I'm going home. | 1
+28 | Je rentre tard ce soir. | I'll be home late tonight. | 1 | The present tense often describes the near future.
+29 | Tu rentres à quelle heure ? | What time are you coming home? | 1
+30 | Je suis à la maison. | I'm at home. | 1
+31 | Je me repose un peu. | I'm resting for a bit. | 2
+32 | Je regarde la télé. | I'm watching TV. | 1 | "Télé" is the everyday word for "télévision".
+33 | Je fais la vaisselle. | I'm doing the dishes. | 2
+34 | Je fais le ménage le samedi. | I do the housework on Saturdays. | 2
+## Sleeping
+35 | Je suis très fatigué ce soir. | I'm very tired tonight. | 1
+36 | Je vais me coucher. | I'm going to bed. | 2
+37 | Je me couche à onze heures. | I go to bed at eleven o'clock. | 1 | "Onze" and "heures" run together: "on-z-heures".
+38 | Je n'arrive pas à dormir. | I can't get to sleep. | 3 | | J'arrive pas à dormir.
+## Plans and activities
+39 | Qu'est-ce que tu fais demain ? | What are you doing tomorrow? | 1 | | Tu fais quoi demain ?
+40 | Je n'ai rien de prévu. | I don't have anything planned. | 3 | | J'ai rien de prévu.
+41 | On sort ce soir ? | Shall we go out tonight? | 1
+42 | Je vais faire les courses. | I'm going to do the shopping. | 2
+43 | Je vais voir un ami ce week-end. | I'm seeing a friend this weekend. | 2
+44 | Je reste à la maison aujourd'hui. | I'm staying home today. | 1
+45 | Je fais une promenade après le dîner. | I go for a walk after dinner. | 2
+46 | Je lis un peu avant de dormir. | I read a little before going to sleep. | 2

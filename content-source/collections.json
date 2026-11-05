@@ -1,0 +1,14 @@
+[
+  { "id": "greetings", "prefix": "greeting", "file": "01-greetings.txt", "title": "Greetings and introductions", "titleFr": "Salutations et présentations", "description": "Hello, goodbye, names, where you are from, and everyday politeness." },
+  { "id": "everyday", "prefix": "everyday", "file": "02-everyday.txt", "title": "Everyday conversations", "titleFr": "Conversations de tous les jours", "description": "Checking in, reacting, agreeing, and saying when you did not understand." },
+  { "id": "questions", "prefix": "question", "file": "03-questions.txt", "title": "Essential questions", "titleFr": "Questions essentielles", "description": "Qui, quoi, où, quand, pourquoi, comment, combien, and est-ce que." },
+  { "id": "verbs", "prefix": "verb", "file": "04-verbs.txt", "title": "Essential verbs", "titleFr": "Verbes essentiels", "description": "The twenty most useful verbs in natural everyday sentences." },
+  { "id": "routines", "prefix": "routine", "file": "05-routines.txt", "title": "Daily routines", "titleFr": "La vie quotidienne", "description": "From waking up to going to bed, and the plans in between." },
+  { "id": "work", "prefix": "work", "file": "06-work.txt", "title": "Work and professional life", "titleFr": "Le travail", "description": "Jobs, colleagues, schedules, and common workplace exchanges." },
+  { "id": "family", "prefix": "family", "file": "07-family.txt", "title": "Family and relationships", "titleFr": "La famille et les proches", "description": "Parents, siblings, friends, couples, and time spent together." },
+  { "id": "food", "prefix": "food", "file": "08-food.txt", "title": "Food, restaurants and shopping", "titleFr": "Manger et faire les courses", "description": "Ordering, asking prices, quantities, preferences, and buying things." },
+  { "id": "places", "prefix": "place", "file": "09-places.txt", "title": "Places, directions and transportation", "titleFr": "Lieux, directions et transports", "description": "Finding your way, public transport, and getting around a city." },
+  { "id": "feelings", "prefix": "feeling", "file": "10-feelings.txt", "title": "Feelings, health and needs", "titleFr": "Sentiments, santé et besoins", "description": "Tired, hungry, happy, unwell, and asking for help." },
+  { "id": "time", "prefix": "time", "file": "11-time.txt", "title": "Numbers, time and dates", "titleFr": "Nombres, heures et dates", "description": "Telling the time, dates, days, months, and appointments." },
+  { "id": "spoken", "prefix": "spoken", "file": "12-spoken.txt", "title": "Natural spoken French", "titleFr": "Le français parlé", "description": "How people really talk, each form linked to its standard written equivalent." }
+]

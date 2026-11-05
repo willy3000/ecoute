@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/newsreader';
+
+@theme {
+  --font-sans: 'Inter Variable', system-ui, sans-serif;
+  --font-french: 'Newsreader Variable', Georgia, serif;
+
+  --color-ink-950: #0d1420;
+  --color-ink-900: #131c2b;
+  --color-ink-850: #182336;
+  --color-ink-800: #1e2a3f;
+  --color-ink-700: #2c3a52;
+  --color-ink-600: #42516b;
+  --color-fg: #e8edf4;
+  --color-fg-soft: #b3bfcf;
+  --color-fg-muted: #8c9ab0;
+  --color-teal-soft: #7fd8cc;
+  --color-teal: #4fbfb1;
+  --color-teal-deep: #1f5a57;
+  --color-amber: #e2b866;
+  --color-rose: #e58a8a;
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    margin: 0;
+    background: var(--color-ink-950);
+    color: var(--color-fg);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-teal-soft);
+    outline-offset: 2px;
+  }
+  dialog::backdrop {
+    background: rgb(5 9 15 / 0.7);
+  }
+  ::placeholder {
+    color: var(--color-fg-muted);
+  }
+}
+
+.french {
+  font-family: var(--font-french);
+  font-optical-sizing: auto;
+}
+
+.field {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-ink-700);
+  background: var(--color-ink-900);
+  padding: 0.5rem 0.75rem;
+  color: var(--color-fg);
+  font-size: 1rem;
+}
+.field:focus {
+  outline: none;
+  border-color: var(--color-teal);
+}
+select.field {
+  appearance: auto;
+}
+
+/* Native range input styled to match the theme. */
+input[type='range'] {
+  accent-color: var(--color-teal);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

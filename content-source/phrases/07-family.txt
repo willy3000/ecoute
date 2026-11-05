@@ -1,0 +1,39 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Parents
+1 | Voici ma mère. | This is my mother. | 1
+2 | Mon père travaille à Paris. | My father works in Paris. | 1
+3 | Mes parents habitent à Nice. | My parents live in Nice. | 1
+4 | J'appelle ma mère tous les dimanches. | I call my mother every Sunday. | 2
+5 | Mes parents sont à la retraite. | My parents are retired. | 2
+## Siblings and children
+6 | J'ai un frère et une sœur. | I have a brother and a sister. | 1
+7 | Je n'ai pas de frère. | I don't have a brother. | 1 | | J'ai pas de frère.
+8 | Ma sœur a vingt-cinq ans. | My sister is twenty-five. | 1
+9 | Mon frère est plus grand que moi. | My brother is taller than me. | 2
+10 | Je suis fils unique. | I'm an only child. | 2 | A woman says "fille unique". The l of "fils" is silent and the s is pronounced.
+11 | Tu as des enfants ? | Do you have children? | 1 | Liaison in "des enfants": "dé-z-enfants". | T'as des enfants ?
+12 | Nous avons deux filles. | We have two daughters. | 1
+13 | Mon fils a six ans. | My son is six. | 1 | The x of "six" sounds like a z before "ans".
+14 | Les enfants jouent dehors. | The children are playing outside. | 2
+## Friends
+15 | C'est mon meilleur ami. | He's my best friend. | 1
+16 | Voici mes amis. | These are my friends. | 1 | Liaison in "mes amis": "mé-z-amis".
+17 | Je vois mes amis ce soir. | I'm seeing my friends tonight. | 1
+18 | Elle a beaucoup d'amis. | She has a lot of friends. | 1
+19 | Nous sommes amis depuis longtemps. | We've been friends for a long time. | 3
+## Relationships
+20 | Je suis marié. | I'm married. | 1 | A woman writes "mariée". Both forms sound identical.
+21 | Je suis célibataire. | I'm single. | 1
+22 | Tu es marié ? | Are you married? | 1 | | T'es marié ?
+23 | Voici ma femme. | This is my wife. | 1 | "Femme" is pronounced "fam".
+24 | Mon mari s'appelle Paul. | My husband's name is Paul. | 1
+25 | Elle a un copain. | She has a boyfriend. | 2 | "Copain" can also mean a male friend, depending on context.
+## Family life
+26 | Toute la famille est là. | The whole family is here. | 2
+27 | On mange chez mes parents dimanche. | We're eating at my parents' house on Sunday. | 2
+28 | Ma famille habite loin. | My family lives far away. | 1
+29 | On passe Noël en famille. | We spend Christmas with the family. | 2
+## Personal questions
+30 | Tu as des frères et sœurs ? | Do you have any brothers or sisters? | 1
+31 | Ils ont quel âge, tes enfants ? | How old are your children? | 2
+32 | Tu vis seul ? | Do you live alone? | 1 | A woman hears "seule". Both forms sound identical.

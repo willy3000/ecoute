@@ -1,0 +1,61 @@
+# n | french | english | difficulty 1-3 | relationship and pronunciation note | natural spoken alternative | register | linked id
+## Dropping "ne"
+1 | Je sais pas. | I don't know. | 1 | Spoken form of "Je ne sais pas". Speech usually drops "ne". Often sounds like "chais pas". | | informal | everyday-016
+2 | Je comprends pas. | I don't get it. | 1 | Spoken form of "Je ne comprends pas". Standard writing keeps "ne". | | informal | everyday-014
+3 | C'est pas grave. | No big deal. | 1 | Spoken form of "Ce n'est pas grave". Standard writing keeps "ne". | | informal | everyday-041
+4 | C'est pas vrai ! | No way! | 1 | Spoken form of "Ce n'est pas vrai", and here an expression of surprise. | | informal | everyday-036
+5 | Je peux pas. | I can't. | 1 | Spoken form of "Je ne peux pas". Standard writing keeps "ne". | | informal | spoken-050
+6 | J'ai pas le temps. | I don't have time. | 1 | Spoken form of "Je n'ai pas le temps". Standard writing keeps "ne". | | informal | spoken-044
+7 | Je veux pas. | I don't want to. | 1 | Spoken form of "Je ne veux pas". Standard writing keeps "ne". | | informal | spoken-045
+8 | Je sais pas trop. | I'm not really sure. | 2 | "Pas trop" softens the answer. Standard writing: "Je ne sais pas trop". | | informal | spoken-051
+## Tu becomes t'
+9 | T'as faim ? | You hungry? | 1 | Spoken form of "Tu as faim ?" (also "Est-ce que tu as faim ?"). Dropping the u of "tu" before a vowel is not used in standard writing. | | informal | question-044
+10 | T'es où ? | Where are you? | 1 | Spoken form of "Tu es où ?", itself a relaxed form of "Où es-tu ?". | | informal | question-013
+11 | T'as raison. | You're right. | 1 | Spoken form of "Tu as raison". | | informal | everyday-032
+12 | T'as vu ? | Did you see that? | 2 | Spoken form of "Tu as vu ?". | | informal
+13 | T'inquiète ! | Don't worry! | 2 | Very informal short form of "Ne t'inquiète pas". | | informal | feeling-018
+## Il y a becomes y a
+14 | Y a quelqu'un ? | Is anybody there? | 1 | Spoken form of "Il y a quelqu'un ?". "Il" is dropped in speech. | | informal | spoken-046
+15 | Y a pas de problème. | There's no problem. | 1 | Spoken form of "Il n'y a pas de problème". Both "il" and "ne" disappear. | | informal | everyday-042
+16 | Y a quoi à manger ? | What is there to eat? | 2 | Spoken form of "Qu'est-ce qu'il y a à manger ?". | | informal | spoken-047
+## Il faut becomes faut
+17 | Faut y aller. | We've got to go. | 2 | Spoken form of "Il faut y aller". "Il" is dropped in speech. | | informal | spoken-048
+## Question word at the end
+18 | Tu fais quoi ? | What are you doing? | 1 | Spoken form of "Qu'est-ce que tu fais ?". The question word moves to the end. | | informal | everyday-004
+19 | C'est quoi ? | What's that? | 1 | Spoken form of "Qu'est-ce que c'est ?". | | informal | question-007
+20 | Tu veux quoi ? | What do you want? | 1 | Spoken form of "Qu'est-ce que tu veux ?". It can sound abrupt. | | informal | question-008
+21 | Il est où ? | Where is he? | 1 | Spoken form of "Où est-il ?". Also used for objects: "Where is it?" | | informal | spoken-049
+## Short answers
+22 | Ouais. | Yeah. | 1 | Informal form of "oui". Common with friends, avoided in formal situations. | | informal
+23 | Bof. | Meh. | 1 | Shows little enthusiasm. Usually with a small shrug. | | informal
+24 | Ben oui ! | Well, yes! | 1 | "Ben" is a spoken form of "bien", and adds "obviously". | | informal
+25 | Pas de souci. | No worries. | 1 | Very common, in both casual and workplace speech. | | informal
+26 | Pas mal. | Not bad. | 1 | Often means "quite good". Fine with anyone.
+27 | Ça marche ! | Sounds good! | 1 | Means "agreed". Common among friends and in shops. | | informal
+28 | C'est bon. | It's fine. | 1 | Also means "that's enough" or "it tastes good", depending on context. | | informal
+29 | Carrément ! | Absolutely! | 2 | An enthusiastic informal "yes". | | informal
+30 | Ah bon ? | Oh, really? | 1 | Shows surprise or interest. Fine with anyone.
+31 | Laisse tomber. | Forget it. | 2 | Literally "let it fall". | | informal
+## Fillers and connectors
+32 | Euh, je sais plus. | Um, I can't remember. | 2 | "Euh" is the French "um", a hesitation sound. "Ne" is dropped. Standard writing: "Je ne sais plus". | | informal
+33 | Du coup, on fait quoi ? | So, what do we do? | 2 | "Du coup" is a very common spoken way of saying "so". | | informal
+34 | En fait, c'est facile. | Actually, it's easy. | 1 | In "en fait", the t is usually pronounced. Fine with anyone.
+35 | Bon, ben, à demain. | Okay then, see you tomorrow. | 2 | "Bon, ben" signals the end of a conversation. | | informal
+36 | Allez, on y va ! | Come on, let's go! | 1 | "Allez" here is a call to action, not a real "you go". | | informal
+37 | Quoi de neuf ? | What's new? | 1 | A friendly informal greeting. The f of "neuf" is pronounced. | | informal
+38 | Rien de spécial. | Nothing special. | 1 | The usual answer to "Quoi de neuf ?". Fine with anyone.
+39 | Désolé, je savais pas. | Sorry, I didn't know. | 2 | "Ne" is dropped. Standard writing: "Désolé, je ne savais pas". | | informal
+## Short exchanges
+40 | Ça va ? Ouais, et toi ? | You okay? Yeah, you? | 1 | A typical exchange of two lines between friends. | | informal
+41 | On y va ? Ouais, on y va. | Shall we go? Yeah, let's go. | 1 | A typical exchange. "On y va" is one of the most useful phrases in spoken French. | | informal
+42 | Merci ! Pas de quoi. | Thanks! Don't mention it. | 1 | "Pas de quoi" is short for "Il n'y a pas de quoi". | | informal
+43 | Tu viens ? J'arrive ! | You coming? On my way! | 1 | A typical exchange. "J'arrive" can be said before you have even moved. | | informal
+## Standard forms for comparison
+44 | Je n'ai pas le temps. | I don't have time. | 1 | Standard form. In speech, this usually becomes "J'ai pas le temps".
+45 | Je ne veux pas. | I don't want to. | 1 | Standard form. In speech, this usually becomes "Je veux pas".
+46 | Il y a quelqu'un ? | Is anyone there? | 1 | Standard form. In speech, this usually becomes "Y a quelqu'un ?".
+47 | Qu'est-ce qu'il y a à manger ? | What is there to eat? | 2 | Standard form. In speech, this usually becomes "Y a quoi à manger ?".
+48 | Il faut y aller. | We have to go. | 2 | Standard form. In speech, this usually becomes "Faut y aller".
+49 | Où est-il ? | Where is he? | 1 | Standard form. In speech, this usually becomes "Il est où ?".
+50 | Je ne peux pas. | I can't. | 1 | Standard form. In speech, this usually becomes "Je peux pas".
+51 | Je ne sais pas trop. | I'm not really sure. | 2 | Standard form. In speech, this usually becomes "Je sais pas trop".

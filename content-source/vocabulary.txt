@@ -1,0 +1,232 @@
+# french | english | part of speech | gender | IPA | example fr | example en | extra word forms (comma separated)
+## Greetings
+bonjour | hello | interjection | | /bɔ̃.ʒuʁ/ | Bonjour, madame. | Hello, madam.
+bonsoir | good evening | interjection | | /bɔ̃.swaʁ/ | Bonsoir, tout le monde. | Good evening, everyone.
+salut | hi, bye | interjection | | /sa.ly/ | Salut, ça va ? | Hi, how are you?
+au revoir | goodbye | interjection | | /o ʁə.vwaʁ/ | Au revoir et merci. | Goodbye and thank you.
+merci | thank you | interjection | | /mɛʁ.si/ | Merci pour le café. | Thanks for the coffee.
+pardon | sorry, excuse me | interjection | | /paʁ.dɔ̃/ | Pardon, madame. | Excuse me, madam.
+oui | yes | adverb | | /wi/ | Oui, je comprends. | Yes, I understand.
+non | no | adverb | | /nɔ̃/ | Non, merci. | No, thank you.
+monsieur | sir, Mr | noun | m | /mə.sjø/ | Bonjour, monsieur. | Hello, sir.
+madame | madam, Mrs | noun | f | /ma.dam/ | Merci, madame. | Thank you, madam.
+## People and family
+homme | man | noun | m | /ɔm/ | Cet homme travaille avec moi. | This man works with me. | hommes
+femme | woman, wife | noun | f | /fam/ | Cette femme parle français. | This woman speaks French. | femmes
+enfant | child | noun | m,f | /ɑ̃.fɑ̃/ | Cet enfant a cinq ans. | This child is five years old. | enfants
+ami | friend | noun | m | /a.mi/ | C'est un ami de Paul. | He's a friend of Paul's. | amis,amie,amies
+famille | family | noun | f | /fa.mij/ | Ma famille est petite. | My family is small. | familles
+père | father | noun | m | /pɛʁ/ | Mon père est grand. | My father is tall.
+mère | mother | noun | f | /mɛʁ/ | Ma mère est professeur. | My mother is a teacher.
+parents | parents | noun | m | /pa.ʁɑ̃/ | Mes parents sont là. | My parents are here.
+frère | brother | noun | m | /fʁɛʁ/ | Mon frère habite à Paris. | My brother lives in Paris. | frères
+sœur | sister | noun | f | /sœʁ/ | Ma sœur est gentille. | My sister is kind. | sœurs
+fils | son | noun | m | /fis/ | Son fils est petit. | Her son is little.
+fille | daughter, girl | noun | f | /fij/ | Ma fille aime lire. | My daughter likes reading. | filles
+mari | husband | noun | m | /ma.ʁi/ | Son mari est médecin. | Her husband is a doctor.
+garçon | boy | noun | m | /ɡaʁ.sɔ̃/ | Le garçon joue dehors. | The boy is playing outside. | garçons
+personne | person | noun | f | /pɛʁ.sɔn/ | Il y a une personne devant la porte. | There is one person at the door. | personnes
+## Numbers
+un | one | number | | /œ̃/ | J'ai un frère. | I have one brother.
+deux | two | number | | /dø/ | Il est deux heures. | It's two o'clock.
+trois | three | number | | /tʁwa/ | J'ai trois sœurs. | I have three sisters.
+quatre | four | number | | /katʁ/ | Nous sommes quatre. | There are four of us.
+cinq | five | number | | /sɛ̃k/ | J'ai cinq minutes. | I have five minutes.
+six | six | number | | /sis/ | Il a six ans. | He is six years old.
+sept | seven | number | | /sɛt/ | Je me lève à sept heures. | I get up at seven o'clock.
+huit | eight | number | | /ɥit/ | Il est huit heures. | It's eight o'clock.
+neuf | nine | number | | /nœf/ | J'ai neuf euros. | I have nine euros.
+dix | ten | number | | /dis/ | Ça fait dix euros, s'il vous plaît. | That's ten euros, please.
+vingt | twenty | number | | /vɛ̃/ | Elle a vingt ans. | She is twenty years old.
+cent | one hundred | number | | /sɑ̃/ | Ça coûte cent euros. | It costs a hundred euros.
+## Time
+heure | hour, o'clock | noun | f | /œʁ/ | Il est quelle heure ? | What time is it? | heures
+minute | minute | noun | f | /mi.nyt/ | Attends une petite minute. | Wait just a minute. | minutes
+jour | day | noun | m | /ʒuʁ/ | Je travaille tous les jours. | I work every day. | jours
+semaine | week | noun | f | /sə.mɛn/ | Je pars une semaine. | I'm leaving for a week. | semaines
+mois | month | noun | m | /mwa/ | Je pars en vacances ce mois-ci. | I'm going on holiday this month.
+an | year | noun | m | /ɑ̃/ | J'ai quarante ans. | I'm forty years old. | ans
+matin | morning | noun | m | /ma.tɛ̃/ | Je me lève tôt le matin. | I get up early in the morning.
+après-midi | afternoon | noun | m | /a.pʁɛ.mi.di/ | Je travaille cet après-midi. | I'm working this afternoon.
+soir | evening | noun | m | /swaʁ/ | Je suis libre ce soir. | I'm free this evening.
+nuit | night | noun | f | /nɥi/ | Je dors bien la nuit. | I sleep well at night.
+aujourd'hui | today | adverb | | /o.ʒuʁ.dɥi/ | Il fait froid aujourd'hui. | It's cold today.
+demain | tomorrow | adverb | | /də.mɛ̃/ | Je travaille demain. | I'm working tomorrow.
+hier | yesterday | adverb | | /jɛʁ/ | Hier, j'étais à Paris. | Yesterday I was in Paris.
+maintenant | now | adverb | | /mɛ̃.tə.nɑ̃/ | Je pars maintenant. | I'm leaving now.
+tôt | early | adverb | | /to/ | Je pars tôt demain. | I'm leaving early tomorrow.
+tard | late | adverb | | /taʁ/ | Il est tard. | It's late.
+lundi | Monday | noun | m | /lœ̃.di/ | Je commence lundi. | I start on Monday.
+mardi | Tuesday | noun | m | /maʁ.di/ | Je te vois mardi. | I'll see you on Tuesday.
+mercredi | Wednesday | noun | m | /mɛʁ.kʁə.di/ | Je suis libre mercredi. | I'm free on Wednesday.
+jeudi | Thursday | noun | m | /ʒø.di/ | On mange ensemble jeudi. | We're eating together on Thursday.
+vendredi | Friday | noun | m | /vɑ̃.dʁə.di/ | Je rentre vendredi. | I'm coming home on Friday.
+samedi | Saturday | noun | m | /sam.di/ | Je me repose samedi. | I'm resting on Saturday.
+dimanche | Sunday | noun | m | /di.mɑ̃ʃ/ | Je ne travaille pas le dimanche. | I don't work on Sundays.
+## Food and drinks
+pain | bread | noun | m | /pɛ̃/ | J'achète du pain. | I'm buying some bread. | pains
+eau | water | noun | f | /o/ | Je bois de l'eau. | I'm drinking water.
+café | coffee, café | noun | m | /ka.fe/ | Je prends un café. | I'll have a coffee. | cafés
+thé | tea | noun | m | /te/ | Je voudrais un thé. | I'd like a tea.
+lait | milk | noun | m | /lɛ/ | Je bois du lait. | I'm drinking milk.
+vin | wine | noun | m | /vɛ̃/ | Un verre de vin, s'il vous plaît. | A glass of wine, please.
+bière | beer | noun | f | /bjɛʁ/ | Une bière, s'il vous plaît. | A beer, please. | bières
+viande | meat | noun | f | /vjɑ̃d/ | Je ne mange pas de viande. | I don't eat meat.
+poisson | fish | noun | m | /pwa.sɔ̃/ | Le poisson est très bon. | The fish is very good.
+poulet | chicken | noun | m | /pu.lɛ/ | J'aime beaucoup le poulet. | I really like chicken.
+légume | vegetable | noun | m | /le.ɡym/ | Je mange des légumes. | I'm eating vegetables. | légumes
+fruit | fruit | noun | m | /fʁɥi/ | Je mange un fruit. | I'm eating a piece of fruit. | fruits
+pomme | apple | noun | f | /pɔm/ | Cette pomme est très bonne. | This apple is very good. | pommes
+fromage | cheese | noun | m | /fʁɔ.maʒ/ | J'adore le fromage. | I love cheese.
+sucre | sugar | noun | m | /sykʁ/ | Sans sucre, s'il vous plaît. | Without sugar, please.
+petit déjeuner | breakfast | noun | m | /pə.ti de.ʒœ.ne/ | Le petit déjeuner est prêt. | Breakfast is ready.
+déjeuner | lunch | noun | m | /de.ʒœ.ne/ | Le déjeuner est à midi. | Lunch is at noon.
+dîner | dinner | noun | m | /di.ne/ | On commence le dîner ? | Shall we start dinner?
+restaurant | restaurant | noun | m | /ʁɛs.to.ʁɑ̃/ | On va au restaurant ce soir. | We're going to a restaurant tonight. | restaurants
+addition | bill | noun | f | /a.di.sjɔ̃/ | L'addition est sur la table. | The bill is on the table.
+## Places
+maison | house, home | noun | f | /mɛ.zɔ̃/ | Ma maison est petite. | My house is small. | maisons
+appartement | flat, apartment | noun | m | /a.paʁ.tə.mɑ̃/ | J'habite dans un petit appartement. | I live in a small flat. | appartements
+ville | city, town | noun | f | /vil/ | J'aime cette ville. | I like this city. | villes
+rue | street | noun | f | /ʁy/ | J'habite dans cette rue. | I live on this street. | rues
+magasin | shop | noun | m | /ma.ɡa.zɛ̃/ | Le magasin est fermé. | The shop is closed. | magasins
+marché | market | noun | m | /maʁ.ʃe/ | Le marché est ouvert le samedi. | The market is open on Saturdays. | marchés
+banque | bank | noun | f | /bɑ̃k/ | La banque est fermée. | The bank is closed. | banques
+pharmacie | pharmacy | noun | f | /faʁ.ma.si/ | La pharmacie est ici. | The pharmacy is here. | pharmacies
+hôpital | hospital | noun | m | /o.pi.tal/ | L'hôpital est loin. | The hospital is far away.
+école | school | noun | f | /e.kɔl/ | L'école commence à huit heures. | School starts at eight o'clock. | écoles
+gare | train station | noun | f | /ɡaʁ/ | La gare est près d'ici. | The station is near here. | gares
+hôtel | hotel | noun | m | /o.tɛl/ | L'hôtel est très joli. | The hotel is very pretty. | hôtels
+toilettes | toilets | noun | f | /twa.lɛt/ | Les toilettes sont ici. | The toilets are here.
+pays | country | noun | m | /pe.i/ | J'aime beaucoup ce pays. | I really like this country.
+## Common verbs
+être | to be | verb | | /ɛtʁ/ | Je veux être médecin. | I want to be a doctor. | suis,es,est,sommes,êtes,sont,étais,était
+avoir | to have | verb | | /a.vwaʁ/ | Je voudrais avoir un chat. | I'd like to have a cat. | ai,as,a,avons,avez,ont
+aller | to go | verb | | /a.le/ | Je veux aller à Paris. | I want to go to Paris. | vais,vas,va,allons,allez,vont
+faire | to do, to make | verb | | /fɛʁ/ | Je vais faire un gâteau. | I'm going to make a cake. | fais,fait,faisons,faites,font
+vouloir | to want | verb | | /vu.lwaʁ/ | Je veux un café. | I want a coffee. | veux,veut,voulons,voulez,veulent,voudrais
+pouvoir | to be able to | verb | | /pu.vwaʁ/ | Je voudrais pouvoir venir. | I'd like to be able to come. | peux,peut,pouvons,pouvez,peuvent
+devoir | to have to | verb | | /də.vwaʁ/ | Tu vas devoir attendre. | You're going to have to wait. | dois,doit,devons,devez,doivent
+savoir | to know (a fact) | verb | | /sa.vwaʁ/ | Je veux savoir pourquoi. | I want to know why. | sais,sait,savons,savez,savent,savais
+connaître | to know (a person, a place) | verb | | /kɔ.nɛtʁ/ | Je veux connaître ta famille. | I want to get to know your family. | connais,connaît,connaissons,connaissez,connaissent
+parler | to speak | verb | | /paʁ.le/ | Je veux parler français. | I want to speak French. | parle,parles,parlons,parlez,parlent
+aimer | to like, to love | verb | | /e.me/ | Tu vas aimer ce film. | You're going to like this film. | aime,aimes,aimons,aimez,aiment
+manger | to eat | verb | | /mɑ̃.ʒe/ | Je veux manger maintenant. | I want to eat now. | mange,manges,mangeons,mangez,mangent,mangé
+boire | to drink | verb | | /bwaʁ/ | Tu veux boire de l'eau ? | Do you want to drink some water? | bois,boit,buvons,buvez,boivent
+travailler | to work | verb | | /tʁa.va.je/ | Je dois travailler demain. | I have to work tomorrow. | travaille,travailles,travaillons,travaillez,travaillent
+habiter | to live | verb | | /a.bi.te/ | Je veux habiter à Paris. | I want to live in Paris. | habite,habites,habitons,habitez,habitent
+venir | to come | verb | | /və.niʁ/ | Tu peux venir demain ? | Can you come tomorrow? | viens,vient,venons,venez,viennent
+prendre | to take | verb | | /pʁɑ̃dʁ/ | Je dois prendre le train. | I have to take the train. | prends,prend,prenons,prenez,prennent
+comprendre | to understand | verb | | /kɔ̃.pʁɑ̃dʁ/ | Je veux comprendre le français. | I want to understand French. | comprends,comprend,comprenons,comprenez,comprennent,compris
+dire | to say, to tell | verb | | /diʁ/ | Je veux dire merci. | I want to say thank you. | dis,dit,disons,dites,disent
+voir | to see | verb | | /vwaʁ/ | Je veux voir ce film. | I want to see this film. | vois,voit,voyons,voyez,voient,vu
+acheter | to buy | verb | | /aʃ.te/ | Je vais acheter une voiture. | I'm going to buy a car. | achète,achètes,achetons,achetez,achètent
+attendre | to wait | verb | | /a.tɑ̃dʁ/ | Je dois attendre ici. | I have to wait here. | attends,attend,attendons,attendez,attendent
+chercher | to look for | verb | | /ʃɛʁ.ʃe/ | Je cherche mon sac. | I'm looking for my bag. | cherche,cherches,cherchons,cherchez,cherchent
+trouver | to find | verb | | /tʁu.ve/ | Je dois trouver un travail. | I have to find a job. | trouve,trouves,trouvons,trouvez,trouvent
+dormir | to sleep | verb | | /dɔʁ.miʁ/ | Je veux dormir un peu. | I want to sleep a little. | dors,dort,dormons,dormez,dorment,dormi
+partir | to leave | verb | | /paʁ.tiʁ/ | Je dois partir à midi. | I have to leave at noon. | pars,part,partons,partez,partent
+rentrer | to go back home | verb | | /ʁɑ̃.tʁe/ | Je veux rentrer maintenant. | I want to go home now. | rentre,rentres,rentrons,rentrez,rentrent
+aider | to help | verb | | /e.de/ | Je peux aider ? | Can I help? | aide,aides,aidons,aidez,aident
+penser | to think | verb | | /pɑ̃.se/ | Je pense à toi. | I'm thinking of you. | pense,penses,pensons,pensez,pensent
+payer | to pay | verb | | /pe.je/ | Je veux payer maintenant. | I want to pay now. | paie,paies,payons,payez,paient
+## Adjectives
+grand | big, tall | adjective | | /ɡʁɑ̃/ | C'est une grande ville. | It's a big city. | grande,grands,grandes
+petit | small, little | adjective | | /pə.ti/ | C'est un petit café. | It's a small café. | petite,petits,petites
+bon | good | adjective | | /bɔ̃/ | C'est un bon film. | It's a good film. | bonne,bons,bonnes
+mauvais | bad | adjective | | /mɔ.vɛ/ | Ce café est mauvais. | This coffee is bad. | mauvaise,mauvaises
+beau | beautiful, handsome | adjective | | /bo/ | C'est un beau jardin. | It's a beautiful garden. | belle,beaux,belles
+nouveau | new | adjective | | /nu.vo/ | C'est mon nouveau téléphone. | It's my new phone. | nouvelle,nouveaux,nouvelles
+vieux | old | adjective | | /vjø/ | C'est un vieux livre. | It's an old book. | vieille,vieilles
+jeune | young | adjective | | /ʒœn/ | Elle est très jeune. | She is very young. | jeunes
+facile | easy | adjective | | /fa.sil/ | Ce n'est pas facile. | It isn't easy. | faciles
+difficile | difficult | adjective | | /di.fi.sil/ | Le français est difficile. | French is difficult. | difficiles
+cher | expensive | adjective | | /ʃɛʁ/ | Ce pull est cher. | This jumper is expensive. | chère,chers,chères
+libre | free, available | adjective | | /libʁ/ | Cette table est libre ? | Is this table free? | libres
+ouvert | open | adjective | | /u.vɛʁ/ | La banque est ouverte. | The bank is open. | ouverte,ouverts,ouvertes
+fermé | closed | adjective | | /fɛʁ.me/ | Le restaurant est fermé. | The restaurant is closed. | fermée,fermés,fermées
+rouge | red | adjective | | /ʁuʒ/ | J'ai une voiture rouge. | I have a red car. | rouges
+bleu | blue | adjective | | /blø/ | Ce pull est bleu. | This jumper is blue. | bleue,bleus,bleues
+blanc | white | adjective | | /blɑ̃/ | Je voudrais du vin blanc. | I'd like some white wine. | blanche,blancs,blanches
+noir | black | adjective | | /nwaʁ/ | Je bois du café noir. | I drink black coffee. | noire,noirs,noires
+## Everyday objects
+téléphone | phone | noun | m | /te.le.fɔn/ | Mon téléphone ne marche pas. | My phone isn't working. | téléphones
+clé | key | noun | f | /kle/ | Voici la clé. | Here is the key. | clés
+sac | bag | noun | m | /sak/ | Mon sac est là. | My bag is here. | sacs
+porte | door | noun | f | /pɔʁt/ | La porte est ouverte. | The door is open. | portes
+table | table | noun | f | /tabl/ | La table est grande. | The table is big. | tables
+chaise | chair | noun | f | /ʃɛz/ | Cette chaise est libre. | This chair is free. | chaises
+livre | book | noun | m | /livʁ/ | Je lis un livre. | I'm reading a book. | livres
+argent | money | noun | m | /aʁ.ʒɑ̃/ | Je n'ai pas d'argent. | I don't have any money.
+voiture | car | noun | f | /vwa.tyʁ/ | La voiture est devant la maison. | The car is in front of the house. | voitures
+ordinateur | computer | noun | m | /ɔʁ.di.na.tœʁ/ | Mon ordinateur est neuf. | My computer is new. | ordinateurs
+pull | jumper, sweater | noun | m | /pyl/ | J'ai un pull noir. | I have a black jumper. | pulls
+## Work
+travail | work, job | noun | m | /tʁa.vaj/ | J'ai un nouveau travail. | I have a new job.
+bureau | office, desk | noun | m | /by.ʁo/ | Je suis au bureau. | I'm at the office.
+collègue | colleague | noun | m,f | /kɔ.lɛɡ/ | C'est une collègue de travail. | She's a work colleague. | collègues
+chef | boss | noun | m,f | /ʃɛf/ | Le chef n'est pas là. | The boss isn't here. | chefs
+réunion | meeting | noun | f | /ʁe.y.njɔ̃/ | J'ai une réunion ce matin. | I have a meeting this morning. | réunions
+entreprise | company | noun | f | /ɑ̃.tʁə.pʁiz/ | C'est une petite entreprise. | It's a small company. | entreprises
+client | customer | noun | m | /kli.jɑ̃/ | Ce client est content. | This customer is happy. | clients,cliente,clientes
+professeur | teacher | noun | m,f | /pʁɔ.fɛ.sœʁ/ | Mon professeur parle lentement. | My teacher speaks slowly. | professeurs
+médecin | doctor | noun | m,f | /med.sɛ̃/ | Le médecin arrive. | The doctor is coming. | médecins
+## Transport
+train | train | noun | m | /tʁɛ̃/ | Le train arrive à midi. | The train arrives at noon. | trains
+bus | bus | noun | m | /bys/ | Je vais à l'école en bus. | I go to school by bus.
+métro | underground, metro | noun | m | /me.tʁo/ | Le métro est rapide. | The metro is fast.
+taxi | taxi | noun | m | /tak.si/ | Le taxi est là. | The taxi is here. | taxis
+vélo | bicycle | noun | m | /ve.lo/ | J'ai un vélo bleu. | I have a blue bicycle. | vélos
+billet | ticket | noun | m | /bi.jɛ/ | J'ai un billet de train. | I have a train ticket. | billets
+avion | plane | noun | m | /a.vjɔ̃/ | L'avion part à huit heures. | The plane leaves at eight o'clock. | avions
+arrêt | stop | noun | m | /a.ʁɛ/ | L'arrêt est tout près. | The stop is very close. | arrêts
+## Feelings
+content | happy, pleased | adjective | | /kɔ̃.tɑ̃/ | Elle est très contente. | She is very happy. | contente,contents,contentes
+triste | sad | adjective | | /tʁist/ | Pourquoi es-tu triste ? | Why are you sad? | tristes
+fatigué | tired | adjective | | /fa.ti.ɡe/ | Mon père est fatigué. | My father is tired. | fatiguée,fatigués,fatiguées
+malade | ill, sick | adjective | | /ma.lad/ | Mon fils est malade. | My son is ill. | malades
+faim | hunger | noun | f | /fɛ̃/ | Les enfants ont faim. | The children are hungry.
+soif | thirst | noun | f | /swaf/ | Tu as soif ? | Are you thirsty?
+peur | fear | noun | f | /pœʁ/ | Elle a peur du noir. | She's afraid of the dark.
+chaud | hot, warm | adjective | | /ʃo/ | Le café est chaud. | The coffee is hot. | chaude,chauds,chaudes
+froid | cold | adjective | | /fʁwa/ | Il fait froid ce matin. | It's cold this morning. | froide,froids,froides
+## Question words
+qui | who | question word | | /ki/ | Qui veut un café ? | Who wants a coffee?
+quoi | what | question word | | /kwa/ | Tu dis quoi ? | What are you saying?
+où | where | question word | | /u/ | Tu habites où ? | Where do you live?
+quand | when | question word | | /kɑ̃/ | Tu pars quand ? | When are you leaving?
+pourquoi | why | question word | | /puʁ.kwa/ | Pourquoi tu pars ? | Why are you leaving?
+comment | how | question word | | /kɔ.mɑ̃/ | Comment tu rentres ? | How are you getting home?
+combien | how much, how many | question word | | /kɔ̃.bjɛ̃/ | Tu veux combien de pommes ? | How many apples do you want?
+quel | which, what | question word | | /kɛl/ | Tu veux quel livre ? | Which book do you want? | quelle,quels,quelles
+## Prepositions
+à | to, at, in | preposition | | /a/ | Je vais à Paris. | I'm going to Paris.
+de | of, from | preposition | | /də/ | Je viens de Lyon. | I come from Lyon.
+en | in, by | preposition | | /ɑ̃/ | Je voyage en train. | I'm travelling by train.
+dans | in, inside | preposition | | /dɑ̃/ | Le chat est dans la maison. | The cat is in the house.
+sur | on | preposition | | /syʁ/ | Le livre est sur la chaise. | The book is on the chair.
+sous | under | preposition | | /su/ | Le sac est sous la table. | The bag is under the table.
+avec | with | preposition | | /a.vɛk/ | Je viens avec toi. | I'm coming with you.
+sans | without | preposition | | /sɑ̃/ | Je prends mon café sans lait. | I take my coffee without milk.
+pour | for | preposition | | /puʁ/ | C'est pour toi. | It's for you.
+chez | at someone's place | preposition | | /ʃe/ | Je suis chez moi. | I'm at home.
+devant | in front of | preposition | | /də.vɑ̃/ | Je suis devant la gare. | I'm in front of the station.
+derrière | behind | preposition | | /dɛ.ʁjɛʁ/ | La banque est derrière l'hôtel. | The bank is behind the hotel.
+près de | near | preposition | | /pʁɛ də/ | J'habite près de la gare. | I live near the station.
+loin de | far from | preposition | | /lwɛ̃ də/ | J'habite loin de Paris. | I live far from Paris.
+## Connectors
+et | and | conjunction | | /e/ | Un café et un thé, s'il vous plaît. | A coffee and a tea, please.
+ou | or | conjunction | | /u/ | Du thé ou du café ? | Tea or coffee?
+mais | but | conjunction | | /mɛ/ | Je veux venir, mais je ne peux pas. | I want to come, but I can't.
+parce que | because | conjunction | | /paʁs kə/ | Je rentre parce que je suis fatigué. | I'm going home because I'm tired.
+alors | so, then | adverb | | /a.lɔʁ/ | Alors, on y va ? | So, shall we go?
+aussi | also, too | adverb | | /o.si/ | Moi aussi, je veux un café. | I want a coffee too.
+très | very | adverb | | /tʁɛ/ | C'est très joli. | It's very pretty.
+beaucoup | a lot, much | adverb | | /bo.ku/ | J'aime beaucoup Paris. | I really like Paris.
+un peu | a little | adverb | | /œ̃ pø/ | Je parle un peu anglais. | I speak a little English.
+bien | well | adverb | | /bjɛ̃/ | Tu parles bien français. | You speak French well.
+ici | here | adverb | | /i.si/ | Je travaille ici. | I work here.
+là | there, here | adverb | | /la/ | Mon ami est là. | My friend is here.
+encore | again, still | adverb | | /ɑ̃.kɔʁ/ | Il est encore au travail. | He's still at work.
+toujours | always | adverb | | /tu.ʒuʁ/ | Il est toujours en retard. | He is always late.
+souvent | often | adverb | | /su.vɑ̃/ | Je vais souvent au marché. | I often go to the market.

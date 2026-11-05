@@ -1,0 +1,82 @@
+# TTS input respellings. These change only what the voice is given, never the text
+# shown to the learner. Each fixes a defect found by reading the phonemes:
+# a false liaison, a wrong silent letter, or formal linking in casual speech.
+# [[...]] is raw phoneme input. Keys: phrase id, word:<headword>, ex:<example sentence>.
+greeting-015 | Commente allez-vous ?
+everyday-011 | Tu a une minute ?
+everyday-026 | Tu parle anglais ?
+everyday-048 | Attan une minute.
+question-003 | Qui parle françè ici ?
+question-031 | Comment tu va au travail ?
+question-046 | Est-ce que je peu entrer ?
+question-047 | Est-ce que vous parlé anglais ?
+verb-015 | Je vè au marché.
+verb-016 | Tu va où ce soir ?
+verb-038 | Tu sè où il habite ?
+verb-044 | Nous parlons françè à la maison.
+verb-060 | Tu pran un café ?
+routine-007 | Je pran une douche.
+routine-015 | Je boi un café le matin.
+routine-017 | On [[deʒˈœn]] à midi.
+routine-021 | Je par au travail à huit heures.
+routine-022 | Je vè au travail en voiture.
+routine-023 | Je vè au bureau à vélo.
+routine-029 | Tu rentre à quelle heure ?
+routine-045 | Je fè une promenade après le dîner.
+work-007 | Elle est médsin.
+work-019 | Je travaille de [[nˈœv]] heure à dix-sept heures.
+work-026 | Tu a un moment ?
+work-031 | Je t'envoie un imèle.
+family-003 | Mes paran habite à Nice.
+family-010 | Je suis fisse unique.
+family-014 | Les enfants joue dehors.
+family-019 | Nous somme amis depuis longtemps.
+family-030 | Tu as des frère et sœurs ?
+food-021 | Deux pain au chocolat, s'il vous plaît.
+food-023 | Je pran un thé au lait.
+food-036 | Vous avez ce pul en bleu ?
+place-006 | C'est à cinq minute à pied.
+place-010 | Tourné à gauche.
+place-011 | Tourné à droite.
+place-031 | Je dessan au prochain arrêt.
+feeling-025 | J'ai besoin d'un médsin.
+time-003 | Il est huit heure et demie.
+time-004 | Il est dix heure et quart.
+time-014 | Je par en juillet.
+time-020 | J'ai rendez-vou à dix heures.
+time-026 | Le magasin ferme à vinte heures.
+spoken-010 | Tè où ?
+spoken-021 | Il [[ɛ]] où ?
+spoken-024 | Bain oui !
+spoken-034 | En fète, c'est facile.
+spoken-035 | Bon, bain, à demain.
+word:fils | fisse
+word:pull | pul
+word:médecin | médsin
+word:jeune | [[ʒˈœn]]
+ex:Attends une petite minute. | Attan une petite minute.
+ex:Je pars une semaine. | Je par une semaine.
+ex:Je pars en vacances ce mois-ci. | Je par en vacances ce mois-ci.
+ex:Hier, j'étais à Paris. | Hier, j'étè à Paris.
+ex:Je prends un café. | Je pran un café.
+ex:Je veux être médecin. | Je veu être médsin.
+ex:Je veux aller à Paris. | Je veu aller à Paris.
+ex:Je veux habiter à Paris. | Je veu habiter à Paris.
+ex:Je vais acheter une voiture. | Je vè acheter une voiture.
+ex:Je dois attendre ici. | Je doi attendre ici.
+ex:Je peux aider ? | Je peu aider ?
+ex:Tu vas aimer ce film. | Tu va aimer ce film.
+ex:Elle est très jeune. | Elle est très [[ʒˈœn]].
+ex:Le français est difficile. | Le françè est difficile.
+ex:Son mari est médecin. | Son mari est médsin.
+ex:Le médecin arrive. | Le médsin arrive.
+ex:Ce pull est cher. | Ce pul est cher.
+ex:Ce pull est bleu. | Ce pul est bleu.
+ex:J'ai un pull noir. | J'ai un pul noir.
+ex:Les enfants ont faim. | Les enfan ont faim.
+ex:Qui veut un café ? | Qui veu un café ?
+ex:Je vais à Paris. | Je vè à Paris.
+ex:Je vais à l'école en bus. | Je vè à l'école en bus.
+ex:Il est toujours en retard. | Il est toujour en retard.
+ex:Moi aussi, je veux un café. | Moi aussi, je veu un café.
+ex:Je veux un café. | Je veu un café.

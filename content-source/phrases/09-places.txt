@@ -1,0 +1,43 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Asking the way
+1 | Excusez-moi, où est la poste ? | Excuse me, where is the post office? | 1
+2 | Je cherche la gare. | I'm looking for the train station. | 1
+3 | Pour aller au centre-ville, s'il vous plaît ? | How do I get to the town centre, please? | 2
+4 | Comment je fais pour aller à l'aéroport ? | How do I get to the airport? | 2
+5 | C'est loin d'ici ? | Is it far from here? | 1
+6 | C'est à cinq minutes à pied. | It's five minutes' walk away. | 1
+7 | Je suis perdu. | I'm lost. | 1 | A woman writes "perdue". Both forms sound identical.
+8 | Il y a une banque par ici ? | Is there a bank around here? | 1 | | Y a une banque par ici ?
+## Directions
+9 | Allez tout droit. | Go straight ahead. | 1 | The t of "tout" is silent here.
+10 | Tournez à gauche. | Turn left. | 1
+11 | Tournez à droite. | Turn right. | 1
+12 | Prenez la deuxième rue à droite. | Take the second street on the right. | 2
+13 | Traversez la place. | Cross the square. | 2
+14 | Continuez jusqu'au feu. | Carry on as far as the traffic lights. | 3
+15 | C'est tout près. | It's very close. | 1
+## Describing locations
+16 | La pharmacie est à côté de la banque. | The pharmacy is next to the bank. | 1
+17 | Le restaurant est en face de l'hôtel. | The restaurant is opposite the hotel. | 2
+18 | Le café est au coin de la rue. | The café is on the corner of the street. | 2
+19 | Les toilettes sont en haut. | The toilets are upstairs. | 2 | The h of "haut" is aspirated, so there is no liaison after "en".
+20 | Mes clés sont sur la table. | My keys are on the table. | 1
+21 | Le chat est sous la voiture. | The cat is under the car. | 1
+22 | J'habite dans le centre. | I live in the centre. | 1
+23 | Nous sommes devant le musée. | We're in front of the museum. | 1
+24 | Je suis derrière toi. | I'm behind you. | 1
+## Public transport
+25 | Le prochain train part à quelle heure ? | What time does the next train leave? | 2
+26 | Je voudrais un billet pour Marseille. | I'd like a ticket to Marseille. | 1
+27 | Un aller-retour, s'il vous plaît. | A return ticket, please. | 2
+28 | Ce bus va à la gare ? | Does this bus go to the train station? | 1
+29 | Où est l'arrêt de bus ? | Where is the bus stop? | 1
+30 | Où est la station de métro ? | Where is the metro station? | 1
+31 | Je descends au prochain arrêt. | I'm getting off at the next stop. | 2
+32 | Le train est en retard. | The train is late. | 1
+## Getting around
+33 | Je vais prendre un taxi. | I'm going to take a taxi. | 1
+34 | On y va à pied ? | Shall we walk there? | 1 | "On y va" is linked: "on-n-y-va".
+35 | On prend le métro. | We're taking the metro. | 1
+36 | Tu peux m'envoyer l'adresse ? | Can you send me the address? | 2
+37 | Il y a beaucoup de monde ici. | There are a lot of people here. | 2 | | Y a beaucoup de monde ici.

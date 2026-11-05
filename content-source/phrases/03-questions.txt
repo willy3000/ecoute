@@ -1,0 +1,60 @@
+# n | french | english | difficulty 1-3 | pronunciation note | natural spoken alternative | register | linked id
+## Qui
+1 | Qui ? | Who? | 1
+2 | Qui est-ce ? | Who is it? | 1 | | C'est qui ?
+3 | Qui parle français ici ? | Who speaks French here? | 1
+4 | Avec qui tu travailles ? | Who do you work with? | 2 | Informal word order, very common in speech.
+5 | C'est à qui ? | Whose is it? | 2 | Also used in a queue to mean "Whose turn is it?"
+## Quoi et qu'est-ce que
+6 | Quoi ? | What? | 1 | Direct, even a little abrupt. "Pardon ?" is more polite.
+7 | Qu'est-ce que c'est ? | What is it? | 1 | | C'est quoi ?
+8 | Qu'est-ce que tu veux ? | What do you want? | 1 | | Tu veux quoi ?
+9 | Qu'est-ce que vous voulez boire ? | What would you like to drink? | 2
+10 | Qu'est-ce que tu manges ? | What are you eating? | 1 | | Tu manges quoi ?
+11 | À quoi tu penses ? | What are you thinking about? | 2
+## Où
+12 | Où ? | Where? | 1 | Sounds exactly like "ou" (or). The accent only appears in writing.
+13 | Où es-tu ? | Where are you? | 1 | | T'es où ?
+14 | Où est la gare ? | Where is the train station? | 1
+15 | Où sont les toilettes ? | Where are the toilets? | 1
+16 | Où est-ce que tu vas ? | Where are you going? | 2 | | Tu vas où ?
+17 | Où est-ce que vous travaillez ? | Where do you work? | 2
+18 | Où est-ce qu'on mange ce soir ? | Where are we eating tonight? | 2 | | On mange où ce soir ?
+## Quand
+19 | Quand ? | When? | 1 | The final d is silent here.
+20 | Tu arrives quand ? | When are you arriving? | 1 | Both vowels are pronounced: "tu-arrives". The d of "quand" is silent at the end of the sentence.
+21 | Quand est-ce que tu pars ? | When are you leaving? | 2 | The d of "quand" sounds like a t here: "quan-t-est-ce".
+22 | C'est quand, ton anniversaire ? | When is your birthday? | 1 | Liaison in "ton anniversaire": "ton-n-anniversaire".
+23 | Tu rentres quand ? | When are you coming home? | 1
+## Pourquoi
+24 | Pourquoi ? | Why? | 1
+25 | Pourquoi pas ? | Why not? | 1
+26 | Pourquoi tu dis ça ? | Why do you say that? | 1
+27 | Pourquoi est-ce que tu ne viens pas ? | Why aren't you coming? | 2 | | Pourquoi tu viens pas ?
+28 | Pourquoi tu apprends le français ? | Why are you learning French? | 2
+## Comment
+29 | Comment ? | How? | 1 | Also used to mean "Sorry, what did you say?"
+30 | Comment ça marche ? | How does it work? | 2
+31 | Comment tu vas au travail ? | How do you get to work? | 2
+32 | Comment est ta maison ? | What is your house like? | 2 | Asks for a description, not "how".
+33 | Comment ça s'écrit ? | How is that spelled? | 2
+## Combien
+34 | Combien ? | How much? | 1 | Also means "how many".
+35 | Combien ça coûte ? | How much does it cost? | 1 | | Ça coûte combien ?
+36 | Tu as combien de frères ? | How many brothers do you have? | 2
+37 | Vous êtes combien ? | How many of you are there? | 2 | Common question at a restaurant.
+## Quel âge et quel
+38 | Quel âge as-tu ? | How old are you? | 1 | "Quel" and "âge" run together: "quel-âge". | T'as quel âge ?
+39 | Quel âge a ton frère ? | How old is your brother? | 2
+40 | Quel jour sommes-nous ? | What day is it today? | 2 | | On est quel jour ?
+41 | Quelle est ton adresse ? | What is your address? | 1 | "Quel" and "quelle" sound the same.
+42 | Tu préfères quelle couleur ? | Which colour do you prefer? | 2
+## Est-ce que
+43 | Est-ce que tu es prêt ? | Are you ready? | 1 | "Est-ce que" sounds like "ess-kuh". A woman hears "prête", with the t pronounced. | Tu es prêt ?
+44 | Est-ce que tu as faim ? | Are you hungry? | 1 | | T'as faim ?
+45 | Est-ce que tu veux du café ? | Would you like some coffee? | 1
+46 | Est-ce que je peux entrer ? | May I come in? | 1 | | Je peux entrer ?
+47 | Est-ce que vous parlez anglais ? | Do you speak English? | 1
+48 | Est-ce que tu connais Paul ? | Do you know Paul? | 1
+49 | Est-ce qu'il y a une pharmacie près d'ici ? | Is there a pharmacy near here? | 2 | | Il y a une pharmacie près d'ici ?
+50 | Est-ce que c'est loin ? | Is it far? | 1 | | C'est loin ?
