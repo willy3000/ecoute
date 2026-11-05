@@ -22,19 +22,27 @@ async function fetchChecked(url: string): Promise<Response> {
 
 async function fetchBytes(url: string, onFraction: (f: number) => void): Promise<Uint8Array> {
   const res = await fetchChecked(url);
-  const total = Number(res.headers.get('content-length')) || 0;
-  if (!res.body || !total) return new Uint8Array(await res.arrayBuffer());
+  // With compression, Content-Length is the compressed size while the stream yields
+  // decompressed bytes. So it only ever estimates progress and never sizes a buffer.
+  const total = res.headers.get('content-encoding') ? 0 : Number(res.headers.get('content-length')) || 0;
+  if (!res.body) return new Uint8Array(await res.arrayBuffer());
   const reader = res.body.getReader();
-  const out = new Uint8Array(total);
+  const chunks: Uint8Array[] = [];
   let received = 0;
   for (;;) {
     const { done, value } = await reader.read();
     if (done) break;
-    out.set(value, received);
+    chunks.push(value);
     received += value.length;
-    onFraction(received / total);
+    if (total) onFraction(Math.min(1, received / total));
   }
-  return out.subarray(0, received);
+  const out = new Uint8Array(received);
+  let offset = 0;
+  for (const chunk of chunks) {
+    out.set(chunk, offset);
+    offset += chunk.length;
+  }
+  return out;
 }
 
 /** Adds what is missing and refreshes unedited built-in text. Learning progress is never touched. */

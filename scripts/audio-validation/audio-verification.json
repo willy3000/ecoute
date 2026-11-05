@@ -245,11 +245,12 @@
 "source": "Enchanté.",
 "technical": true,
 "problems": [],
-"seconds": 0.87,
+"seconds": 0.891,
 "peak": 0.439,
-"heard": "Enchantée.",
-"similarity": 0.941,
-"exact": false
+"heard": "Enchanté.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "greeting-022",
@@ -1205,11 +1206,12 @@
 "source": "Où est la gare ?",
 "technical": true,
 "problems": [],
-"seconds": 0.971,
+"seconds": 0.995,
 "peak": 0.346,
-"heard": "Ou à la gare.",
-"similarity": 0.846,
-"exact": false
+"heard": "Où est la gare ?",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "question-015",
@@ -2456,8 +2458,8 @@
 "seconds": 1.617,
 "peak": 0.432,
 "heard": "Je me réveille à 7 heures.",
-"similarity": 0.903,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "routine-002",
@@ -2888,8 +2890,8 @@
 "seconds": 1.363,
 "peak": 0.467,
 "heard": "Je me couche à 11 heures.",
-"similarity": 0.897,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "routine-038",
@@ -3305,11 +3307,12 @@
 "source": "Tu as un moment ?",
 "technical": true,
 "problems": [],
-"seconds": 0.869,
+"seconds": 0.911,
 "peak": 0.345,
-"heard": "Dis à maman.",
-"similarity": 0.462,
-"exact": false
+"heard": "Tu as un moment ?",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "work-027",
@@ -3677,11 +3680,12 @@
 "source": "Tu es marié ?",
 "technical": true,
 "problems": [],
-"seconds": 0.92,
+"seconds": 0.9,
 "peak": 0.466,
-"heard": "Tu es mariée.",
-"similarity": 0.957,
-"exact": false
+"heard": "Tu es marié.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "family-023",
@@ -3749,11 +3753,12 @@
 "source": "Ma famille habite loin.",
 "technical": true,
 "problems": [],
-"seconds": 1.471,
+"seconds": 1.392,
 "peak": 0.447,
-"heard": "Ma femme y habite loin.",
-"similarity": 0.818,
-"exact": false
+"heard": "Ma famille habite loin.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "family-029",
@@ -4073,11 +4078,12 @@
 "source": "Je prends un thé au lait.",
 "technical": true,
 "problems": [],
-"seconds": 1.308,
+"seconds": 1.384,
 "peak": 0.53,
-"heard": "Je prends un thé au laisse.",
-"similarity": 0.92,
-"exact": false
+"heard": "Je prends un thé au lait.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "food-024",
@@ -4277,11 +4283,12 @@
 "source": "Il n'y a plus de lait.",
 "technical": true,
 "problems": [],
-"seconds": 1.24,
+"seconds": 1.119,
 "peak": 0.478,
-"heard": "Il n'y a plus de laisse.",
-"similarity": 0.909,
-"exact": false
+"heard": "Il n'y a plus de lait.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "food-041",
@@ -4661,11 +4668,12 @@
 "source": "Où est la station de métro ?",
 "technical": true,
 "problems": [],
-"seconds": 1.427,
+"seconds": 1.521,
 "peak": 0.476,
-"heard": "ou à la station de métro.",
-"similarity": 0.92,
-"exact": false
+"heard": "Où est la station de métro ?",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "place-031",
@@ -4805,11 +4813,12 @@
 "source": "Je suis épuisé.",
 "technical": true,
 "problems": [],
-"seconds": 1.243,
+"seconds": 1.137,
 "peak": 0.438,
-"heard": "Je suis épuisée.",
-"similarity": 0.966,
-"exact": false
+"heard": "Je suis épuisé.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "feeling-006",
@@ -5309,11 +5318,12 @@
 "source": "Je ne travaille pas mardi.",
 "technical": true,
 "problems": [],
-"seconds": 1.368,
+"seconds": 1.34,
 "peak": 0.549,
-"heard": "J'ai un travail pas mardi.",
-"similarity": 0.84,
-"exact": false
+"heard": "Je ne travaille pas mardi.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "time-016",
@@ -5432,8 +5442,8 @@
 "seconds": 1.785,
 "peak": 0.477,
 "heard": "Le magasin ouvre à 9 heures.",
-"similarity": 0.909,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "time-026",
@@ -5477,11 +5487,12 @@
 "source": "Je sais pas.",
 "technical": true,
 "problems": [],
-"seconds": 0.87,
+"seconds": 0.882,
 "peak": 0.524,
-"heard": "Je ne sais pas.",
-"similarity": 0.88,
-"exact": false
+"heard": "Je sais pas.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "spoken-002",
@@ -5525,11 +5536,12 @@
 "source": "Je peux pas.",
 "technical": true,
 "problems": [],
-"seconds": 0.813,
+"seconds": 0.858,
 "peak": 0.565,
-"heard": "Je ne peux pas.",
-"similarity": 0.88,
-"exact": false
+"heard": "Je peux pas.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "spoken-006",
@@ -5561,11 +5573,12 @@
 "source": "Je sais pas trop.",
 "technical": true,
 "problems": [],
-"seconds": 1.048,
+"seconds": 1.096,
 "peak": 0.461,
-"heard": "Je ne sais pas trop.",
-"similarity": 0.914,
-"exact": false
+"heard": "Je sais pas trop.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "spoken-009",
@@ -5729,11 +5742,12 @@
 "source": "Ouais.",
 "technical": true,
 "problems": [],
-"seconds": 0.606,
+"seconds": 0.579,
 "peak": 0.379,
-"heard": "O.R.",
-"similarity": 0.25,
-"exact": false
+"heard": "Ouais.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "spoken-023",
@@ -5933,11 +5947,12 @@
 "source": "Désolé, je savais pas.",
 "technical": true,
 "problems": [],
-"seconds": 1.681,
+"seconds": 1.706,
 "peak": 0.448,
-"heard": "Désolé, je ne savais pas.",
-"similarity": 0.93,
-"exact": false
+"heard": "Désolé, je savais pas.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "spoken-040",
@@ -6401,11 +6416,12 @@
 "source": "ami",
 "technical": true,
 "problems": [],
-"seconds": 0.592,
+"seconds": 0.629,
 "peak": 0.435,
-"heard": "Amique.",
-"similarity": 0.667,
-"exact": false
+"heard": "Ami.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-014-ex",
@@ -6449,11 +6465,12 @@
 "source": "père",
 "technical": true,
 "problems": [],
-"seconds": 0.557,
+"seconds": 0.544,
 "peak": 0.316,
-"heard": "R",
-"similarity": 0.4,
-"exact": false
+"heard": "Père",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-016-ex",
@@ -6593,11 +6610,12 @@
 "source": "fille",
 "technical": true,
 "problems": [],
-"seconds": 0.74,
+"seconds": 0.717,
 "peak": 0.325,
-"heard": "Phi",
-"similarity": 0.25,
-"exact": false
+"heard": "Fille.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-022-ex",
@@ -6689,11 +6707,12 @@
 "source": "un",
 "technical": true,
 "problems": [],
-"seconds": 0.568,
+"seconds": 0.49,
 "peak": 0.341,
-"heard": "Ah.",
-"similarity": 0.0,
-"exact": false
+"heard": "1",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-026-ex",
@@ -6728,8 +6747,8 @@
 "seconds": 1.069,
 "peak": 0.394,
 "heard": "Il est 2 heures.",
-"similarity": 0.857,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "vocab-028",
@@ -6848,8 +6867,8 @@
 "seconds": 1.344,
 "peak": 0.466,
 "heard": "Je me lève à 7 heures.",
-"similarity": 0.889,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "vocab-033",
@@ -6872,8 +6891,8 @@
 "seconds": 1.093,
 "peak": 0.376,
 "heard": "Il est 8 heures.",
-"similarity": 0.857,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "vocab-034",
@@ -6977,11 +6996,12 @@
 "source": "heure",
 "technical": true,
 "problems": [],
-"seconds": 0.604,
+"seconds": 0.617,
 "peak": 0.327,
-"heard": "Oeuvre.",
-"similarity": 0.727,
-"exact": false
+"heard": "Heure.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-038-ex",
@@ -7001,11 +7021,12 @@
 "source": "minute",
 "technical": true,
 "problems": [],
-"seconds": 0.867,
+"seconds": 0.874,
 "peak": 0.298,
-"heard": "Minutes.",
-"similarity": 0.923,
-"exact": false
+"heard": "Minute.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-039-ex",
@@ -7337,11 +7358,12 @@
 "source": "tard",
 "technical": true,
 "problems": [],
-"seconds": 0.616,
+"seconds": 0.649,
 "peak": 0.412,
-"heard": "TAR",
-"similarity": 0.857,
-"exact": false
+"heard": "Tard.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-053-ex",
@@ -7817,11 +7839,12 @@
 "source": "pomme",
 "technical": true,
 "problems": [],
-"seconds": 0.568,
+"seconds": 0.621,
 "peak": 0.431,
-"heard": "Bum.",
-"similarity": 0.25,
-"exact": false
+"heard": "Pomme.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-073-ex",
@@ -8240,8 +8263,8 @@
 "seconds": 1.764,
 "peak": 0.419,
 "heard": "L'école commence à 8 heures.",
-"similarity": 0.909,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "vocab-091",
@@ -8369,11 +8392,12 @@
 "source": "avoir",
 "technical": true,
 "problems": [],
-"seconds": 0.798,
+"seconds": 0.897,
 "peak": 0.438,
-"heard": "A voir.",
-"similarity": 0.909,
-"exact": false
+"heard": "Avoir.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-096-ex",
@@ -8657,11 +8681,12 @@
 "source": "travailler",
 "technical": true,
 "problems": [],
-"seconds": 0.77,
+"seconds": 0.834,
 "peak": 0.457,
-"heard": "Travaillez.",
-"similarity": 0.9,
-"exact": false
+"heard": "Travailler",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-108-ex",
@@ -8825,11 +8850,12 @@
 "source": "acheter",
 "technical": true,
 "problems": [],
-"seconds": 0.775,
+"seconds": 0.766,
 "peak": 0.493,
-"heard": "H.T.",
-"similarity": 0.4,
-"exact": false
+"heard": "acheter",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-115-ex",
@@ -9041,11 +9067,12 @@
 "source": "payer",
 "technical": true,
 "problems": [],
-"seconds": 0.62,
+"seconds": 0.625,
 "peak": 0.345,
-"heard": "Payé.",
-"similarity": 0.889,
-"exact": false
+"heard": "Payer",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-124-ex",
@@ -9089,11 +9116,12 @@
 "source": "petit",
 "technical": true,
 "problems": [],
-"seconds": 0.644,
+"seconds": 0.671,
 "peak": 0.536,
-"heard": "E.T.",
-"similarity": 0.5,
-"exact": false
+"heard": "Petit",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-126-ex",
@@ -9233,11 +9261,12 @@
 "source": "jeune",
 "technical": true,
 "problems": [],
-"seconds": 0.693,
+"seconds": 0.734,
 "peak": 0.371,
-"heard": "Jeanne.",
-"similarity": 0.727,
-"exact": false
+"heard": "Jeune.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-132-ex",
@@ -9425,11 +9454,12 @@
 "source": "bleu",
 "technical": true,
 "problems": [],
-"seconds": 0.52,
+"seconds": 0.636,
 "peak": 0.31,
-"heard": "Plus.",
-"similarity": 0.5,
-"exact": false
+"heard": "Bleu",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-140-ex",
@@ -9437,11 +9467,12 @@
 "source": "Ce pull est bleu.",
 "technical": true,
 "problems": [],
-"seconds": 1.056,
+"seconds": 0.978,
 "peak": 0.398,
-"heard": "Ce pile est bleu.",
-"similarity": 0.875,
-"exact": false
+"heard": "Ce pull est bleu.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-141",
@@ -9569,11 +9600,12 @@
 "source": "porte",
 "technical": true,
 "problems": [],
-"seconds": 0.71,
+"seconds": 0.514,
 "peak": 0.629,
-"heard": "BORS",
-"similarity": 0.444,
-"exact": false
+"heard": "Porte.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-146-ex",
@@ -9785,11 +9817,12 @@
 "source": "bureau",
 "technical": true,
 "problems": [],
-"seconds": 0.709,
+"seconds": 0.735,
 "peak": 0.327,
-"heard": "Buvo",
-"similarity": 0.4,
-"exact": false
+"heard": "Bureau",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-155-ex",
@@ -10001,11 +10034,12 @@
 "source": "bus",
 "technical": true,
 "problems": [],
-"seconds": 0.734,
+"seconds": 0.706,
 "peak": 0.302,
-"heard": "Muses",
-"similarity": 0.5,
-"exact": false
+"heard": "BUS",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-164-ex",
@@ -10136,8 +10170,8 @@
 "seconds": 1.615,
 "peak": 0.433,
 "heard": "L'avion part à 8 heures.",
-"similarity": 0.897,
-"exact": false
+"similarity": 1.0,
+"exact": true
 },
 {
 "id": "vocab-170",
@@ -10385,11 +10419,12 @@
 "source": "qui",
 "technical": true,
 "problems": [],
-"seconds": 0.512,
+"seconds": 0.464,
 "peak": 0.305,
-"heard": "Dix.",
-"similarity": 0.333,
-"exact": false
+"heard": "Qui ?",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-180-ex",
@@ -10433,11 +10468,12 @@
 "source": "où",
 "technical": true,
 "problems": [],
-"seconds": 0.527,
+"seconds": 0.603,
 "peak": 0.287,
-"heard": "Oups.",
-"similarity": 0.667,
-"exact": false
+"heard": "ou",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-182-ex",
@@ -10577,11 +10613,12 @@
 "source": "à",
 "technical": true,
 "problems": [],
-"seconds": 0.548,
+"seconds": 0.431,
 "peak": 0.294,
-"heard": "Ah !",
-"similarity": 0.667,
-"exact": false
+"heard": "A",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-188-ex",
@@ -10649,11 +10686,12 @@
 "source": "dans",
 "technical": true,
 "problems": [],
-"seconds": 0.559,
+"seconds": 0.6,
 "peak": 0.506,
-"heard": "Donc,",
-"similarity": 0.5,
-"exact": false
+"heard": "Dans",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-191-ex",
@@ -10697,11 +10735,12 @@
 "source": "sous",
 "technical": true,
 "problems": [],
-"seconds": 0.622,
+"seconds": 0.66,
 "peak": 0.382,
-"heard": "Sous-titrage ST' 501",
-"similarity": 0.348,
-"exact": false
+"heard": "Sous.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-193-ex",
@@ -11057,11 +11096,12 @@
 "source": "très",
 "technical": true,
 "problems": [],
-"seconds": 0.63,
+"seconds": 0.612,
 "peak": 0.405,
-"heard": "SREI",
-"similarity": 0.5,
-"exact": false
+"heard": "Très.",
+"similarity": 1.0,
+"exact": true,
+"retake": true
 },
 {
 "id": "vocab-208-ex",

@@ -101,8 +101,13 @@
 },
 "greeting-021": {
 "digest": "e522405c1db7a9d5b53c6f027c9588228e0a14c2",
-"seconds": 0.87,
-"attempts": 1
+"seconds": 0.891,
+"attempts": 1,
+"take": {
+"noise": 0.5,
+"noiseW": 0.6,
+"length": 1.05
+}
 },
 "greeting-022": {
 "digest": "bab429dbb800a47f233cf10e583909975b2fffa6",
@@ -501,8 +506,13 @@
 },
 "question-014": {
 "digest": "cefd252d8b7228997ed18b9b8ff15b2d21786b21",
-"seconds": 0.971,
-"attempts": 1
+"seconds": 0.995,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "question-015": {
 "digest": "d0b0e97c7907d0167d76e9a9dfc22002bb499f54",
@@ -1376,8 +1386,13 @@
 },
 "work-026": {
 "digest": "3c510ca821ee166e875662420281497526e6b117",
-"seconds": 0.869,
-"attempts": 1
+"seconds": 0.911,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "work-027": {
 "digest": "c99f2d454284c22d5dd9704ce48cdd6fb9269134",
@@ -1531,8 +1546,13 @@
 },
 "family-022": {
 "digest": "2c070cbe07b986b45535ca3a052fd5e5bbd7de3b",
-"seconds": 0.92,
-"attempts": 1
+"seconds": 0.9,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "family-023": {
 "digest": "22634a23afb96997efa903abc3aa99da1b59a912",
@@ -1561,8 +1581,13 @@
 },
 "family-028": {
 "digest": "6b7e2b3f175cd3f867d51fc5e085919b2d397942",
-"seconds": 1.471,
-"attempts": 1
+"seconds": 1.392,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "family-029": {
 "digest": "94db55025bb3b366b6129ae76d4a2d8c47b0c6de",
@@ -1696,8 +1721,13 @@
 },
 "food-023": {
 "digest": "f0b03171afcee31bcb481453b756ef5561df554d",
-"seconds": 1.307,
-"attempts": 1
+"seconds": 1.384,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "food-024": {
 "digest": "27deb030bd5b361626b9191d3d60e32091a845c5",
@@ -1781,8 +1811,13 @@
 },
 "food-040": {
 "digest": "df1b1dac765292a7cf940a3c1f1552b9ea57ec0a",
-"seconds": 1.24,
-"attempts": 1
+"seconds": 1.119,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "food-041": {
 "digest": "76d00b4f19ff037588e2a0a00641f804bce4f30d",
@@ -1941,8 +1976,13 @@
 },
 "place-030": {
 "digest": "ed4638e316df031aa598ab80ee8b62313f7a08bb",
-"seconds": 1.427,
-"attempts": 1
+"seconds": 1.521,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.1
+}
 },
 "place-031": {
 "digest": "dd51f3f1e7dd9eefb0c891139fc290d082654272",
@@ -2001,8 +2041,13 @@
 },
 "feeling-005": {
 "digest": "05bd692cfa2e9c83d192f109d5c2f934c23934a0",
-"seconds": 1.243,
-"attempts": 1
+"seconds": 1.137,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.05
+}
 },
 "feeling-006": {
 "digest": "5c8bf02d56083064cd8e1c9593dfd87528a11820",
@@ -2211,8 +2256,13 @@
 },
 "time-015": {
 "digest": "34c4b6f9871358bfb68cfccb0025cc673646f380",
-"seconds": 1.368,
-"attempts": 1
+"seconds": 1.34,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "time-016": {
 "digest": "83eee153b2ed899d995028fb49a99e9116ad865a",
@@ -2281,8 +2331,13 @@
 },
 "spoken-001": {
 "digest": "c318cd01977881af1ae6c1c4f1932cf4b6973a6b",
-"seconds": 0.869,
-"attempts": 1
+"seconds": 0.882,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "spoken-002": {
 "digest": "6736447c98c760fafd925d52923ce63f85f61e0f",
@@ -2301,8 +2356,13 @@
 },
 "spoken-005": {
 "digest": "6cf97f49a079b92056e6739957a3b998e83b8ba9",
-"seconds": 0.813,
-"attempts": 1
+"seconds": 0.858,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "spoken-006": {
 "digest": "07e881347a2f9450ac0feaf105292ff32316ae2a",
@@ -2316,8 +2376,13 @@
 },
 "spoken-008": {
 "digest": "dc96d571762a1746d6127bec873d3d98d912ca6d",
-"seconds": 1.048,
-"attempts": 1
+"seconds": 1.096,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "spoken-009": {
 "digest": "98605b324c40d81b403e9f5e1bccf8f79840c8fc",
@@ -2386,8 +2451,13 @@
 },
 "spoken-022": {
 "digest": "8e54a24273c7d781f0444f1703caed073039d916",
-"seconds": 0.606,
-"attempts": 1
+"seconds": 0.579,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "spoken-023": {
 "digest": "b5731bb0597e410aa914820c971d5a2a4e3b4b49",
@@ -2471,8 +2541,13 @@
 },
 "spoken-039": {
 "digest": "ce2fdfefbca42f68e28fc49753b2149122ca6e1c",
-"seconds": 1.681,
-"attempts": 1
+"seconds": 1.706,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "spoken-040": {
 "digest": "eeabbd5e5e773108daceea02938c34750a56c016",
@@ -2666,8 +2741,13 @@
 },
 "vocab-014": {
 "digest": "519902d4d850872cb6d6a04745c6ffea91721740",
-"seconds": 0.592,
-"attempts": 1
+"seconds": 0.629,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-014-ex": {
 "digest": "ecf46d3f96cd8bdfe25aaa5c3d8a13b5979f4e61",
@@ -2686,8 +2766,13 @@
 },
 "vocab-016": {
 "digest": "f7cb1f68a4d966a43b406eab29ff7dfb3997a306",
-"seconds": 0.557,
-"attempts": 1
+"seconds": 0.544,
+"attempts": 1,
+"take": {
+"noise": 0.5,
+"noiseW": 0.6,
+"length": 1.0
+}
 },
 "vocab-016-ex": {
 "digest": "fda47afe69ed0d62721205c84d799e4deeaf1aa2",
@@ -2746,8 +2831,13 @@
 },
 "vocab-022": {
 "digest": "b714ebb17d951ebf60e1e16d0a3d27957bf1e699",
-"seconds": 0.74,
-"attempts": 1
+"seconds": 0.717,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-022-ex": {
 "digest": "9364fc9daa8011c71f09dd7aa4e63c47fcb2e725",
@@ -2786,8 +2876,13 @@
 },
 "vocab-026": {
 "digest": "dd3bc42b2cbba792a371118cd1c87384c107bf6c",
-"seconds": 0.567,
-"attempts": 1
+"seconds": 0.49,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-026-ex": {
 "digest": "b473e99555a3aa886544b22edf8c8d1c0b3931fd",
@@ -2906,8 +3001,13 @@
 },
 "vocab-038": {
 "digest": "0d4da47fa26ba903290adbdc5e3772136229b93f",
-"seconds": 0.604,
-"attempts": 1
+"seconds": 0.617,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-038-ex": {
 "digest": "d5fec571c36939f7c345011bd61fef4cc57a62e5",
@@ -2916,8 +3016,13 @@
 },
 "vocab-039": {
 "digest": "04987fcab72ade3a87a64267b02a2ad9f8f22484",
-"seconds": 0.867,
-"attempts": 1
+"seconds": 0.874,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-039-ex": {
 "digest": "7c46b506111a27caf22eb62be0eafee21947d465",
@@ -3056,8 +3161,13 @@
 },
 "vocab-053": {
 "digest": "9473d93666ab8c41596d738ba1fc36297f6904c8",
-"seconds": 0.616,
-"attempts": 1
+"seconds": 0.649,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-053-ex": {
 "digest": "910d7c60be1ee14eed43311ee6b032613e68f8c1",
@@ -3256,8 +3366,13 @@
 },
 "vocab-073": {
 "digest": "752c14ea195c460bac3c3b7896975ee9fd15eeb7",
-"seconds": 0.568,
-"attempts": 1
+"seconds": 0.621,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-073-ex": {
 "digest": "22e2b6bc2e2712c68edec14e89596794e98f4962",
@@ -3486,8 +3601,13 @@
 },
 "vocab-096": {
 "digest": "00300ba47858d9c515585a49af2c2cbfb6b67773",
-"seconds": 0.798,
-"attempts": 1
+"seconds": 0.897,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.05
+}
 },
 "vocab-096-ex": {
 "digest": "f2e8eb1ff2adf9d1e025e7577a34c67011191441",
@@ -3606,8 +3726,13 @@
 },
 "vocab-108": {
 "digest": "faa00b144e1908aedc39345ed84a7e7c5f6d8282",
-"seconds": 0.77,
-"attempts": 1
+"seconds": 0.834,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-108-ex": {
 "digest": "a649a9326b3e32891dacc9bba6ea395912365884",
@@ -3676,8 +3801,13 @@
 },
 "vocab-115": {
 "digest": "beb2029cbbb54374e7038376d3f89d07e9b31a8c",
-"seconds": 0.775,
-"attempts": 1
+"seconds": 0.766,
+"attempts": 1,
+"take": {
+"noise": 0.4,
+"noiseW": 0.5,
+"length": 1.1
+}
 },
 "vocab-115-ex": {
 "digest": "9b50d69462722272263413974ef4c93ee74f8f16",
@@ -3766,8 +3896,13 @@
 },
 "vocab-124": {
 "digest": "63ef7a06389e04a01d4a9d57f96e71ccb2674015",
-"seconds": 0.62,
-"attempts": 1
+"seconds": 0.625,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.05
+}
 },
 "vocab-124-ex": {
 "digest": "fb9e327dea1cfc31e26e478e45a1ef46c56db749",
@@ -3786,8 +3921,13 @@
 },
 "vocab-126": {
 "digest": "0f6878f15aa49a61c4b252e083a159e42d150a43",
-"seconds": 0.644,
-"attempts": 1
+"seconds": 0.671,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-126-ex": {
 "digest": "ad29e053cbfe70b51409d5b7a7938683f4c28b7e",
@@ -3846,8 +3986,13 @@
 },
 "vocab-132": {
 "digest": "3d148dc70eca5a8676a65b258d21f71e415112f2",
-"seconds": 0.693,
-"attempts": 1
+"seconds": 0.734,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-132-ex": {
 "digest": "1e81928040e45d960cb6bdda94b359f042b2bfb9",
@@ -3926,13 +4071,23 @@
 },
 "vocab-140": {
 "digest": "2dae5f350d5702b3ab80c8e5a9d95393ef66e62e",
-"seconds": 0.52,
-"attempts": 1
+"seconds": 0.636,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-140-ex": {
 "digest": "f4653b1c899b4140f640b3f9838581dff884b8a2",
-"seconds": 1.056,
-"attempts": 1
+"seconds": 0.978,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-141": {
 "digest": "f03c555231162e53b85b0e2dff6519997097fc22",
@@ -3986,8 +4141,13 @@
 },
 "vocab-146": {
 "digest": "675c42101074fc6b1913540793915d9b4b2a0373",
-"seconds": 0.71,
-"attempts": 1
+"seconds": 0.514,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.05
+}
 },
 "vocab-146-ex": {
 "digest": "f84d85a724aa5426d3bf4821d8f0dcaad187e736",
@@ -4076,8 +4236,13 @@
 },
 "vocab-155": {
 "digest": "fe22b520f90a2dd8b68b89949ce4653ed9353c9e",
-"seconds": 0.709,
-"attempts": 1
+"seconds": 0.735,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-155-ex": {
 "digest": "e29b14957270fb54099f4e3615f108a6f0148b03",
@@ -4166,8 +4331,13 @@
 },
 "vocab-164": {
 "digest": "32c70cebf110eedb8637b5e875a6c94f1ef6e8c5",
-"seconds": 0.734,
-"attempts": 1
+"seconds": 0.706,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-164-ex": {
 "digest": "2c03bb79d81429084d4bf297d0b540937600a9ca",
@@ -4326,8 +4496,13 @@
 },
 "vocab-180": {
 "digest": "61f611a4fd585e96d518c703dc7dcdeec8354e1c",
-"seconds": 0.512,
-"attempts": 1
+"seconds": 0.464,
+"attempts": 1,
+"take": {
+"noise": 0.8,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-180-ex": {
 "digest": "51976f11cdd310835e7bc8910b370696067cc775",
@@ -4346,8 +4521,13 @@
 },
 "vocab-182": {
 "digest": "47bb7acd4dd89ccd4082f8618e204a8969bc2dd2",
-"seconds": 0.527,
-"attempts": 1
+"seconds": 0.603,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-182-ex": {
 "digest": "de8d24e94df525c88c2e992214af0792a8a1e4c6",
@@ -4406,8 +4586,13 @@
 },
 "vocab-188": {
 "digest": "c34f17a35b85200cd6a728eff800878d2a898a3a",
-"seconds": 0.548,
-"attempts": 1
+"seconds": 0.431,
+"attempts": 1,
+"take": {
+"noise": 0.5,
+"noiseW": 0.6,
+"length": 1.0
+}
 },
 "vocab-188-ex": {
 "digest": "a3ceaf831e779e31ce400068909124cc2a5ea6b9",
@@ -4436,8 +4621,13 @@
 },
 "vocab-191": {
 "digest": "d2c149c49f4797e1654bf7b0f33bfdd15df55977",
-"seconds": 0.559,
-"attempts": 1
+"seconds": 0.6,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-191-ex": {
 "digest": "f0819c4cf9083584fcdf79bc868a239e8895b8fb",
@@ -4456,8 +4646,13 @@
 },
 "vocab-193": {
 "digest": "c42f1b72ae17298564481fde33fa9f04febb1605",
-"seconds": 0.621,
-"attempts": 1
+"seconds": 0.66,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.1
+}
 },
 "vocab-193-ex": {
 "digest": "4aafb9e5c0fe548a54bb43f9f42d50701f1c0935",
@@ -4606,8 +4801,13 @@
 },
 "vocab-208": {
 "digest": "48697b1ebf645175e2ede654e62ef956168746ca",
-"seconds": 0.63,
-"attempts": 1
+"seconds": 0.612,
+"attempts": 1,
+"take": {
+"noise": 0.667,
+"noiseW": 0.8,
+"length": 1.0
+}
 },
 "vocab-208-ex": {
 "digest": "dd41c118a0001530782ff6f710833fdabf366dc6",

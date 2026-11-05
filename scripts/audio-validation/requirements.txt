@@ -1,0 +1,6 @@
+# Install CUDA PyTorch first, because faster-whisper uses its GPU libraries:
+#   pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+piper-tts
+faster-whisper
+imageio-ffmpeg
+numpy

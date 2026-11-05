@@ -1,10 +1,10 @@
 # Écoute
 
-A personal French listening studio. It runs entirely in the browser with no backend or account, and it works offline after the first launch.
+A personal French listening studio with 507 phrases, 216 vocabulary words and 939 recordings. It runs entirely in the browser with no backend or account, and it works offline after the first launch.
 
 ## Setup
 
-You need [Node.js](https://nodejs.org) 24 or newer.
+You need [Node.js](https://nodejs.org). It has been tested on version 24.
 
 ```bash
 npm install
@@ -14,9 +14,23 @@ npm run preview
 
 Open <http://localhost:4173>. On first launch the app installs its whole library into the browser, which takes a few seconds and needs no action from you. After that it works offline.
 
+For development with live reload, run `npm run dev` instead.
+
 To install it as an app, use the install icon in the Chrome or Edge address bar. On a phone, use "Add to Home Screen". Phones need the app served over HTTPS, so install from a deployed copy rather than from localhost.
 
-For development with live reload, run `npm run dev`.
+## Deploying
+
+Any static host works. On Netlify, use the build command `npm run build` and the publish directory `dist`.
+
+## Documentation
+
+| Document | Contents |
+|---|---|
+| [User guide](docs/user-guide.md) | Using the app, adding phrases and recordings, backup and restore |
+| [Architecture](docs/architecture.md) | How the app is built |
+| [Content generation](docs/content-generation.md) | How the French and audio were made, and how to rebuild them |
+| [Audio manifest](docs/audio-manifest.md) | Recording statuses, and the 25 to check by ear |
+| [Testing report](docs/testing-report.md) | What was tested, and what wasn't |
 
 ## Tests
 
@@ -27,15 +41,8 @@ npm run build
 npm run test:e2e       # browser tests, using your installed Chrome
 ```
 
-## Rebuilding content and audio
+## Known limitations
 
-You only need this if you change the French content. Normal use and the setup above don't require Python.
-
-| Step | Command |
-|---|---|
-| Validate `content-source/` and write the library | `npm run content:build` |
-| Generate recordings | `python scripts/audio-validation/generate_audio.py <voice.onnx> .` |
-| Check and transcribe recordings | `python scripts/audio-validation/verify_audio.py <models_dir> .` |
-| Build the audio package | `npm run content:package` |
-
-The audio scripts need Python 3.12 with `piper-tts`, `faster-whisper`, `imageio-ffmpeg` and `numpy`, plus the `fr_FR-siwis-medium` voice from [rhasspy/piper-voices](https://huggingface.co/rhasspy/piper-voices).
+- Nobody has listened to the recordings yet, and 25 are flagged for checking by ear.
+- The French was written and reviewed by AI, not by a native speaker.
+- It has only been tested in Chrome. Safari and real phones are untested.

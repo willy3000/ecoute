@@ -32,7 +32,7 @@ NUMBERS = {"1": "un", "2": "deux", "3": "trois", "4": "quatre", "5": "cinq", "6"
 
 def norm(text: str) -> str:
     text = text.lower().replace("œ", "oe").replace("’", " ").replace("'", " ")
-    text = re.sub(r"(\d+)\s*h\s*(\d*)", lambda m: f"{m[1]} heures {m[2]}", text)
+    text = re.sub(r"(\d+)\s*h(?![a-z])\s*(\d*)", lambda m: f"{m[1]} heures {m[2]}", text)
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
     words = re.sub(r"[^a-z0-9]+", " ", text).split()
